@@ -40,6 +40,9 @@ updater = Updater(token='609569578:AAELG9EulmmOJTYY8L1zgM7Oqcuf9Q3bHAc')
 dispatcher = updater.dispatcher
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
+
+#### EDIT CODES HERE ####
+
 def getRandomNumber():
     random_number = random.randint(min_range,max_range)
     #print(random_number)
@@ -61,7 +64,7 @@ def getWordSets(number):
 def start(bot, update):
     global onGoing
 
-    bot.send_message(chat_id=update.message.chat_id, text="LINGVON beta 0.0.7")
+    bot.send_message(chat_id=update.message.chat_id, text="LINGVON beta 0.0.8")
 
     onGoing = False
     
@@ -105,29 +108,31 @@ def bot_main(bot, update):
     else:
         #LEAVE IT AS IT IS
         if(onGoing == True):
-            if(words[str(userInput[0])]['english'] == words[str(answer_number)]['english']):
+            userInput = " ".join(userInput)
+            if(str(userInput) == str(words[str(answer_number)]['english']).lower()):
                 streaks = streaks + 1
                 eval(showTyping())
                 bot.send_message(chat_id=update.message.chat_id, text=str("👍 CORRECT 👍"))
                 onGoing = False
-            else:  
+            else:
                 bot.send_message(chat_id=update.message.chat_id, text=str("😓 WRONG 😓"))
-                bot.send_message(chat_id=update.message.chat_id, text=str("\n* \"" + words[str(userInput[0])]['english'] + '\" means \"' + words[str(userInput[0])]['french']+ "\" *"))
+                for i in words:
+                    if (words[i]['english'] == userInput):
+                        bot.send_message(chat_id=update.message.chat_id, text=str("\n* \"" + str(userInput) + '\" is \"' + str(words[i]['french'])+ "\" in french *"))
                 streaks = 0
 
         if(onGoing == False):
             onGoing = True
-            msg = ""
             words = getWordSets(4)
             answer_number = random.randint(1,4)
 
-            bot.send_message(chat_id=update.message.chat_id, text=("#" + str(words[str(answer_number)]['number']) + " * LVL. " + str(level) + " FRA) WORD : \"" + words[str(answer_number)]['french'] + "\" *"))
+            bot.send_message(chat_id=update.message.chat_id, text=("#" + str(words[str(answer_number)]['number']) + " * LVL. " + str(level) + " FRA) WORD : \"" + words[str(answer_number)]['french'] + "\" *"), timeout=30)
             bot.send_message(chat_id=update.message.chat_id, text=("STREAK(S) : " + str(streaks) + "\n"))
 
-            for i in words:
-                msg = msg + str(i + " : " + str(words[i]['english'])) + "\n"
-        
-            bot.send_message(chat_id=update.message.chat_id, text=msg)
+            custom_keyboard = [[words["1"]['english'], words["2"]['english']],[words["3"]['english'], words["4"]['english']]]
+            reply_markup = telegram.ReplyKeyboardMarkup(custom_keyboard)
+            bot.send_message(chat_id=update.message.chat_id, text="CHOOSE ONE", reply_markup=reply_markup)
+
         
             
 def main():

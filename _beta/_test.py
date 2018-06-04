@@ -33,4 +33,10 @@ def getWordSets(number):
         words[str(i + 1)] = word
     return words
 
-getWordSets(5)
+words = getWordSets(4)
+
+target = words["1"]['english']
+
+for i in words:
+    if (words[i]['english'] == target):
+        p
