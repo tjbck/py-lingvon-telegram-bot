@@ -1,0 +1,9 @@
+# List of required packages (Dependencies)
+redis
+requests
+
+# If you need to specify a version
+#requests==2.16.5
+
+# Or you need not a pip package, @'...' specifies git branch
+python-telegram-bot

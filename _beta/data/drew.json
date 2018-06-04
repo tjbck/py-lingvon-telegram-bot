@@ -1,0 +1,4050 @@
+[
+  {
+    "french": "la charrue",
+    "english": "plow"
+  },
+  {
+    "french": "la hutte",
+    "english": "hut, cabin"
+  },
+  {
+    "french": "plutôt",
+    "english": "instead, rather"
+  },
+  {
+    "french": "grignoter",
+    "english": "to nibble at/on, to erode"
+  },
+  {
+    "french": "la langue soutenue",
+    "english": "formal speech"
+  },
+  {
+    "french": "un coup de soleil",
+    "english": "sunburn"
+  },
+  {
+    "french": "embêter",
+    "english": "to annoy, to bother"
+  },
+  {
+    "french": "à brûle-pourpoint",
+    "english": "first thing that comes to mind"
+  },
+  {
+    "french": "un agriculteur",
+    "english": "farmer"
+  },
+  {
+    "french": "un otage",
+    "english": "hostage"
+  },
+  {
+    "french": "du boulot",
+    "english": "a lot of work"
+  },
+  {
+    "french": "un mégot",
+    "english": "cigarette/cigar butt"
+  },
+  {
+    "french": "croquer",
+    "english": "to crunch, to squander"
+  },
+  {
+    "french": "effrayant",
+    "english": "frightening"
+  },
+  {
+    "french": "un seau",
+    "english": "bucket"
+  },
+  {
+    "french": "un aimant",
+    "english": "magnet"
+  },
+  {
+    "french": "fonte",
+    "english": "cast iron"
+  },
+  {
+    "french": "insolite",
+    "english": "unusual, strange"
+  },
+  {
+    "french": "user",
+    "english": "to wear away, to wear out"
+  },
+  {
+    "french": "ramasser",
+    "english": "to pick up"
+  },
+  {
+    "french": "un chef-d'œuvre",
+    "english": "masterpiece"
+  },
+  {
+    "french": "le vitrail, les vitraux",
+    "english": "stained-glass window"
+  },
+  {
+    "french": "jeûner",
+    "english": "to fast"
+  },
+  {
+    "french": "un bruit sourd",
+    "english": "a faint sound"
+  },
+  {
+    "french": "faire un caprice",
+    "english": "to throw a tandrum"
+  },
+  {
+    "french": "un fuseau horaire",
+    "english": "time zone"
+  },
+  {
+    "french": "le décalage horaire",
+    "english": "time difference"
+  },
+  {
+    "french": "exaucer",
+    "english": "to grant, to fulfill (a wish)"
+  },
+  {
+    "french": "le carême",
+    "english": "Lent"
+  },
+  {
+    "french": "numérique<br />la révolution du numérique",
+    "english": "digital<br />digital revolution"
+  },
+  {
+    "french": "si bien que",
+    "english": "therefore, so"
+  },
+  {
+    "french": "toutefois",
+    "english": "however, nevertheless"
+  },
+  {
+    "french": "pourtant",
+    "english": "yet, even so"
+  },
+  {
+    "french": "tandis que",
+    "english": "while"
+  },
+  {
+    "french": "en revanche",
+    "english": "on the other hand"
+  },
+  {
+    "french": "alors que",
+    "english": "while"
+  },
+  {
+    "french": "autant",
+    "english": "as, as much, so much"
+  },
+  {
+    "french": "par contre",
+    "english": "by contrast"
+  },
+  {
+    "french": "aussi...que",
+    "english": "as...as<br /><br />\"\"Jean est aussi petit que Pierre est grand."
+  },
+  {
+    "french": "tous deux",
+    "english": "both"
+  },
+  {
+    "french": "puisque",
+    "english": "since"
+  },
+  {
+    "french": "sage",
+    "english": "well-behaved, wise, good, modest"
+  },
+  {
+    "french": "un cadenas",
+    "english": "padlock"
+  },
+  {
+    "french": "meurtrier",
+    "english": "deadly, lethal, murderous"
+  },
+  {
+    "french": "fier",
+    "english": "proud, pleased"
+  },
+  {
+    "french": "un chicot",
+    "english": "trunk (of a tree)"
+  },
+  {
+    "french": "une étincelle",
+    "english": "spark"
+  },
+  {
+    "french": "un champ",
+    "english": "field"
+  },
+  {
+    "french": "un moteur",
+    "english": "motor"
+  },
+  {
+    "french": "envers",
+    "english": "toward, to"
+  },
+  {
+    "french": "digne",
+    "english": "worthy"
+  },
+  {
+    "french": "combler",
+    "english": "to fill in, to satisfy"
+  },
+  {
+    "french": "percuter",
+    "english": "to run/crash into"
+  },
+  {
+    "french": "ayez la bonté de...",
+    "english": "please be so kind as to..."
+  },
+  {
+    "french": "un (Français) sur deux",
+    "english": "one in two (French)"
+  },
+  {
+    "french": "couler",
+    "english": "to run/flow, to sink, to leak/drip"
+  },
+  {
+    "french": "une encre",
+    "english": "ink"
+  },
+  {
+    "french": "un cambriolage",
+    "english": "burglary, break in"
+  },
+  {
+    "french": "un souci<br />avoir des soucis",
+    "english": "worry<br />to have worries"
+  },
+  {
+    "french": "passer un bon moment",
+    "english": "to have a good time"
+  },
+  {
+    "french": "rentrer",
+    "english": "to return (to one's home or country)"
+  },
+  {
+    "french": "venir de + infinitive",
+    "english": "to just have + verb<br /><br />E.g., Je viens de boire. Nous venons de rentrer."
+  },
+  {
+    "french": "guérir",
+    "english": "to heal"
+  },
+  {
+    "french": "dans la peau de qqn",
+    "english": "in somebody's shoes"
+  },
+  {
+    "french": "une virgule",
+    "english": "comma<br />,"
+  },
+  {
+    "french": "entre crochets",
+    "english": "in square brackets"
+  },
+  {
+    "french": "entre guillemets",
+    "english": "in quotation marks<br />«...»"
+  },
+  {
+    "french": "une échelle",
+    "english": "ladder, scale"
+  },
+  {
+    "french": "en tout cas",
+    "english": "in any/all case(s)"
+  },
+  {
+    "french": "manquer + infinitive",
+    "english": "to almost/nearly + verb<br /><br />E.g., J'ai manqué tomber."
+  },
+  {
+    "french": "manquer de",
+    "english": "to lack"
+  },
+  {
+    "french": "Il manque + OBJ<br />Il me manque + OBJ",
+    "english": "The __ is missing.<br />My __ is missing."
+  },
+  {
+    "french": "une secouse",
+    "english": "jolt, jerk, tremor"
+  },
+  {
+    "french": "pénible",
+    "english": "hard, tough, tiring, distressing, painful, tiresome"
+  },
+  {
+    "french": "polygame<br />la polygamie",
+    "english": "polygamous<br />polygamy"
+  },
+  {
+    "french": "mensonger",
+    "english": "mendacious, untruthful"
+  },
+  {
+    "french": "entreposer",
+    "english": "to leave (with someone), to put in a warehouse"
+  },
+  {
+    "french": "la folie",
+    "english": "madness, lunacy, folly"
+  },
+  {
+    "french": "la brousse<br />vivre en pleine brousse",
+    "english": "the bush"
+  },
+  {
+    "french": "ramper",
+    "english": "to creep, to crawl"
+  },
+  {
+    "french": "une étendue",
+    "english": "area, stretch, range"
+  },
+  {
+    "french": "un tiers",
+    "english": "third"
+  },
+  {
+    "french": "sarcler",
+    "english": "to hoe, to weed"
+  },
+  {
+    "french": "une berceuse",
+    "english": "lullaby, rocking-chair"
+  },
+  {
+    "french": "couver",
+    "english": "to brood"
+  },
+  {
+    "french": "un fardeau",
+    "english": "burden, load"
+  },
+  {
+    "french": "le quartier",
+    "english": "the neighborhood"
+  },
+  {
+    "french": "s'evanouir",
+    "english": "to faint, to pass out, to vanish (into thin air)"
+  },
+  {
+    "french": "quitter",
+    "english": "to leave, to quit, to split up with, to get rid of"
+  },
+  {
+    "french": "quand même",
+    "english": "nevertheless, still and all, finally, really, still, regardless, although"
+  },
+  {
+    "french": "une écume",
+    "english": "foam, froth, scum, dross"
+  },
+  {
+    "french": "un vrac<br />en vrac",
+    "english": "bulk<br />in bulk"
+  },
+  {
+    "french": "dingue",
+    "english": "nuts, crazy, mad"
+  },
+  {
+    "french": "faire une randonnée (à velo, en voiture)",
+    "english": "to go for a hike (bike ride, car)"
+  },
+  {
+    "french": "une épopée",
+    "english": "epic"
+  },
+  {
+    "french": "tout à fait",
+    "english": "completely, fully, exactly, certainly, quite, fully"
+  },
+  {
+    "french": "aphone",
+    "english": "hoarse"
+  },
+  {
+    "french": "la reconnaissance",
+    "english": "gratitude, reconnaissance, recognition"
+  },
+  {
+    "french": "ébranler",
+    "english": "to shake, to rattle, to weaken"
+  },
+  {
+    "french": "inébranlable",
+    "english": "steadfast, immovable, unshakable"
+  },
+  {
+    "french": "un breuvage",
+    "english": "beverage, potion"
+  },
+  {
+    "french": "le grenier",
+    "english": "attic, loft"
+  },
+  {
+    "french": "déposer",
+    "english": "to drop off (something or someone)"
+  },
+  {
+    "french": "hors de",
+    "english": "away from, outside, out of"
+  },
+  {
+    "french": "faillir<br />faillir + verb",
+    "english": "to commit a mistake<br />nearly + verb"
+  },
+  {
+    "french": "un ivrogne",
+    "english": "drunkard"
+  },
+  {
+    "french": "la rédaction<br />date de rédaction",
+    "english": "writing<br />time of writing"
+  },
+  {
+    "french": "l'oint de Dieu<br />oindre",
+    "english": "God's Anointed<br />to anoint"
+  },
+  {
+    "french": "racheter",
+    "english": "to buy more of<br />to redeem"
+  },
+  {
+    "french": "la moelle",
+    "english": "marrow"
+  },
+  {
+    "french": "coriace",
+    "english": "tough, chewy"
+  },
+  {
+    "french": "une poignée",
+    "english": "handful, handle, hilt"
+  },
+  {
+    "french": "une fourche",
+    "english": "pitchfork"
+  },
+  {
+    "french": "nouer",
+    "english": "to knot"
+  },
+  {
+    "french": "flâner",
+    "english": "to stroll, to lounge around"
+  },
+  {
+    "french": "capital, capitale, capitaux",
+    "english": "essential, vital, fundamental"
+  },
+  {
+    "french": "moche",
+    "english": "ugly"
+  },
+  {
+    "french": "fâché",
+    "english": "angry"
+  },
+  {
+    "french": "foncer",
+    "english": "to charge (as in to rush)"
+  },
+  {
+    "french": "revendiquer",
+    "english": "to claim, to lay claim to"
+  },
+  {
+    "french": "un obsèques",
+    "english": "funeral"
+  },
+  {
+    "french": "en direct",
+    "english": "live (of a TV program)"
+  },
+  {
+    "french": "désintéressé",
+    "english": "selfless"
+  },
+  {
+    "french": "par rapport à",
+    "english": "compared with, in relation to"
+  },
+  {
+    "french": "le torchon brûle",
+    "english": "dispute, point of contention"
+  },
+  {
+    "french": "las(se)",
+    "english": "weary"
+  },
+  {
+    "french": "être épris de",
+    "english": "to be in love with"
+  },
+  {
+    "french": "un rang",
+    "english": "rank"
+  },
+  {
+    "french": "se vanter",
+    "english": "to boast"
+  },
+  {
+    "french": "un putsch",
+    "english": "military coup"
+  },
+  {
+    "french": "oser",
+    "english": "to dare"
+  },
+  {
+    "french": "avoir beau + inf",
+    "english": "to do something in vain"
+  },
+  {
+    "french": "compter + inf",
+    "english": "to intend to"
+  },
+  {
+    "french": "Il vaut mieux + inf",
+    "english": "It's better to + verb"
+  },
+  {
+    "french": "certes",
+    "english": "certainly, indeed, of course"
+  },
+  {
+    "french": "une coudée",
+    "english": "cubit"
+  },
+  {
+    "french": "taire",
+    "english": "to conceal, to say nothing about"
+  },
+  {
+    "french": "en rapport avec",
+    "english": "in keeping with<br />[in relation with]"
+  },
+  {
+    "french": "chantonner",
+    "english": "to hum"
+  },
+  {
+    "french": "sangler",
+    "english": "to strap"
+  },
+  {
+    "french": "effleurer",
+    "english": "to brush by, to graze"
+  },
+  {
+    "french": "finir par",
+    "english": "to end up, to finally decide to"
+  },
+  {
+    "french": "confondre qqch avec qqch",
+    "english": "to confuse, to mix up"
+  },
+  {
+    "french": "(un) bénévole",
+    "english": "volunteer, voluntary"
+  },
+  {
+    "french": "attacher les lacets",
+    "english": "to tie laces (shoes)"
+  },
+  {
+    "french": "le déni",
+    "english": "denial"
+  },
+  {
+    "french": "clivant, se cliver",
+    "english": "split"
+  },
+  {
+    "french": "nier",
+    "english": "to deny"
+  },
+  {
+    "french": "gêner",
+    "english": "to bother, to inconvenience"
+  },
+  {
+    "french": "puiser",
+    "english": "to draw (water)"
+  },
+  {
+    "french": "la proie",
+    "english": "prey"
+  },
+  {
+    "french": "un gredin",
+    "english": "rascal, rogue"
+  },
+  {
+    "french": "une vague",
+    "english": "wave"
+  },
+  {
+    "french": "voire",
+    "english": "(or) even"
+  },
+  {
+    "french": "un gars",
+    "english": "boy, lad, guy"
+  },
+  {
+    "french": "se surmener",
+    "english": "to overwork, to over do it"
+  },
+  {
+    "french": "un sursis",
+    "english": "reprieve, extension"
+  },
+  {
+    "french": "forcément",
+    "english": "inevitably, necessarily"
+  },
+  {
+    "french": "la Septante",
+    "english": "Septuagint"
+  },
+  {
+    "french": "un sondage",
+    "english": "poll, survey"
+  },
+  {
+    "french": "un pot-de-vin",
+    "english": "bribe"
+  },
+  {
+    "french": "un chèque en blanc",
+    "english": "blank check"
+  },
+  {
+    "french": "un nom de jeune fille",
+    "english": "maiden name"
+  },
+  {
+    "french": "porter le chapeau",
+    "english": "to take the blame"
+  },
+  {
+    "french": "à peu près",
+    "english": "nearly"
+  },
+  {
+    "french": "croiser",
+    "english": "to cross, to meet"
+  },
+  {
+    "french": "renoncer (à)",
+    "english": "to give up (on)"
+  },
+  {
+    "french": "ravi",
+    "english": "delighted, overjoyed"
+  },
+  {
+    "french": "quelque part",
+    "english": "somewhere, in some place"
+  },
+  {
+    "french": "aux alentours de",
+    "english": "around"
+  },
+  {
+    "french": "un marais",
+    "english": "swamp, marsh"
+  },
+  {
+    "french": "la boue",
+    "english": "mud, sludge"
+  },
+  {
+    "french": "le tri",
+    "english": "sorting, classifying, sorting out"
+  },
+  {
+    "french": "un routard, une routarde",
+    "english": "backpacker, hitchhiker, trekker"
+  },
+  {
+    "french": "l'église primitive",
+    "english": "the early churh"
+  },
+  {
+    "french": "l'eau douce",
+    "english": "freshwater"
+  },
+  {
+    "french": "l'eau courante<br />l'eau du robinet",
+    "english": "tap water"
+  },
+  {
+    "french": "l'eau plate",
+    "english": "still water"
+  },
+  {
+    "french": "un barrage",
+    "english": "dam"
+  },
+  {
+    "french": "une centrale",
+    "english": "power station"
+  },
+  {
+    "french": "approvisionner",
+    "english": "to supply (water or electricity)"
+  },
+  {
+    "french": "gaspiller",
+    "english": "to waste, to squander"
+  },
+  {
+    "french": "le calcaire",
+    "english": "limestone"
+  },
+  {
+    "french": "une expulsion",
+    "english": "eviction, sending off"
+  },
+  {
+    "french": "parcourir",
+    "english": "to cover (a distance), to travel through, to run, to drive, to walk"
+  },
+  {
+    "french": "soit que + subj...soit que + subj",
+    "english": "either that...or that"
+  },
+  {
+    "french": "Non pas que + subj, mais parce que + ind",
+    "english": "Not that...but that"
+  },
+  {
+    "french": "Ce n'est pas que + subj",
+    "english": "It's not that..."
+  },
+  {
+    "french": "avouer",
+    "english": "to admit, to confess, to own up to"
+  },
+  {
+    "french": "apparemment",
+    "english": "apparently"
+  },
+  {
+    "french": "après que + ind",
+    "english": "after..."
+  },
+  {
+    "french": "avant que + subj",
+    "english": "before..."
+  },
+  {
+    "french": "les noces",
+    "english": "wedding"
+  },
+  {
+    "french": "une côte",
+    "english": "rib"
+  },
+  {
+    "french": "réanimer",
+    "english": "to resuscitate"
+  },
+  {
+    "french": "le lierre",
+    "english": "ivy"
+  },
+  {
+    "french": "déchirer",
+    "english": "to tear, to rip"
+  },
+  {
+    "french": "une cotisation",
+    "english": "contribution"
+  },
+  {
+    "french": "un sinistre",
+    "english": "fire, blaze, disaster"
+  },
+  {
+    "french": "une prime",
+    "english": "bonus, allowance, subsidy"
+  },
+  {
+    "french": "cerner",
+    "english": "to surround, to determine/define,&nbsp;&nbsp;to crack open"
+  },
+  {
+    "french": "J'ai le cœur en deux.",
+    "english": "I have mixed feelings."
+  },
+  {
+    "french": "aise",
+    "english": "delighted"
+  },
+  {
+    "french": "une échéance",
+    "english": "date by which something is due"
+  },
+  {
+    "french": "à longue échéance",
+    "english": "in the long run/term"
+  },
+  {
+    "french": "Ça fait deux mois que je n'ai pas vu mon frère",
+    "english": "It's been two months since I've seen my brother."
+  },
+  {
+    "french": "Cela fait deux mois que je suis ici.",
+    "english": "I've been here for two months."
+  },
+  {
+    "french": "Ça fait combien de temps que ...",
+    "english": "How long has it been since..."
+  },
+  {
+    "french": "Le largeur du lac fait/mesure 50m.",
+    "english": "The width of the lake is 50m."
+  },
+  {
+    "french": "foisonner",
+    "english": "to abound"
+  },
+  {
+    "french": "un châtiment",
+    "english": "chastisement, punishment"
+  },
+  {
+    "french": "se révéler",
+    "english": "to prove to be, to be revealed, to be discovered"
+  },
+  {
+    "french": "puant",
+    "english": "stinking, foul-smelling"
+  },
+  {
+    "french": "nommer",
+    "english": "to name, to list"
+  },
+  {
+    "french": "prendre la fuite",
+    "english": "to run away"
+  },
+  {
+    "french": "douillet",
+    "english": "snug and cosy"
+  },
+  {
+    "french": "inouï",
+    "english": "incredible, amazing, unprecedented"
+  },
+  {
+    "french": "inique",
+    "english": "unjust, unfair"
+  },
+  {
+    "french": "ôter",
+    "english": "to take off, to remove"
+  },
+  {
+    "french": "de mieux en mieux",
+    "english": "better and better"
+  },
+  {
+    "french": "faire prout",
+    "english": "to toot (infantile for 'fart')"
+  },
+  {
+    "french": "péter",
+    "english": "to fart, to blow up (e.g., a fuse)"
+  },
+  {
+    "french": "péter un câble",
+    "english": "to blow a fuse (get angry), to lose it"
+  },
+  {
+    "french": "une fermeture (Éclair)",
+    "english": "zipper"
+  },
+  {
+    "french": "Il a plu des cordes.",
+    "english": "It rained cats and dogs."
+  },
+  {
+    "french": "zigouiller",
+    "english": "to do in (to kill)"
+  },
+  {
+    "french": "enjoliver",
+    "english": "to embellish, to adorn"
+  },
+  {
+    "french": "doué (de)",
+    "english": "gifted, talented, endowed or blessed with"
+  },
+  {
+    "french": "à l'entour de",
+    "english": "around"
+  },
+  {
+    "french": "un seuil",
+    "english": "doorstep, threshold"
+  },
+  {
+    "french": "afférent à",
+    "english": "pertaining to"
+  },
+  {
+    "french": "ainsi que",
+    "english": "along with, as well as"
+  },
+  {
+    "french": "prédire",
+    "english": "to predict, to foretell"
+  },
+  {
+    "french": "d'ici à un siècle",
+    "english": "a century from now"
+  },
+  {
+    "french": "entre-temps",
+    "english": "meanwhile, in the meantime"
+  },
+  {
+    "french": "un store",
+    "english": "blind, awning"
+  },
+  {
+    "french": "scier",
+    "english": "to saw, to cut into"
+  },
+  {
+    "french": "J'ai dormi du sommeil du juste.",
+    "english": "I slept very well (like a log)."
+  },
+  {
+    "french": "le mèpris",
+    "english": "contempt, scorn, disdain"
+  },
+  {
+    "french": "ils devront avoir signé",
+    "english": "they will need to have signed"
+  },
+  {
+    "french": "l'as",
+    "english": "number one, ace, wizard"
+  },
+  {
+    "french": "un traiteur",
+    "english": "caterer"
+  },
+  {
+    "french": "une quinte de toux",
+    "english": "coughing fit"
+  },
+  {
+    "french": "un serment",
+    "english": "oath, pledge"
+  },
+  {
+    "french": "guetter",
+    "english": "to watch, to watch out for"
+  },
+  {
+    "french": "J'ai mal au cœur.",
+    "english": "I'm going to throw up."
+  },
+  {
+    "french": "descendre en rappel",
+    "english": "to rappel"
+  },
+  {
+    "french": "J'ai mal aux cheveux.",
+    "english": "I'm hungover."
+  },
+  {
+    "french": "une courbature",
+    "english": "ache"
+  },
+  {
+    "french": "le mal des transports",
+    "english": "car sickness"
+  },
+  {
+    "french": "au beau fixe<br />Le temps est au beau fixe.",
+    "english": "looking good/fine<br />The weather is looking good."
+  },
+  {
+    "french": "un procès",
+    "english": "trial, lawsuit"
+  },
+  {
+    "french": "argentique",
+    "english": "traditional, non-digital"
+  },
+  {
+    "french": "abîmé",
+    "english": "ruined, damaged"
+  },
+  {
+    "french": "harceler",
+    "english": "to harass"
+  },
+  {
+    "french": "une sottise",
+    "english": "silliness, stupidity"
+  },
+  {
+    "french": "plus que jamais, plus qu'avant",
+    "english": "more than ever"
+  },
+  {
+    "french": "s'apprêter",
+    "english": "to get ready to, to get dressed"
+  },
+  {
+    "french": "le naufrage, faire naufrage",
+    "english": "shipwreck, to shipwreck"
+  },
+  {
+    "french": "les limbes",
+    "english": "limbo"
+  },
+  {
+    "french": "saperlipopette!",
+    "english": "oh my days!"
+  },
+  {
+    "french": "une meurtrissure",
+    "english": "bruise, scar, wound"
+  },
+  {
+    "french": "un fléau",
+    "english": "curse, plague, pain"
+  },
+  {
+    "french": "toujours pas",
+    "english": "not yet"
+  },
+  {
+    "french": "la moyenne d'âge",
+    "english": "the average age"
+  },
+  {
+    "french": "pas toujours",
+    "english": "not often"
+  },
+  {
+    "french": "un ressortissant",
+    "english": "national, citizen"
+  },
+  {
+    "french": "insouciant",
+    "english": "carefree, unconcerned, casual"
+  },
+  {
+    "french": "facultatif",
+    "english": "optional"
+  },
+  {
+    "french": "goudronné",
+    "english": "tarred"
+  },
+  {
+    "french": "une piste",
+    "english": "trail, track"
+  },
+  {
+    "french": "souple",
+    "english": "flexible"
+  },
+  {
+    "french": "courtois",
+    "english": "civil, courteous"
+  },
+  {
+    "french": "un coteau",
+    "english": "hillside, hill"
+  },
+  {
+    "french": "une corniche",
+    "english": "ledge, corniche"
+  },
+  {
+    "french": "une conviction",
+    "english": "belief"
+  },
+  {
+    "french": "une corroie",
+    "english": "belt (mechanical, automotive)"
+  },
+  {
+    "french": "sauter (une fusible)",
+    "english": "to blow (a fuse)"
+  },
+  {
+    "french": "la loyauté",
+    "english": "loyalty"
+  },
+  {
+    "french": "tâtonner<br />avancer à tâtons",
+    "english": "to feel one's way along"
+  },
+  {
+    "french": "limpide",
+    "english": "clear"
+  },
+  {
+    "french": "l'intégralité",
+    "english": "whole"
+  },
+  {
+    "french": "sous-jacent",
+    "english": "underlying"
+  },
+  {
+    "french": "mû",
+    "english": "moved"
+  },
+  {
+    "french": "la échancrure",
+    "english": "low neckline, indentation"
+  },
+  {
+    "french": "une prostitué(e)",
+    "english": "prostitute"
+  },
+  {
+    "french": "un sophisme",
+    "english": "fallacy"
+  },
+  {
+    "french": "les mœurs",
+    "english": "customs, habits, morals"
+  },
+  {
+    "french": "décoller",
+    "english": "to take off"
+  },
+  {
+    "french": "un laïc (une laïque)",
+    "english": "layman"
+  },
+  {
+    "french": "pourri (ripou)",
+    "english": "bad, spoiled, decayed"
+  },
+  {
+    "french": "On a passé la soirée à faire les devoirs",
+    "english": "We spent the evening doing homework."
+  },
+  {
+    "french": "le car (autocar)",
+    "english": "bus (between cities)"
+  },
+  {
+    "french": "diagnostiquer",
+    "english": "to diagnose"
+  },
+  {
+    "french": "une cure",
+    "english": "treatment"
+  },
+  {
+    "french": "un rèmede",
+    "english": "cure"
+  },
+  {
+    "french": "une ordonnance, prescription",
+    "english": "prescription"
+  },
+  {
+    "french": "avoir le hoquet",
+    "english": "to have hiccups"
+  },
+  {
+    "french": "une brûlure",
+    "english": "burn"
+  },
+  {
+    "french": "une épave",
+    "english": "wreck (something that has been wrecked)"
+  },
+  {
+    "french": "Et si on + verbe (imparfait) ... ?",
+    "english": "How about we ... ?"
+  },
+  {
+    "french": "jouir de",
+    "english": "to enjoy"
+  },
+  {
+    "french": "affreux",
+    "english": "horrible"
+  },
+  {
+    "french": "l'escrime",
+    "english": "fencing"
+  },
+  {
+    "french": "s'entendre (bien)",
+    "english": "to get along (well)"
+  },
+  {
+    "french": "tamiser",
+    "english": "to sift, sieve"
+  },
+  {
+    "french": "une gamme",
+    "english": "scale"
+  },
+  {
+    "french": "bridé<br />avoir les yeux bridés",
+    "english": "slanted (eyes)"
+  },
+  {
+    "french": "rendre (un livre)",
+    "english": "return (a book)"
+  },
+  {
+    "french": "rétrécir",
+    "english": "to shrink"
+  },
+  {
+    "french": "faire un câlin à qqn",
+    "english": "to cuddle someone"
+  },
+  {
+    "french": "un clos",
+    "english": "enclosed garden"
+  },
+  {
+    "french": "le bon sens",
+    "english": "common sense, good sense"
+  },
+  {
+    "french": "un sabot",
+    "english": "hoof"
+  },
+  {
+    "french": "flou",
+    "english": "blurry, out of focus"
+  },
+  {
+    "french": "muter",
+    "english": "to transfer, move<br />(administrative)"
+  },
+  {
+    "french": "le béton",
+    "english": "concrete"
+  },
+  {
+    "french": "le processus",
+    "english": "process"
+  },
+  {
+    "french": "un régime direct/indirect",
+    "english": "direct/indirect object"
+  },
+  {
+    "french": "quelques dizaines d'années",
+    "english": "several decades"
+  },
+  {
+    "french": "une réplique",
+    "english": "reply, aftershock"
+  },
+  {
+    "french": "Il paraît que + indicatif",
+    "english": "It appears that..."
+  },
+  {
+    "french": "une bonne chose de faite !",
+    "english": "that's over with!"
+  },
+  {
+    "french": "malin",
+    "english": "clever, crafty, slick"
+  },
+  {
+    "french": "une déontologie",
+    "english": "professional code of ethics"
+  },
+  {
+    "french": "soûl",
+    "english": "drunk"
+  },
+  {
+    "french": "rassis",
+    "english": "stale"
+  },
+  {
+    "french": "un escabeau",
+    "english": "stool, stepladder"
+  },
+  {
+    "french": "une lueur",
+    "english": "glow, gleam, light, glimmer"
+  },
+  {
+    "french": "l'élan vital",
+    "english": "the life force"
+  },
+  {
+    "french": "une astuce",
+    "english": "astuteness, joke, trick"
+  },
+  {
+    "french": "la détente",
+    "english": "relaxation"
+  },
+  {
+    "french": "un bidule",
+    "english": "thingamajig"
+  },
+  {
+    "french": "le comble",
+    "english": "height, epitome (often negative)"
+  },
+  {
+    "french": "la contrefaçon<br />contrefaire<br />contrefait",
+    "english": "counterfeiting, forging, imitation"
+  },
+  {
+    "french": "C'est d'un bon rapport qualité-prix. <br />Le prix est juste.",
+    "english": "It's a good deal."
+  },
+  {
+    "french": "un moine, une moniale",
+    "english": "monk"
+  },
+  {
+    "french": "croire à",
+    "english": "to believe in (to value)"
+  },
+  {
+    "french": "tremper",
+    "english": "to dip, to soak, to dunk"
+  },
+  {
+    "french": "un ustensile",
+    "english": "utensil"
+  },
+  {
+    "french": "remiser",
+    "english": "to store, to put away"
+  },
+  {
+    "french": "semer",
+    "english": "to sow, scatter, strew"
+  },
+  {
+    "french": "une issue",
+    "english": "exit, outlet, solution"
+  },
+  {
+    "french": "gênant",
+    "english": "annoying, awkward, embarrassing"
+  },
+  {
+    "french": "arracher",
+    "english": "to pull out, to snatch"
+  },
+  {
+    "french": "le lever du soleil",
+    "english": "sunrise"
+  },
+  {
+    "french": "un cambrioleur",
+    "english": "burglar"
+  },
+  {
+    "french": "carrément",
+    "english": "straight out, bluntly, pretty, downright, flat out"
+  },
+  {
+    "french": "Ventre affamé n'a pas d'oreilles.<br />Le mont Fuji est sans beauté pour l'homme affamé.",
+    "english": "proverbe"
+  },
+  {
+    "french": "opé",
+    "english": "ready, operational"
+  },
+  {
+    "french": "une doublure",
+    "english": "lining"
+  },
+  {
+    "french": "la tenue",
+    "english": "behavior"
+  },
+  {
+    "french": "une racaille",
+    "english": "scum"
+  },
+  {
+    "french": "déclencher",
+    "english": "to trigger"
+  },
+  {
+    "french": "bouffer",
+    "english": "to eat, to gobble up"
+  },
+  {
+    "french": "gêné",
+    "english": "embarrassed"
+  },
+  {
+    "french": "flic flac",
+    "english": "splish splosh"
+  },
+  {
+    "french": "une flaque",
+    "english": "puddle"
+  },
+  {
+    "french": "une barrière",
+    "english": "fence"
+  },
+  {
+    "french": "un barrage",
+    "english": "dam"
+  },
+  {
+    "french": "un toboggan",
+    "english": "slide (playground)"
+  },
+  {
+    "french": "affamer",
+    "english": "to starve"
+  },
+  {
+    "french": "dommageable",
+    "english": "damaging"
+  },
+  {
+    "french": "la vitrine",
+    "english": "shop window"
+  },
+  {
+    "french": "un syndicat",
+    "english": "(worker's) union, association"
+  },
+  {
+    "french": "une formation",
+    "english": "training, development"
+  },
+  {
+    "french": "une indulgence",
+    "english": "leniency, tolerance"
+  },
+  {
+    "french": "les lettres",
+    "english": "literature"
+  },
+  {
+    "french": "troubler",
+    "english": "to fluster, ruffle, unsettle"
+  },
+  {
+    "french": "se rendre compte de",
+    "english": "to realize"
+  },
+  {
+    "french": "bégayer",
+    "english": "to stutter"
+  },
+  {
+    "french": "radoter",
+    "english": "to ramble"
+  },
+  {
+    "french": "baragouiner",
+    "english": "to speak (a language) poorly"
+  },
+  {
+    "french": "les potins",
+    "english": "gossip"
+  },
+  {
+    "french": "taquiner",
+    "english": "to tease"
+  },
+  {
+    "french": "une commère",
+    "english": "a gossip, chatterbox"
+  },
+  {
+    "french": "faire gaffe",
+    "english": "to be careful"
+  },
+  {
+    "french": "l'orge",
+    "english": "barley"
+  },
+  {
+    "french": "la sainteté",
+    "english": "holiness"
+  },
+  {
+    "french": "dans la mesure où",
+    "english": "in so far as"
+  },
+  {
+    "french": "un point d'eau",
+    "english": "watering hole"
+  },
+  {
+    "french": "l'artisan de la paix",
+    "english": "the peacemaker"
+  },
+  {
+    "french": "à part",
+    "english": "except"
+  },
+  {
+    "french": "tout de même",
+    "english": "all the same"
+  },
+  {
+    "french": "tanguer",
+    "english": "to sway"
+  },
+  {
+    "french": "en dépit de",
+    "english": "despite, in spite of"
+  },
+  {
+    "french": "au lieu de, à la place de",
+    "english": "in place of"
+  },
+  {
+    "french": "un cornichon",
+    "english": "pickle"
+  },
+  {
+    "french": "tordu",
+    "english": "twisted, bent"
+  },
+  {
+    "french": "en effet",
+    "english": "in fact, indeed"
+  },
+  {
+    "french": "sous peu",
+    "english": "in a little while"
+  },
+  {
+    "french": "(se) pendre",
+    "english": "to hang (oneself)"
+  },
+  {
+    "french": "à partir de rien<br />de A à Z",
+    "english": "from scratch"
+  },
+  {
+    "french": "un cortège",
+    "english": "retinue, series"
+  },
+  {
+    "french": "une coupole",
+    "english": "dome"
+  },
+  {
+    "french": "un coussin",
+    "english": "cushion"
+  },
+  {
+    "french": "un couvent",
+    "english": "convent, monastery"
+  },
+  {
+    "french": "la craie",
+    "english": "chalk"
+  },
+  {
+    "french": "un crapaud",
+    "english": "toad"
+  },
+  {
+    "french": "faire un croc-en-jambe à qqn",
+    "english": "to trip someone"
+  },
+  {
+    "french": "un crochet",
+    "english": "hook"
+  },
+  {
+    "french": "crochu",
+    "english": "hooked"
+  },
+  {
+    "french": "les croisades",
+    "english": "the Crusades"
+  },
+  {
+    "french": "une cruche",
+    "english": "pitcher, jug"
+  },
+  {
+    "french": "un sot",
+    "english": "fool, idiot"
+  },
+  {
+    "french": "décevoir",
+    "english": "to disappoint"
+  },
+  {
+    "french": "le culot",
+    "english": "base, bottom,<br />(also cheek, nerve)"
+  },
+  {
+    "french": "à la troisième puissance",
+    "english": "to the third power, cubed"
+  },
+  {
+    "french": "plat",
+    "english": "flat, level"
+  },
+  {
+    "french": "déblayer",
+    "english": "to clear out/off"
+  },
+  {
+    "french": "onctueux",
+    "english": "smooth, creamy"
+  },
+  {
+    "french": "une faucille",
+    "english": "sickle"
+  },
+  {
+    "french": "(actionner) la sonnette",
+    "english": "(to ring) the bell"
+  },
+  {
+    "french": "un guidon",
+    "english": "handlebars"
+  },
+  {
+    "french": "nuisible",
+    "english": "harmful"
+  },
+  {
+    "french": "remarquer",
+    "english": "to notice"
+  },
+  {
+    "french": "être nul",
+    "english": "to be tied (a game)"
+  },
+  {
+    "french": "le nombril",
+    "english": "belly button"
+  },
+  {
+    "french": "tendu",
+    "english": "tense"
+  },
+  {
+    "french": "étayer",
+    "english": "to prop up, to support, to back up"
+  },
+  {
+    "french": "impérial",
+    "english": "of superior quality"
+  },
+  {
+    "french": "constater",
+    "english": "to note, to observe"
+  },
+  {
+    "french": "un rififi",
+    "english": "fistfight"
+  },
+  {
+    "french": "une rixe",
+    "english": "brawl"
+  },
+  {
+    "french": "en gros<br />Je sais en gros de quoi il s'agit.",
+    "english": "roughly<br />I know roughly what it's about."
+  },
+  {
+    "french": "précaire",
+    "english": "precarious"
+  },
+  {
+    "french": "exigu",
+    "english": "very small or narrow"
+  },
+  {
+    "french": "rogner sur qqch",
+    "english": "to scrimp"
+  },
+  {
+    "french": "être tributaire de qqn ou qqch",
+    "english": "to be dependent on someone or something"
+  },
+  {
+    "french": "décrocher la lune",
+    "english": "to do the impossible"
+  },
+  {
+    "french": "chichement",
+    "english": "stingily, scantily, meagre"
+  },
+  {
+    "french": "vertigineux",
+    "english": "terrifying, breathtaking, staggering"
+  },
+  {
+    "french": "un renchérissement",
+    "english": "increase"
+  },
+  {
+    "french": "décréter",
+    "english": "to decree, to ordain"
+  },
+  {
+    "french": "une ficelle",
+    "english": "piece of string"
+  },
+  {
+    "french": "abordable",
+    "english": "affordable, approachable, accessible"
+  },
+  {
+    "french": "recenser",
+    "english": "to make a census of, to make an inventory of"
+  },
+  {
+    "french": "se hisser",
+    "english": "to hoist oneself"
+  },
+  {
+    "french": "pérenne",
+    "english": "permanent"
+  },
+  {
+    "french": "échelonner",
+    "english": "to place at regular intervals, to spread out"
+  },
+  {
+    "french": "une rondelle",
+    "english": "slice (e.g. limon)"
+  },
+  {
+    "french": "un hameçon",
+    "english": "(fish) hook"
+  },
+  {
+    "french": "le défunt",
+    "english": "deceased person, the dead"
+  },
+  {
+    "french": "maléfique",
+    "english": "evil"
+  },
+  {
+    "french": "susciter",
+    "english": "to arouse, to stir up"
+  },
+  {
+    "french": "vivement",
+    "english": "deeply, greatly"
+  },
+  {
+    "french": "la rage",
+    "english": "rabies"
+  },
+  {
+    "french": "une morsure",
+    "english": "bite"
+  },
+  {
+    "french": "une évidence",
+    "english": "obvious fact"
+  },
+  {
+    "french": "la fourrure",
+    "english": "fur"
+  },
+  {
+    "french": "avide",
+    "english": "avid, greedy, eager"
+  },
+  {
+    "french": "raide",
+    "english": "stiff, steep"
+  },
+  {
+    "french": "terne",
+    "english": "dull"
+  },
+  {
+    "french": "rusé",
+    "english": "crafty, sly"
+  },
+  {
+    "french": "un néant",
+    "english": "nothingness"
+  },
+  {
+    "french": "un orfèvre",
+    "english": "goldsmith"
+  },
+  {
+    "french": "broyer",
+    "english": "to crush, grind"
+  },
+  {
+    "french": "pilonner",
+    "english": "to bombard"
+  },
+  {
+    "french": "saisir",
+    "english": "to grab (a hold of)"
+  },
+  {
+    "french": "outre que",
+    "english": "apart from"
+  },
+  {
+    "french": "en outre",
+    "english": "also, plus"
+  },
+  {
+    "french": "du reste",
+    "english": "besides, furthermore, moreover"
+  },
+  {
+    "french": "sous l'effet de",
+    "english": "because of"
+  },
+  {
+    "french": "s'envoler",
+    "english": "to fly away, to soar, to fly (time)"
+  },
+  {
+    "french": "Il est possible que + ?",
+    "english": "subjunctive"
+  },
+  {
+    "french": "un devis",
+    "english": "estimation, quote"
+  },
+  {
+    "french": "le septentrion (littéraire)",
+    "english": "north"
+  },
+  {
+    "french": "une brouette",
+    "english": "wheelbarrow"
+  },
+  {
+    "french": "le pré",
+    "english": "meadow"
+  },
+  {
+    "french": "vieillot",
+    "english": "old-fashioned"
+  },
+  {
+    "french": "une anse",
+    "english": "handle"
+  },
+  {
+    "french": "C'est à deux pas d'ici",
+    "english": "It's really close by."
+  },
+  {
+    "french": "sens dessus dessous",
+    "english": "upside down"
+  },
+  {
+    "french": "des sous (fam.)",
+    "english": "cash"
+  },
+  {
+    "french": "avoir la trouille",
+    "english": "to be scared to death"
+  },
+  {
+    "french": "un jeton",
+    "english": "token"
+  },
+  {
+    "french": "un écart",
+    "english": "discrepancy, gap"
+  },
+  {
+    "french": "subventionner",
+    "english": "to subsidize, to grant funds to"
+  },
+  {
+    "french": "Qu'il soit d'accord ou non",
+    "english": "Whether he agrees or not"
+  },
+  {
+    "french": "saumâtre",
+    "english": "brackish, briny, bitter"
+  },
+  {
+    "french": "ringard",
+    "english": "old-fashioned"
+  },
+  {
+    "french": "mener",
+    "english": "to take, to lead"
+  },
+  {
+    "french": "sans vergogne",
+    "english": "shamelessly"
+  },
+  {
+    "french": "une enceinte",
+    "english": "wall, enclosure, speaker"
+  },
+  {
+    "french": "un véritable ravissement",
+    "english": "an enchanting sight"
+  },
+  {
+    "french": "berner",
+    "english": "to fool, to dupe, to hoax"
+  },
+  {
+    "french": "esquisser",
+    "english": "to sketch, outline, to give a hint of"
+  },
+  {
+    "french": "la marée",
+    "english": "tide"
+  },
+  {
+    "french": "en surpoids",
+    "english": "overweight"
+  },
+  {
+    "french": "C'est la galère!",
+    "english": "What a hassle!"
+  },
+  {
+    "french": "inédit",
+    "english": "unseen, new"
+  },
+  {
+    "french": "les denrées alimentaires",
+    "english": "foodstuffs"
+  },
+  {
+    "french": "un feuilleton",
+    "english": "series (TV)"
+  },
+  {
+    "french": "de bon ton",
+    "english": "in good taste, tasteful"
+  },
+  {
+    "french": "une moustiquaire",
+    "english": "mosquito net"
+  },
+  {
+    "french": "convoiter",
+    "english": "to covet"
+  },
+  {
+    "french": "la débauche",
+    "english": "debauchery"
+  },
+  {
+    "french": "flétrie",
+    "english": "shriveled up"
+  },
+  {
+    "french": "tricher",
+    "english": "to cheat"
+  },
+  {
+    "french": "tant que",
+    "english": "as long as"
+  },
+  {
+    "french": "un millier",
+    "english": "thousand"
+  },
+  {
+    "french": "un gîte",
+    "english": "country home"
+  },
+  {
+    "french": "être facile/difficile à vivre",
+    "english": "to be easy/difficult to live with<br />to be easy going"
+  },
+  {
+    "french": "morne",
+    "english": "gloomy, dull"
+  },
+  {
+    "french": "un internat",
+    "english": "boarding school"
+  },
+  {
+    "french": "se régaler avec qqch",
+    "english": "to (thoroughly) enjoy something"
+  },
+  {
+    "french": "avoir le sommeil léger/lourd",
+    "english": "to be a light/heavy sleeper"
+  },
+  {
+    "french": "une sieste",
+    "english": "nap"
+  },
+  {
+    "french": "la criée",
+    "english": "fish market"
+  },
+  {
+    "french": "le gavage",
+    "english": "force-feeding"
+  },
+  {
+    "french": "en garde à vue",
+    "english": "in custody"
+  },
+  {
+    "french": "un char",
+    "english": "tank (military), wagon, cart, bluff"
+  },
+  {
+    "french": "furibond",
+    "english": "furious"
+  },
+  {
+    "french": "un pote",
+    "english": "mate, pal, homeboy"
+  },
+  {
+    "french": "une cigogne",
+    "english": "stork"
+  },
+  {
+    "french": "la sève",
+    "english": "sap"
+  },
+  {
+    "french": "une allée",
+    "english": "footpath, lane, aisle"
+  },
+  {
+    "french": "un pénis",
+    "english": "penis"
+  },
+  {
+    "french": "interpeller",
+    "english": "to call out"
+  },
+  {
+    "french": "une pente",
+    "english": "slope, inclination"
+  },
+  {
+    "french": "leurrer, leurre",
+    "english": "to deceive, decoy"
+  },
+  {
+    "french": "mou, moul, molle",
+    "english": "soft"
+  },
+  {
+    "french": "verni",
+    "english": "shiny, lucky"
+  },
+  {
+    "french": "une pièce",
+    "english": "bit, room, document"
+  },
+  {
+    "french": "secouer",
+    "english": "to shake"
+  },
+  {
+    "french": "bredouiller",
+    "english": "to mumble"
+  },
+  {
+    "french": "dodeliner de",
+    "english": "to nod"
+  },
+  {
+    "french": "un gouffre",
+    "english": "pit, chasm"
+  },
+  {
+    "french": "viser",
+    "english": "to (take) aim"
+  },
+  {
+    "french": "un frôlement",
+    "english": "a light touch"
+  },
+  {
+    "french": "un farfelu",
+    "english": "weirdo"
+  },
+  {
+    "french": "beugler",
+    "english": "to moo, bellow, blare"
+  },
+  {
+    "french": "un râteau",
+    "english": "rake"
+  },
+  {
+    "french": "pile ou face",
+    "english": "heads or tails"
+  },
+  {
+    "french": "parvenir",
+    "english": "to reach"
+  },
+  {
+    "french": "cocher",
+    "english": "to tick/check (a box)"
+  },
+  {
+    "french": "bien que + ?",
+    "english": "subjunctive"
+  },
+  {
+    "french": "un carquois",
+    "english": "quiver"
+  },
+  {
+    "french": "faire une fausse couche",
+    "english": "to have a miscarriage"
+  },
+  {
+    "french": "penser + ?",
+    "english": "à"
+  },
+  {
+    "french": "(faire) bousculer",
+    "english": "to (be) jostle(d), to upset"
+  },
+  {
+    "french": "Comment se fait-il que + subjunctive",
+    "english": "How is it that ..."
+  },
+  {
+    "french": "d'après la publicité",
+    "english": "according to the ad"
+  },
+  {
+    "french": "garder une trace de",
+    "english": "to keep track of"
+  },
+  {
+    "french": "un fuyard",
+    "english": "runaway, fugitive"
+  },
+  {
+    "french": "une mèche",
+    "english": "lock (of hair), wick"
+  },
+  {
+    "french": "s'emparer de",
+    "english": "to seize"
+  },
+  {
+    "french": "une canette",
+    "english": "duckling, bottle, can, spool"
+  },
+  {
+    "french": "importuner (soutenue)",
+    "english": "to bother, to disturb, to annoy"
+  },
+  {
+    "french": "rassasier",
+    "english": "to satisfy"
+  },
+  {
+    "french": "vouer",
+    "english": "to devote, dedicate, vow"
+  },
+  {
+    "french": "à peine (littéraire)",
+    "english": "hardly, barely, just"
+  },
+  {
+    "french": "une fois que",
+    "english": "once"
+  },
+  {
+    "french": "se faire couper les cheveux",
+    "english": "to have a haircut"
+  },
+  {
+    "french": "une rature",
+    "english": "a crossing out, deletion"
+  },
+  {
+    "french": "un amas",
+    "english": "heap, mass"
+  },
+  {
+    "french": "le bétail",
+    "english": "cattle, livestock"
+  },
+  {
+    "french": "luire",
+    "english": "to shine, gleam, glow"
+  },
+  {
+    "french": "à l'égard de",
+    "english": "toward, concerning, regarding"
+  },
+  {
+    "french": "éberlué",
+    "english": "stunned"
+  },
+  {
+    "french": "faire corps (avec)",
+    "english": "to blend in, be one with"
+  },
+  {
+    "french": "le balisage",
+    "english": "sign-postings, markings"
+  },
+  {
+    "french": "une consigne",
+    "english": "orders, instructions"
+  },
+  {
+    "french": "immoler",
+    "english": "to sacrifice"
+  },
+  {
+    "french": "la Sainte Cène",
+    "english": "the Lord's Supper"
+  },
+  {
+    "french": "gratter",
+    "english": "to scratch"
+  },
+  {
+    "french": "ému (émouvoir)",
+    "english": "moved"
+  },
+  {
+    "french": "un traité",
+    "english": "treaty"
+  },
+  {
+    "french": "survenir",
+    "english": "to occur, arise, arrive unexpectedly"
+  },
+  {
+    "french": "rebrousser chemin",
+    "english": "to turn back"
+  },
+  {
+    "french": "le butin",
+    "english": "booty, loot"
+  },
+  {
+    "french": "être pris",
+    "english": "to be taken by surprise"
+  },
+  {
+    "french": "périr",
+    "english": "to die, perish"
+  },
+  {
+    "french": "une récolte",
+    "english": "harvest, crop"
+  },
+  {
+    "french": "le temps que + ?",
+    "english": "subjunctive"
+  },
+  {
+    "french": "un ouvrier",
+    "english": "(manual) laborer"
+  },
+  {
+    "french": "si tant est que",
+    "english": "even if"
+  },
+  {
+    "french": "la pénombre",
+    "english": "dim light"
+  },
+  {
+    "french": "une fuite",
+    "english": "escape, leak"
+  },
+  {
+    "french": "une bosse",
+    "english": "lump, bump"
+  },
+  {
+    "french": "Tiens?",
+    "english": "Really?"
+  },
+  {
+    "french": "(faire) piquer",
+    "english": "to put down (an animal)"
+  },
+  {
+    "french": "un tube",
+    "english": "tube"
+  },
+  {
+    "french": "la gouache",
+    "english": "water painting"
+  },
+  {
+    "french": "ergoter sur des détails",
+    "english": "to quibble over details"
+  },
+  {
+    "french": "la brume",
+    "english": "haze, mist"
+  },
+  {
+    "french": "fouetter",
+    "english": "to whip"
+  },
+  {
+    "french": "alourdir",
+    "english": "to weigh down"
+  },
+  {
+    "french": "grommeler",
+    "english": "to grumble, snort"
+  },
+  {
+    "french": "une sangsue",
+    "english": "leech"
+  },
+  {
+    "french": "naviguer",
+    "english": "to sail"
+  },
+  {
+    "french": "un pan",
+    "english": "section, patch, tail (of a garment)"
+  },
+  {
+    "french": "faute de",
+    "english": "for want of"
+  },
+  {
+    "french": "un petit",
+    "english": "baby (animal)"
+  },
+  {
+    "french": "foutu (très fam.)",
+    "english": "buggered, screwed-up"
+  },
+  {
+    "french": "errer",
+    "english": "to roam, wander"
+  },
+  {
+    "french": "un fouet",
+    "english": "whip, whisk"
+  },
+  {
+    "french": "un scarabée",
+    "english": "beetle"
+  },
+  {
+    "french": "une vierge",
+    "english": "virgin"
+  },
+  {
+    "french": "une rafle",
+    "english": "raid (police), cob (corn)"
+  },
+  {
+    "french": "clôturer",
+    "english": "to enclose, to end, to close (a bank account)"
+  },
+  {
+    "french": "la grêle",
+    "english": "hail"
+  },
+  {
+    "french": "une malediction, maudire",
+    "english": "curse"
+  },
+  {
+    "french": "le parvis",
+    "english": "front (of a church outside)"
+  },
+  {
+    "french": "nuire à",
+    "english": "to harm"
+  },
+  {
+    "french": "au fur et à mesure",
+    "english": "gradually"
+  },
+  {
+    "french": "un tintamarre",
+    "english": "racket, din (noise)"
+  },
+  {
+    "french": "déglingué",
+    "english": "coming apart, falling to pieces"
+  },
+  {
+    "french": "se disputer",
+    "english": "to argue, fight"
+  },
+  {
+    "french": "à tue-tête",
+    "english": "at the top of one's voice"
+  },
+  {
+    "french": "ululer",
+    "english": "to hoot (owl)"
+  },
+  {
+    "french": "vrombir",
+    "english": "to buzz, throb, hum"
+  },
+  {
+    "french": "égoïste, le égoïsme",
+    "english": "selfish, selfishness"
+  },
+  {
+    "french": "moissonner",
+    "english": "to harvest, reap"
+  },
+  {
+    "french": "s'écrouler",
+    "english": "to fall down, collapse, cave in"
+  },
+  {
+    "french": "montrer du doigt",
+    "english": "to point the finger"
+  },
+  {
+    "french": "prendre sur soi",
+    "english": "to grin and bear it"
+  },
+  {
+    "french": "prendre sur soi de faire quelque chose",
+    "english": "to take it upon oneself to do something"
+  },
+  {
+    "french": "plébisciter",
+    "english": "to approve (by a large majority)"
+  },
+  {
+    "french": "un forcené",
+    "english": "maniac"
+  },
+  {
+    "french": "éprouver",
+    "english": "to feel, experience, to try, test"
+  },
+  {
+    "french": "un bout de bois",
+    "english": "stick"
+  },
+  {
+    "french": "une coque",
+    "english": "cockle, shell, loop, curl"
+  },
+  {
+    "french": "une dalle",
+    "english": "flagstone, slab"
+  },
+  {
+    "french": "une rafale",
+    "english": "blast, gust, burst"
+  },
+  {
+    "french": "méconnu",
+    "english": "unappreciated, obscure, unrecognized"
+  },
+  {
+    "french": "un vaccin",
+    "english": "vaccine"
+  },
+  {
+    "french": "un passeur",
+    "english": "ferryman, smuggler"
+  },
+  {
+    "french": "une paroi",
+    "english": "wall"
+  },
+  {
+    "french": "une remorque",
+    "english": "towing, trailer"
+  },
+  {
+    "french": "justement<br>Ex. J'allais justement te téléphoner",
+    "english": "about to, precisely, rightly<br>I was just going to phone you"
+  },
+  {
+    "french": "les restes",
+    "english": "leftovers"
+  },
+  {
+    "french": "désuet",
+    "english": "old-fashioned"
+  },
+  {
+    "french": "tant pis",
+    "english": "too bad, what a shame"
+  },
+  {
+    "french": "épanouir",
+    "english": "to blossom, open up, to light up"
+  },
+  {
+    "french": "Il faut du temps pour...",
+    "english": "It takes time to..."
+  },
+  {
+    "french": "la nature pécheresse",
+    "english": "sinful nature"
+  },
+  {
+    "french": "repentir (de)",
+    "english": "to regret, to repent"
+  },
+  {
+    "french": "J'ai failli avoir (un accident)",
+    "english": "I almost had (an accident)"
+  },
+  {
+    "french": "punaise !",
+    "english": "gee whiz!"
+  },
+  {
+    "french": "confus",
+    "english": "unclear"
+  },
+  {
+    "french": "inné",
+    "english": "innate"
+  },
+  {
+    "french": "dés",
+    "english": "from"
+  },
+  {
+    "french": "inéluctable",
+    "english": "inevitable"
+  },
+  {
+    "french": "rédhibitoire",
+    "english": "prohibitive, insurmountable, unacceptable"
+  },
+  {
+    "french": "en guise de",
+    "english": "by way of, in place of"
+  },
+  {
+    "french": "la carlingue",
+    "english": "cabin (of an aircraft)"
+  },
+  {
+    "french": "soupir",
+    "english": "to sigh"
+  },
+  {
+    "french": "kiffer (argot)",
+    "english": "to like"
+  },
+  {
+    "french": "niquer (vulg.)",
+    "english": "to f*ck"
+  },
+  {
+    "french": "gamin",
+    "english": "child, childish"
+  },
+  {
+    "french": "déconner",
+    "english": "to kid around"
+  },
+  {
+    "french": "une rancune",
+    "english": "resentment, grudge"
+  },
+  {
+    "french": "sans rancune",
+    "english": "no hard feelings"
+  },
+  {
+    "french": "garder rancune&nbsp;à qqn",
+    "english": "to hold a grudge against somebody"
+  },
+  {
+    "french": "charrier",
+    "english": "to cart, haul; to tease; to go too far"
+  },
+  {
+    "french": "une fosse",
+    "english": "pit"
+  },
+  {
+    "french": "une teigne",
+    "english": "ringworm"
+  },
+  {
+    "french": "un habit",
+    "english": "costume, outfit"
+  },
+  {
+    "french": "un lambeau",
+    "english": "scrap, strip, bit"
+  },
+  {
+    "french": "une attente",
+    "english": "wait, expectation"
+  },
+  {
+    "french": "une carrière",
+    "english": "quarry, career"
+  },
+  {
+    "french": "un squale",
+    "english": "shark"
+  },
+  {
+    "french": "une pépite",
+    "english": "nugget"
+  },
+  {
+    "french": "forger",
+    "english": "to forge; to make up, coin"
+  },
+  {
+    "french": "l'usure",
+    "english": "wear (and tear)"
+  },
+  {
+    "french": "poser une question sur",
+    "english": "to ask about"
+  },
+  {
+    "french": "renvoyer",
+    "english": "to send back; to discharge"
+  },
+  {
+    "french": "un flambeau",
+    "english": "torch, candlestick"
+  },
+  {
+    "french": "l'avortement",
+    "english": "abortion"
+  },
+  {
+    "french": "ramasser",
+    "english": "to pick up"
+  },
+  {
+    "french": "décrocher",
+    "english": "to get"
+  },
+  {
+    "french": "la capuche",
+    "english": "hood"
+  },
+  {
+    "french": "badger",
+    "english": "to swipe in, swipe out"
+  },
+  {
+    "french": "un buteur",
+    "english": "striker (soccer), killer (assassin; tres familiar)"
+  },
+  {
+    "french": "buter",
+    "english": "to trip, stumble"
+  },
+  {
+    "french": "plaindre",
+    "english": "to feel sorry for, pity"
+  },
+  {
+    "french": "un bossu",
+    "english": "hunchback"
+  },
+  {
+    "french": "décider +",
+    "english": "à"
+  },
+  {
+    "french": "mettre +",
+    "english": "à"
+  },
+  {
+    "french": "c'est suffisant +",
+    "english": "à faire qqch"
+  },
+  {
+    "french": "être spécialisé +",
+    "english": "dans"
+  },
+  {
+    "french": "être différent +",
+    "english": "à qqch"
+  },
+  {
+    "french": "être prête +",
+    "english": "à"
+  },
+  {
+    "french": "du coup",
+    "english": "as a result, so"
+  },
+  {
+    "french": "rabâcher",
+    "english": "to keep repeating; keep harping on"
+  },
+  {
+    "french": "un gros plan",
+    "english": "close-up"
+  },
+  {
+    "french": "mélo",
+    "english": "soppy, melodramatic"
+  },
+  {
+    "french": "un navet",
+    "english": "rubbish film"
+  },
+  {
+    "french": "cinoche (fam.)",
+    "english": "the cinema"
+  },
+  {
+    "french": "un figurant",
+    "english": "extra (in a film)"
+  },
+  {
+    "french": "le générique",
+    "english": "credits (after a film)"
+  },
+  {
+    "french": "un potager",
+    "english": "veggie garden"
+  },
+  {
+    "french": "au ralenti",
+    "english": "in slow-motion"
+  },
+  {
+    "french": "piètre (avant nom)",
+    "english": "very poor, mediocre"
+  },
+  {
+    "french": "minable",
+    "english": "dingy, shabby, lousy, tatty"
+  },
+  {
+    "french": "ferrer",
+    "english": "to rim, to shoe (a horse)"
+  },
+  {
+    "french": "benoît",
+    "english": "bland"
+  },
+  {
+    "french": "une dérogation",
+    "english": "dispensation, exemption"
+  },
+  {
+    "french": "emboîter",
+    "english": "to fit together; to follow someone"
+  },
+  {
+    "french": "une paupière",
+    "english": "eyelid"
+  },
+  {
+    "french": "le fard",
+    "english": "make-up"
+  },
+  {
+    "french": "une ride",
+    "english": "wrinkle, line, ripple"
+  },
+  {
+    "french": "grogner",
+    "english": "to grumble, grunt, growl"
+  },
+  {
+    "french": "le poignet",
+    "english": "wrist"
+  },
+  {
+    "french": "un prêt",
+    "english": "loan"
+  },
+  {
+    "french": "un pansement",
+    "english": "bandaid"
+  },
+  {
+    "french": "un supplice",
+    "english": "torture, agony"
+  },
+  {
+    "french": "un détroit",
+    "english": "strait"
+  },
+  {
+    "french": "une bide",
+    "english": "belly, gut; flop (failure)"
+  },
+  {
+    "french": "repérer",
+    "english": "to mark, to locate; to spot (someone)"
+  },
+  {
+    "french": "je ne suis pas sûre + ?",
+    "english": "de (not 'si')"
+  },
+  {
+    "french": "Cela dépend du fait de/que",
+    "english": "It depends if"
+  },
+  {
+    "french": "galant",
+    "english": "honorable, gentlemanly"
+  },
+  {
+    "french": "un chahut",
+    "english": "bedlam"
+  },
+  {
+    "french": "un vacarme",
+    "english": "din, racket"
+  },
+  {
+    "french": "soulever",
+    "english": "to lift, to pick up something&nbsp;"
+  },
+  {
+    "french": "un garrot",
+    "english": "tourniquet"
+  },
+  {
+    "french": "une ortie",
+    "english": "nettle"
+  },
+  {
+    "french": "une carapace",
+    "english": "shell"
+  },
+  {
+    "french": "se fendre",
+    "english": "to crack, split"
+  },
+  {
+    "french": "brasser",
+    "english": "to toss [something] around"
+  },
+  {
+    "french": "une couleuvre",
+    "english": "grass snake"
+  },
+  {
+    "french": "inoffensif",
+    "english": "harmless"
+  },
+  {
+    "french": "atteler",
+    "english": "to harness, yoke, hitch up"
+  },
+  {
+    "french": "harnacher",
+    "english": "to harness"
+  },
+  {
+    "french": "bis",
+    "english": "twice, repeat"
+  },
+  {
+    "french": "la bêtise",
+    "english": "stupidity"
+  },
+  {
+    "french": "héberger",
+    "english": "to put somebody up, to house, to take somebody in"
+  },
+  {
+    "french": "étanche (à l'eau)",
+    "english": "waterproof"
+  },
+  {
+    "french": "étancher",
+    "english": "to quench"
+  },
+  {
+    "french": "un&nbsp;évier",
+    "english": "sink"
+  },
+  {
+    "french": "desservir",
+    "english": "to serve (service), to lead to"
+  },
+  {
+    "french": "un vis",
+    "english": "screw"
+  },
+  {
+    "french": "un&nbsp;écrou",
+    "english": "nut (hardware)"
+  },
+  {
+    "french": "un ressort",
+    "english": "spring, resilience, impulse"
+  },
+  {
+    "french": "une touche",
+    "english": "key (keyboard), button; sideline"
+  },
+  {
+    "french": "pivoter",
+    "english": "to swivel, pivot, turn"
+  },
+  {
+    "french": "visser",
+    "english": "to screw [sth] on"
+  },
+  {
+    "french": "une corde",
+    "english": "rope"
+  },
+  {
+    "french": "intact",
+    "english": "intact"
+  },
+  {
+    "french": "mince, fin",
+    "english": "thin"
+  },
+  {
+    "french": "un fil",
+    "english": "thread, wire"
+  },
+  {
+    "french": "un tuyau",
+    "english": "pipe"
+  },
+  {
+    "french": "injurier",
+    "english": "to insult, swear at, call names"
+  },
+  {
+    "french": "comploter",
+    "english": "to plot"
+  },
+  {
+    "french": "rentable",
+    "english": "profitable"
+  },
+  {
+    "french": "à en croire (l'auteur)",
+    "english": "if we are to believe (the author)"
+  },
+  {
+    "french": "un machin",
+    "english": "thingy"
+  },
+  {
+    "french": "un rouleau",
+    "english": "scroll"
+  },
+  {
+    "french": "une affiche",
+    "english": "poster, notice"
+  },
+  {
+    "french": "un charnier",
+    "english": "mass grave"
+  },
+  {
+    "french": "une&nbsp;charnière",
+    "english": "hinge, joint"
+  },
+  {
+    "french": "un interrupteur",
+    "english": "switch"
+  },
+  {
+    "french": "une canneberge",
+    "english": "cranberry"
+  },
+  {
+    "french": "traquer",
+    "english": "to track down, stalk"
+  },
+  {
+    "french": "un&nbsp;fléau",
+    "english": "scourge, pest, curse"
+  },
+  {
+    "french": "frotter",
+    "english": "to rub; to strike (a match); to scrub"
+  },
+  {
+    "french": "je suis allergique&nbsp;à",
+    "english": "I am allergic to&nbsp;"
+  },
+  {
+    "french": "un gosse",
+    "english": "kid, child"
+  },
+  {
+    "french": "Tina, chez qui on mange...",
+    "english": "Tina, at whose house we eat..."
+  },
+  {
+    "french": "un pair",
+    "english": "peer"
+  },
+  {
+    "french": "un ras-le-bol",
+    "english": "frustration, exasperation"
+  },
+  {
+    "french": "étrangler",
+    "english": "to strangle"
+  },
+  {
+    "french": "opiniâtre",
+    "english": "stubborn, obstinate"
+  },
+  {
+    "french": "gésir",
+    "english": "to be lying (i.e. not standing)"
+  },
+  {
+    "french": "abreuver",
+    "english": "to water (animals)"
+  },
+  {
+    "french": "aménagement",
+    "english": "laying out, landscaping"
+  },
+  {
+    "french": "tâcher de",
+    "english": "to try to"
+  },
+  {
+    "french": "les aînés",
+    "english": "the elders"
+  },
+  {
+    "french": "déterrer",
+    "english": "to dig up, to unearth"
+  },
+  {
+    "french": "une boucle",
+    "english": "curl, loop, lap"
+  },
+  {
+    "french": "un cercle",
+    "english": "circle"
+  },
+  {
+    "french": "un pieu",
+    "english": "post, stake, bed (fam.)"
+  },
+  {
+    "french": "et pour cause",
+    "english": "and for good reason"
+  },
+  {
+    "french": "force est de constater que",
+    "english": "there is no choice but to accept that"
+  },
+  {
+    "french": "les coulisses",
+    "english": "corridors, wings"
+  },
+  {
+    "french": "gravir",
+    "english": "to climb"
+  },
+  {
+    "french": "gisant (lit.)",
+    "english": "lifeless, motionless"
+  },
+  {
+    "french": "tantôt..., tantôt",
+    "english": "sometimes... sometimes"
+  },
+  {
+    "french": "pâlir",
+    "english": "to fade, to grow pale"
+  },
+  {
+    "french": "jaillir",
+    "english": "to spring, to burst forth"
+  },
+  {
+    "french": "impayable",
+    "english": "priceless"
+  },
+  {
+    "french": "malmener",
+    "english": "to manhandle, handle roughly"
+  },
+  {
+    "french": "vécu",
+    "english": "real, real-life, true"
+  },
+  {
+    "french": "conclure",
+    "english": "to conclude, to sign (a treaty), to agree to"
+  },
+  {
+    "french": "malhabile",
+    "english": "clumsy"
+  },
+  {
+    "french": "acquitter",
+    "english": "to pay, to settle"
+  },
+  {
+    "french": "faussaire",
+    "english": "faker, forger, falsifier"
+  },
+  {
+    "french": "engrenage",
+    "english": "gear, trap"
+  },
+  {
+    "french": "prévaloir",
+    "english": "to prevail"
+  },
+  {
+    "french": "une fouille",
+    "english": "search, frisking"
+  },
+  {
+    "french": "la paume",
+    "english": "palm (of the hand)"
+  },
+  {
+    "french": "enroué",
+    "english": "hoarse"
+  },
+  {
+    "french": "sensible",
+    "english": "sensitive"
+  },
+  {
+    "french": "endommager",
+    "english": "to damage"
+  },
+  {
+    "french": "un aviron",
+    "english": "oar"
+  },
+  {
+    "french": "le souci de",
+    "english": "caring about, concerned with"
+  },
+  {
+    "french": "un aléa",
+    "english": "unforeseen event"
+  },
+  {
+    "french": "turlupiner",
+    "english": "to bother, bug"
+  },
+  {
+    "french": "un aphte",
+    "english": "mouth ulcer"
+  },
+  {
+    "french": "avoir une attaque",
+    "english": "to have a stroke"
+  },
+  {
+    "french": "boiter",
+    "english": "to limp, be lame"
+  },
+  {
+    "french": "un cachet",
+    "english": "tablet (pill), seal"
+  },
+  {
+    "french": "avoir une angine",
+    "english": "to have a sore throat"
+  },
+  {
+    "french": "une cagnotte",
+    "english": "jackpot"
+  },
+  {
+    "french": "une police",
+    "english": "policy"
+  },
+  {
+    "french": "expirer",
+    "english": "to expire"
+  },
+  {
+    "french": "le giron",
+    "english": "lap, bosom"
+  },
+  {
+    "french": "une rainure",
+    "english": "groove, slot"
+  },
+  {
+    "french": "volontiers",
+    "english": "gladly, willingly, with pleasure"
+  },
+  {
+    "french": "trébucher contre/sur",
+    "english": "to stumble"
+  },
+  {
+    "french": "se défouler",
+    "english": "to let off steam, unwind"
+  },
+  {
+    "french": "être sous l'emprise de la drogue",
+    "english": "to be on drugs"
+  },
+  {
+    "french": "être défoncé (argot)",
+    "english": "to be high"
+  },
+  {
+    "french": "se tracasser",
+    "english": "to worry"
+  },
+  {
+    "french": "Ça l'fait",
+    "english": "That's alright, ok"
+  },
+  {
+    "french": "un caïd",
+    "english": "big shot, wiz, mafia boss"
+  },
+  {
+    "french": "une clope (fam.)",
+    "english": "cigarette"
+  },
+  {
+    "french": "se saper<br>être bien/mal sapé",
+    "english": "to dress<br>to dress well/poorly"
+  },
+  {
+    "french": "moyenner",
+    "english": "to average (math), to barter"
+  },
+  {
+    "french": "une cité u(niversitaire)",
+    "english": "halls of residence, dorms"
+  },
+  {
+    "french": "avoir vocation à/pour faire",
+    "english": "to be empowered to do something"
+  },
+  {
+    "french": "Tu me prends la tête !",
+    "english": "You're really annoying me!"
+  },
+  {
+    "french": "Tu me soûle !",
+    "english": "You're making me dizzy!"
+  },
+  {
+    "french": "l'ivresse",
+    "english": "drunkenness"
+  },
+  {
+    "french": "dévoyé",
+    "english": "corrupt, perverted"
+  },
+  {
+    "french": "à l'insu de",
+    "english": "unbeknownst to"
+  },
+  {
+    "french": "à mon insu",
+    "english": "unwittingly"
+  },
+  {
+    "french": "entamer",
+    "english": "to start, launch"
+  },
+  {
+    "french": "un attentat",
+    "english": "assassination attempt, attack"
+  },
+  {
+    "french": "sans faute",
+    "english": "without fail"
+  },
+  {
+    "french": "rosser",
+    "english": "to hammer, thrash"
+  },
+  {
+    "french": "friper",
+    "english": "to crumble, crease"
+  },
+  {
+    "french": "une arnaque",
+    "english": "scam, rip-off"
+  },
+  {
+    "french": "une échasse",
+    "english": "stilt"
+  },
+  {
+    "french": "fantasmer (sur)",
+    "english": "to fantasize (about)"
+  },
+  {
+    "french": "plaquer",
+    "english": "to lay flat, to tackle"
+  },
+  {
+    "french": "une bécane (fam.)",
+    "english": "bike; computer"
+  },
+  {
+    "french": "une sirène",
+    "english": "siren; mermaid"
+  },
+  {
+    "french": "un frimeur",
+    "english": "show-off"
+  },
+  {
+    "french": "une toupie",
+    "english": "a top"
+  },
+  {
+    "french": "un couac",
+    "english": "quack, flop"
+  },
+  {
+    "french": "cruche",
+    "english": "stupid"
+  },
+  {
+    "french": "salace",
+    "english": "lewd"
+  },
+  {
+    "french": "une tronche (fam.)",
+    "english": "face"
+  },
+  {
+    "french": "chahuter",
+    "english": "to heckle, to cause a racket"
+  },
+  {
+    "french": "emmerder (très fam.)",
+    "english": "to bug, hassle"
+  },
+  {
+    "french": "dépecer",
+    "english": "to dismember"
+  },
+  {
+    "french": "réverbérer",
+    "english": "to reflect"
+  },
+  {
+    "french": "un discours",
+    "english": "speech"
+  },
+  {
+    "french": "un réverbère",
+    "english": "streetlight"
+  },
+  {
+    "french": "un ménage",
+    "english": "a household"
+  },
+  {
+    "french": "la luzerne",
+    "english": "alfalfa"
+  },
+  {
+    "french": "un frelon",
+    "english": "hornet"
+  },
+  {
+    "french": "une bonniche (fam.)",
+    "english": "maid"
+  },
+  {
+    "french": "bouquiner (fam.)",
+    "english": "to read"
+  },
+  {
+    "french": "dégainer",
+    "english": "to unsheathe"
+  },
+  {
+    "french": "les nues (lit.)",
+    "english": "the skies"
+  },
+  {
+    "french": "le lin",
+    "english": "linen, flax"
+  },
+  {
+    "french": "dépouiller",
+    "english": "to skin; to dispossess; to cast aside"
+  },
+  {
+    "french": "ordonner",
+    "english": "to command"
+  },
+  {
+    "french": "la luxure",
+    "english": "lust"
+  },
+  {
+    "french": "l'avidité",
+    "english": "greed"
+  },
+  {
+    "french": "taper",
+    "english": "to hit, slap; to type, dial"
+  },
+  {
+    "french": "une promise",
+    "english": "a betrothed"
+  },
+  {
+    "french": "une jante",
+    "english": "rim (of a wheel)"
+  },
+  {
+    "french": "un essor",
+    "english": "flight; development"
+  },
+  {
+    "french": "donné",
+    "english": "cheap (inexpensive)"
+  },
+  {
+    "french": "un lest",
+    "english": "ballast"
+  },
+  {
+    "french": "un lys",
+    "english": "lily"
+  },
+  {
+    "french": "empoisonné",
+    "english": "poisonous"
+  },
+  {
+    "french": "oisif",
+    "english": "idle, unproductive"
+  },
+  {
+    "french": "un tiers",
+    "english": "third party"
+  },
+  {
+    "french": "en trop",
+    "english": "spare, extra; too many, too much"
+  },
+  {
+    "french": "raviser",
+    "english": "to change one's mind"
+  },
+  {
+    "french": "un vaisseau",
+    "english": "vessel"
+  },
+  {
+    "french": "une&nbsp;étreinte",
+    "english": "embrace"
+  },
+  {
+    "french": "taxer qqn de",
+    "english": "to accuse somebody of"
+  },
+  {
+    "french": "la fougue",
+    "english": "passion, spirit"
+  },
+  {
+    "french": "un inconnu",
+    "english": "a stranger"
+  },
+  {
+    "french": "la vendage",
+    "english": "grape-picking"
+  },
+  {
+    "french": "le carburant",
+    "english": "fuel"
+  },
+  {
+    "french": "surenchérir",
+    "english": "to make a higher bid; to outdo; to chime in"
+  },
+  {
+    "french": "impoli",
+    "english": "rude"
+  },
+  {
+    "french": "les fournitures",
+    "english": "materials"
+  },
+  {
+    "french": "invaincu",
+    "english": "unbeaten"
+  },
+  {
+    "french": "un accrochage",
+    "english": "hanging (up); collision (auto)"
+  },
+  {
+    "french": "une mansarde",
+    "english": "attic"
+  },
+  {
+    "french": "repartir",
+    "english": "to set off again"
+  },
+  {
+    "french": "ligoter",
+    "english": "to tie up"
+  },
+  {
+    "french": "riposter",
+    "english": "to answer back, respond"
+  },
+  {
+    "french": "trompeur (adj)",
+    "english": "deceitful"
+  },
+  {
+    "french": "sournois",
+    "english": "sly"
+  },
+  {
+    "french": "intimer",
+    "english": "to instruct, order, summon"
+  },
+  {
+    "french": "faucher",
+    "english": "to reap, mow down; to swipe/swoop"
+  },
+  {
+    "french": "le feutre",
+    "english": "felt (material, pen)"
+  },
+  {
+    "french": "craquer",
+    "english": "to split open, to fall in love with something, to fall apart"
+  },
+  {
+    "french": "subir",
+    "english": "to be subjected to, to undergo, to put up with"
+  },
+  {
+    "french": "une devise",
+    "english": "motto, currency"
+  },
+  {
+    "french": "étirer",
+    "english": "to stretch"
+  },
+  {
+    "french": "un relief",
+    "english": "highlight"
+  },
+  {
+    "french": "un palier",
+    "english": "landing (flat) , stage, level"
+  },
+  {
+    "french": "un arbustre",
+    "english": "bush, shrub"
+  },
+  {
+    "french": "un marécage",
+    "english": "marsh, swamp"
+  },
+  {
+    "french": "un lamantin",
+    "english": "manatee"
+  },
+  {
+    "french": "un faisan",
+    "english": "pheasant; crook"
+  },
+  {
+    "french": "bariolé",
+    "english": "colorful"
+  },
+  {
+    "french": "traire",
+    "english": "to milk"
+  },
+  {
+    "french": "la traite des Noirs",
+    "english": "the slave trade"
+  },
+  {
+    "french": "sévir",
+    "english": "to be rampant"
+  },
+  {
+    "french": "un comptoir",
+    "english": "bar (café), check out counter, trading post"
+  },
+  {
+    "french": "répartir",
+    "english": "to divide, distribute"
+  },
+  {
+    "french": "analphabète",
+    "english": "illiterate"
+  },
+  {
+    "french": "troquer",
+    "english": "to exchange, barter, swap"
+  },
+  {
+    "french": "défricher",
+    "english": "to clear (a terrain)"
+  },
+  {
+    "french": "brut",
+    "english": "raw, crude, simple, plain"
+  },
+  {
+    "french": "l'étain (m)",
+    "english": "tin"
+  },
+  {
+    "french": "un garde-fou",
+    "english": "safeguard"
+  },
+  {
+    "french": "se faufiler",
+    "english": "to squeeze in; to snake in and out"
+  },
+  {
+    "french": "entasser",
+    "english": "to pile up/in; to cram in"
+  },
+  {
+    "french": "la broderie",
+    "english": "embroidery"
+  },
+  {
+    "french": "la vannerie",
+    "english": "basket making"
+  },
+  {
+    "french": "le fiente",
+    "english": "droppings (dung)"
+  },
+  {
+    "french": "l'égérie",
+    "english": "muse (inspiration)"
+  },
+  {
+    "french": "ébarber",
+    "english": "to trim"
+  },
+  {
+    "french": "casher/kasher",
+    "english": "kosher"
+  },
+  {
+    "french": "résilier",
+    "english": "to cancel, terminate"
+  },
+  {
+    "french": "jadis",
+    "english": "formerly, long ago, in olden days"
+  },
+  {
+    "french": "l'écorce",
+    "english": "bark (of a tree)"
+  },
+  {
+    "french": "tressaillir de",
+    "english": "to quiver with (joy or pain) <br>to jump for joy"
+  },
+  {
+    "french": "une semence",
+    "english": "seed"
+  },
+  {
+    "french": "une parure",
+    "english": "set, set of jewels"
+  },
+  {
+    "french": "se parer de",
+    "english": "to adorn oneself with"
+  },
+  {
+    "french": "un tesson",
+    "english": "fragment"
+  },
+  {
+    "french": "la réclame",
+    "english": "publicity"
+  },
+  {
+    "french": "réclamer",
+    "english": "to demand, call for, complain"
+  },
+  {
+    "french": "indécent",
+    "english": "indecent"
+  },
+  {
+    "french": "futé",
+    "english": "smart, clever"
+  },
+  {
+    "french": "dévaliser",
+    "english": "to rob, raid"
+  },
+  {
+    "french": "serré",
+    "english": "tight"
+  },
+  {
+    "french": "courbe",
+    "english": "curved, rounded"
+  },
+  {
+    "french": "brouter",
+    "english": "to graze"
+  },
+  {
+    "french": "un joug",
+    "english": "yoke"
+  },
+  {
+    "french": "le seigle",
+    "english": "rye"
+  },
+  {
+    "french": "renverser",
+    "english": "to spill"
+  },
+  {
+    "french": "froisser",
+    "english": "to crease, crumple"
+  },
+  {
+    "french": "rafler",
+    "english": "to swipe, swoop, grab"
+  },
+  {
+    "french": "à la rescousse",
+    "english": "to the rescue"
+  },
+  {
+    "french": "goulûment",
+    "english": "greedily"
+  },
+  {
+    "french": "nauséabond",
+    "english": "foul-smelling"
+  },
+  {
+    "french": "le meilleur que j'ai pu manger",
+    "english": "the best I've ever eaten"
+  },
+  {
+    "french": "un petit bout de femme",
+    "english": "fiery pistol of a woman"
+  },
+  {
+    "french": "du jamais vu",
+    "english": "Never before seen!"
+  },
+  {
+    "french": "empiler",
+    "english": "to stack (up)"
+  },
+  {
+    "french": "un guet-apens",
+    "english": "ambush"
+  },
+  {
+    "french": "un appât",
+    "english": "bait"
+  },
+  {
+    "french": "le dénivelé",
+    "english": "difference in level or height"
+  },
+  {
+    "french": "un flacon",
+    "english": "(small) bottle; flask"
+  },
+  {
+    "french": "décompresser",
+    "english": "to relax, unwind"
+  },
+  {
+    "french": "avoir du sense",
+    "english": "to make sense"
+  },
+  {
+    "french": "s'en faire",
+    "english": "to worry"
+  },
+  {
+    "french": "postuler",
+    "english": "to apply for"
+  },
+  {
+    "french": "tenir sa promesse",
+    "english": "to keep one's promise"
+  },
+  {
+    "french": "une cuve",
+    "english": "tank, cistern, vat"
+  },
+  {
+    "french": "un signe particulier",
+    "english": "birth mark"
+  },
+  {
+    "french": "s'empiffrer",
+    "english": "to stuff oneself"
+  },
+  {
+    "french": "une bévue",
+    "english": "blunder"
+  },
+  {
+    "french": "un dispositif",
+    "english": "device, plan"
+  },
+  {
+    "french": "chauve",
+    "english": "bald"
+  },
+  {
+    "french": "avoir du bol",
+    "english": "to be lucky"
+  },
+  {
+    "french": "se magner (fam.)",
+    "english": "to hurry up"
+  },
+  {
+    "french": "une nana (fam.)",
+    "english": "woman"
+  },
+  {
+    "french": "bourré (fam.)",
+    "english": "drunk"
+  },
+  {
+    "french": "godasses (fam.)",
+    "english": "shoes"
+  },
+  {
+    "french": "se gourer (fam.)",
+    "english": "to mess up"
+  },
+  {
+    "french": "les chiottes (fam.)",
+    "english": "toilets"
+  },
+  {
+    "french": "être gonflé",
+    "english": "to be daring"
+  },
+  {
+    "french": "crados (fam.)",
+    "english": "dirty, icky"
+  },
+  {
+    "french": "bidon (très fam.)",
+    "english": "worthless"
+  },
+  {
+    "french": "vache (fam.; adj)",
+    "english": "mean, evil"
+  },
+  {
+    "french": "un frangin (fam.)",
+    "english": "brother"
+  },
+  {
+    "french": "la mine",
+    "english": "appearance"
+  },
+  {
+    "french": "déconfit (adj.)",
+    "english": "frustrated, sheepish"
+  },
+  {
+    "french": "la teint",
+    "english": "complexion"
+  },
+  {
+    "french": "crevé",
+    "english": "punctured; exhausted (tired)"
+  },
+  {
+    "french": "se ficher de quelqu'un (fam.)",
+    "english": "to make fun of someone"
+  },
+  {
+    "french": "terrasser",
+    "english": "to bring/strike down"
+  },
+  {
+    "french": "malencontreusement",
+    "english": "ill-advisedly"
+  },
+  {
+    "french": "sevrer",
+    "english": "to wean"
+  },
+  {
+    "french": "un chas",
+    "english": "eye (of a needle)"
+  },
+  {
+    "french": "bribes",
+    "english": "scraps"
+  },
+  {
+    "french": "émailler",
+    "english": "to dot, to scatter"
+  },
+  {
+    "french": "au sein de",
+    "english": "in, inside, within"
+  },
+  {
+    "french": "autant que (possible)",
+    "english": "as far as (possible)"
+  },
+  {
+    "french": "pas que je sache",
+    "english": "not to my knowledge"
+  },
+  {
+    "french": "serein",
+    "english": "serene"
+  },
+  {
+    "french": "le savoir, la connaissance",
+    "english": "knowledge"
+  },
+  {
+    "french": "obnubiler",
+    "english": "to obsess, cloud"
+  },
+  {
+    "french": "flanquer",
+    "english": "to fling"
+  },
+  {
+    "french": "À la votre !",
+    "english": "Cheers!"
+  },
+  {
+    "french": "la jachère",
+    "english": "fallow land"
+  },
+  {
+    "french": "moisi",
+    "english": "moldy"
+  },
+  {
+    "french": "fait maison",
+    "english": "homemade"
+  },
+  {
+    "french": "navré<br>Je suis navré.",
+    "english": "sorry<br>I'm sorry."
+  },
+  {
+    "french": "édenté",
+    "english": "toothless"
+  },
+  {
+    "french": "au total",
+    "english": "in total"
+  },
+  {
+    "french": "arriver à comprendre",
+    "english": "to figure out"
+  },
+  {
+    "french": "moindre",
+    "english": "slight"
+  },
+  {
+    "french": "mendier",
+    "english": "to beg"
+  },
+  {
+    "french": "féerique",
+    "english": "magical, enchanting"
+  },
+  {
+    "french": "se magner",
+    "english": "to get a move on, hurry up"
+  }
+]

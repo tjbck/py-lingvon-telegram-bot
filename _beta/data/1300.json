@@ -1,0 +1,5466 @@
+[
+  {
+    "french": "je",
+    "english": "I"
+  },
+  {
+    "french": "tu",
+    "english": "you"
+  },
+  {
+    "french": "il",
+    "english": "he"
+  },
+  {
+    "french": "elle",
+    "english": "she"
+  },
+  {
+    "french": "nous",
+    "english": "we"
+  },
+  {
+    "french": "vous",
+    "english": "you"
+  },
+  {
+    "french": "ills (m)",
+    "english": "they"
+  },
+  {
+    "french": "elles (f)",
+    "english": "they"
+  },
+  {
+    "french": "acheter",
+    "english": "buy"
+  },
+  {
+    "french": "zéro",
+    "english": 0
+  },
+  {
+    "french": "un",
+    "english": 1
+  },
+  {
+    "french": "deux",
+    "english": 2
+  },
+  {
+    "french": "trois",
+    "english": 3
+  },
+  {
+    "french": "quatre",
+    "english": 4
+  },
+  {
+    "french": "cinq",
+    "english": 5
+  },
+  {
+    "french": "six",
+    "english": 6
+  },
+  {
+    "french": "sept",
+    "english": 7
+  },
+  {
+    "french": "huit",
+    "english": 8
+  },
+  {
+    "french": "neuf",
+    "english": 9
+  },
+  {
+    "french": "dix",
+    "english": 10
+  },
+  {
+    "french": "onze",
+    "english": 11
+  },
+  {
+    "french": "douze",
+    "english": 12
+  },
+  {
+    "french": "treize",
+    "english": 13
+  },
+  {
+    "french": "quatorze",
+    "english": 14
+  },
+  {
+    "french": "quinze",
+    "english": 15
+  },
+  {
+    "french": "seize",
+    "english": 16
+  },
+  {
+    "french": "dix-sept",
+    "english": 17
+  },
+  {
+    "french": "dix-huit",
+    "english": 18
+  },
+  {
+    "french": "dix-neuf",
+    "english": 19
+  },
+  {
+    "french": "vingt",
+    "english": 20
+  },
+  {
+    "french": "vingt et un",
+    "english": 21
+  },
+  {
+    "french": "vingt-deux",
+    "english": 22
+  },
+  {
+    "french": "vingt-trois",
+    "english": 23
+  },
+  {
+    "french": "trente",
+    "english": 30
+  },
+  {
+    "french": "trente et un",
+    "english": 31
+  },
+  {
+    "french": "trente-deux",
+    "english": 32
+  },
+  {
+    "french": "quarante",
+    "english": 40
+  },
+  {
+    "french": "cinquante",
+    "english": 50
+  },
+  {
+    "french": "soixante",
+    "english": 60
+  },
+  {
+    "french": "soixante-dix",
+    "english": 70
+  },
+  {
+    "french": "soixante et onze",
+    "english": 71
+  },
+  {
+    "french": "soixante-douze",
+    "english": 72
+  },
+  {
+    "french": "soixante-dix-huit",
+    "english": 78
+  },
+  {
+    "french": "quatre-vingts",
+    "english": 80
+  },
+  {
+    "french": "quatre-vingt-un",
+    "english": 81
+  },
+  {
+    "french": "quatre-vingt-deux",
+    "english": 82
+  },
+  {
+    "french": "quatre-vingt-dix",
+    "english": 90
+  },
+  {
+    "french": "quatre-vingt-onze",
+    "english": 91
+  },
+  {
+    "french": "quatre-vingt-douze",
+    "english": 92
+  },
+  {
+    "french": "cent",
+    "english": 100
+  },
+  {
+    "french": "cent un",
+    "english": 101
+  },
+  {
+    "french": "deux cents",
+    "english": 200
+  },
+  {
+    "french": "deux cent un",
+    "english": 201
+  },
+  {
+    "french": "trois cents",
+    "english": 300
+  },
+  {
+    "french": "quatre cents",
+    "english": 400
+  },
+  {
+    "french": "cinq cents",
+    "english": 500
+  },
+  {
+    "french": "six cents",
+    "english": 600
+  },
+  {
+    "french": "sept cents",
+    "english": 700
+  },
+  {
+    "french": "huit cents",
+    "english": 800
+  },
+  {
+    "french": "neuf cents",
+    "english": 900
+  },
+  {
+    "french": "mille",
+    "english": 1
+  },
+  {
+    "french": "mille cent un",
+    "english": 1.101
+  },
+  {
+    "french": "dix mille",
+    "english": 10
+  },
+  {
+    "french": "un million",
+    "english": "1.000.000"
+  },
+  {
+    "french": "deux millions",
+    "english": "2.000.000"
+  },
+  {
+    "french": "un milliard",
+    "english": "1.000.000.000"
+  },
+  {
+    "french": "un billion",
+    "english": "1.000.000.000.000"
+  },
+  {
+    "french": "premier, -ière",
+    "english": "1st"
+  },
+  {
+    "french": "deuxième, second(e)",
+    "english": "2nd"
+  },
+  {
+    "french": "troisième",
+    "english": "3rd"
+  },
+  {
+    "french": "quatrième",
+    "english": "4th"
+  },
+  {
+    "french": "cinquième",
+    "english": "5th"
+  },
+  {
+    "french": "sixième",
+    "english": "6th"
+  },
+  {
+    "french": "septième",
+    "english": "7th"
+  },
+  {
+    "french": "huitième",
+    "english": "8th"
+  },
+  {
+    "french": "neuvième",
+    "english": "9th"
+  },
+  {
+    "french": "dixième",
+    "english": "10th"
+  },
+  {
+    "french": "vingtième",
+    "english": "20th"
+  },
+  {
+    "french": "vingt et unième",
+    "english": "21st"
+  },
+  {
+    "french": "centième",
+    "english": "100th"
+  },
+  {
+    "french": "deux cent unième",
+    "english": "201st"
+  },
+  {
+    "french": "millième",
+    "english": "1000th"
+  },
+  {
+    "french": "la moitié; un(e) demi(e)",
+    "english": "½"
+  },
+  {
+    "french": "zéro virgule cinq",
+    "english": "0,5"
+  },
+  {
+    "french": "un tiers",
+    "english": "03-Jan"
+  },
+  {
+    "french": "un quart",
+    "english": "¼"
+  },
+  {
+    "french": "trois quarts",
+    "english": "¾"
+  },
+  {
+    "french": "trois deux tiers",
+    "english": "3 2/3"
+  },
+  {
+    "french": "trois ans et demi",
+    "english": "3½ years"
+  },
+  {
+    "french": "Quelle est la date aujourd'hui?",
+    "english": "What is today's dateي"
+  },
+  {
+    "french": "C'est&nbsp;&nbsp;le premier mai",
+    "english": "It is May 1st"
+  },
+  {
+    "french": "C'est&nbsp;&nbsp;le deux mars",
+    "english": "It is&nbsp;&nbsp;March 2nd"
+  },
+  {
+    "french": "C'est&nbsp;&nbsp;le trente et un octobre",
+    "english": "It is&nbsp;&nbsp;October 31st"
+  },
+  {
+    "french": "aujourd'hui",
+    "english": "today"
+  },
+  {
+    "french": "hier",
+    "english": "yesterday"
+  },
+  {
+    "french": "demain",
+    "english": "tomorrow"
+  },
+  {
+    "french": "avant-hier",
+    "english": "day before yesterday"
+  },
+  {
+    "french": "après-demain",
+    "english": "day after tomorrow"
+  },
+  {
+    "french": "lundi",
+    "english": "Monday"
+  },
+  {
+    "french": "mardi",
+    "english": "Tuesday"
+  },
+  {
+    "french": "mercredi",
+    "english": "Wednesday"
+  },
+  {
+    "french": "jeudi",
+    "english": "Thursday"
+  },
+  {
+    "french": "vendredi",
+    "english": "Friday"
+  },
+  {
+    "french": "samedi",
+    "english": "Saturday"
+  },
+  {
+    "french": "dimanche",
+    "english": "Sunday"
+  },
+  {
+    "french": "C'est lundi.",
+    "english": "It's Monday."
+  },
+  {
+    "french": "Quel jour sommes-nous?",
+    "english": "What day of the week is itي"
+  },
+  {
+    "french": "janvier",
+    "english": "January"
+  },
+  {
+    "french": "février",
+    "english": "February"
+  },
+  {
+    "french": "mars",
+    "english": "March"
+  },
+  {
+    "french": "avril",
+    "english": "April"
+  },
+  {
+    "french": "mai",
+    "english": "May"
+  },
+  {
+    "french": "juin",
+    "english": "June"
+  },
+  {
+    "french": "juillet",
+    "english": "July"
+  },
+  {
+    "french": "août",
+    "english": "August"
+  },
+  {
+    "french": "septembre",
+    "english": "September"
+  },
+  {
+    "french": "octobre",
+    "english": "October"
+  },
+  {
+    "french": "novembre",
+    "english": "November"
+  },
+  {
+    "french": "décembre",
+    "english": "December"
+  },
+  {
+    "french": "les Saisons (f)",
+    "english": "Seasons"
+  },
+  {
+    "french": "l'hiver (m)",
+    "english": "winter"
+  },
+  {
+    "french": "le printemps",
+    "english": "spring"
+  },
+  {
+    "french": "l'été (m)",
+    "english": "summer"
+  },
+  {
+    "french": "l'automne (m)",
+    "english": "autumn"
+  },
+  {
+    "french": "la semaine",
+    "english": "week"
+  },
+  {
+    "french": "la semaine dernière",
+    "english": "last week"
+  },
+  {
+    "french": "la semaine prochaine",
+    "english": "next week"
+  },
+  {
+    "french": "dans huit jours",
+    "english": "in a week"
+  },
+  {
+    "french": "dans quinze jours",
+    "english": "in two weeks"
+  },
+  {
+    "french": "hebdomadaire",
+    "english": "weekly"
+  },
+  {
+    "french": "le week-end, la fin de la semaine",
+    "english": "weekend"
+  },
+  {
+    "french": "le mois",
+    "english": "month"
+  },
+  {
+    "french": "l'an (m), l'année (f)",
+    "english": "year"
+  },
+  {
+    "french": "il y a trois ans",
+    "english": "three years ago"
+  },
+  {
+    "french": "l'année dernière",
+    "english": "last year"
+  },
+  {
+    "french": "la décennie",
+    "english": "decade"
+  },
+  {
+    "french": "dans les années cinquante",
+    "english": "in the fifties"
+  },
+  {
+    "french": "le siècle",
+    "english": "century"
+  },
+  {
+    "french": "les Fêtes (f)",
+    "english": "Holidays"
+  },
+  {
+    "french": "Noël (m)",
+    "english": "Christmas"
+  },
+  {
+    "french": "la veille de Noël",
+    "english": "Christmas Eve"
+  },
+  {
+    "french": "le jour de l'an",
+    "english": "New Year's Day"
+  },
+  {
+    "french": "Pâques (f.pl)",
+    "english": "Easter"
+  },
+  {
+    "french": "les Mois (m)",
+    "english": "Months"
+  },
+  {
+    "french": "les Jours (m) de la Semaine",
+    "english": "Days of the Week"
+  },
+  {
+    "french": "les Dates (f)",
+    "english": "Dates"
+  },
+  {
+    "french": "en hiver",
+    "english": "in the winter"
+  },
+  {
+    "french": "au printemps",
+    "english": "in the spring"
+  },
+  {
+    "french": "en été",
+    "english": "in the summer"
+  },
+  {
+    "french": "en automne",
+    "english": "in the fall"
+  },
+  {
+    "french": "s'il vous plaît / s'il te plaît (fam)",
+    "english": "please"
+  },
+  {
+    "french": "merci",
+    "english": "thank you"
+  },
+  {
+    "french": "Je vous en prie.",
+    "english": "You're welcome."
+  },
+  {
+    "french": "De rien. Il n'y a pas de quoi.",
+    "english": "No problem."
+  },
+  {
+    "french": "Bienvenu",
+    "english": "Welcome to..."
+  },
+  {
+    "french": "Bonjour",
+    "english": "Good morning / Good afternoon / Hello"
+  },
+  {
+    "french": "Bonsoir",
+    "english": "Good evening"
+  },
+  {
+    "french": "Salut",
+    "english": "Hi / bye"
+  },
+  {
+    "french": "Au revoir",
+    "english": "Goodbye"
+  },
+  {
+    "french": "à bientôt.",
+    "english": "see you soon&lt;br /&gt;see you&lt;br /&gt;goodbye&lt;br /&gt;bye for now&lt;br /&gt;bye&lt;br /&gt;bye-bye"
+  },
+  {
+    "french": "? tout à l'heure.",
+    "english": "See you later."
+  },
+  {
+    "french": "? la prochaine.",
+    "english": "Until next time."
+  },
+  {
+    "french": "Bonne journée.",
+    "english": "Have a nice day."
+  },
+  {
+    "french": "Comment allez-vous? Comment vas-tu? (fam)",
+    "english": "How are you doingي"
+  },
+  {
+    "french": "Je vais...",
+    "english": "I'm..."
+  },
+  {
+    "french": "[très] bien",
+    "english": "[very] well"
+  },
+  {
+    "french": "[très] mal",
+    "english": "[very] bad"
+  },
+  {
+    "french": "comme-ci, comme-ça",
+    "english": "so-so"
+  },
+  {
+    "french": "(Comment) ça va?",
+    "english": "How's it goingي"
+  },
+  {
+    "french": "?a va.",
+    "english": "It's okay."
+  },
+  {
+    "french": "?a va bien.",
+    "english": "It's going well."
+  },
+  {
+    "french": "...mal.",
+    "english": "...badly."
+  },
+  {
+    "french": "Pas mal.",
+    "english": "Not bad"
+  },
+  {
+    "french": "Quoi de neuf?",
+    "english": "What's newي"
+  },
+  {
+    "french": "Rien de speciale.",
+    "english": "Nothing much."
+  },
+  {
+    "french": "oui",
+    "english": "yes"
+  },
+  {
+    "french": "non",
+    "english": "no"
+  },
+  {
+    "french": "peût-être",
+    "english": "maybe"
+  },
+  {
+    "french": "Comment vous-appelez vous? Comment t'appelles-tu? (fam)",
+    "english": "What's your nameي"
+  },
+  {
+    "french": "Je m'appelle...",
+    "english": "My name is..."
+  },
+  {
+    "french": "Enchanté(e).",
+    "english": "Pleased to meet you."
+  },
+  {
+    "french": "Je vous présente...",
+    "english": "I'd like you to meet..."
+  },
+  {
+    "french": "Voici...",
+    "english": "This is..."
+  },
+  {
+    "french": "le prénom",
+    "english": "first name"
+  },
+  {
+    "french": "le nom (de famille)",
+    "english": "last name"
+  },
+  {
+    "french": "Mademoiselle (pl. Mesdemoiselles)",
+    "english": "Miss"
+  },
+  {
+    "french": "Monsieur (pl. Messieurs)",
+    "english": "Mr., Sir"
+  },
+  {
+    "french": "Madame (pl. Mesdames)",
+    "english": "Mrs., Ma'am"
+  },
+  {
+    "french": "l'Heure (f)",
+    "english": "Time"
+  },
+  {
+    "french": "Quelle heure est-il?",
+    "english": "What time is itي"
+  },
+  {
+    "french": "Avez-vous l'heure?",
+    "english": "Do you have the timeي Do you know what time it isي"
+  },
+  {
+    "french": "? quelle heure est le concert?",
+    "english": "What time is the concertي"
+  },
+  {
+    "french": "Il est...",
+    "english": "It is..."
+  },
+  {
+    "french": "une heure",
+    "english": "1:00"
+  },
+  {
+    "french": "deux heures",
+    "english": "2:00"
+  },
+  {
+    "french": "deux heures dix",
+    "english": "2:10"
+  },
+  {
+    "french": "deux heures et quart",
+    "english": "2:15"
+  },
+  {
+    "french": "deux heures et demie",
+    "english": "2:30"
+  },
+  {
+    "french": "trois heures moins le quart",
+    "english": "2:45"
+  },
+  {
+    "french": "trois heures moins dix",
+    "english": "2:50"
+  },
+  {
+    "french": "midi",
+    "english": "noon"
+  },
+  {
+    "french": "minuit",
+    "english": "midnight"
+  },
+  {
+    "french": "de la nuit",
+    "english": "...at night"
+  },
+  {
+    "french": "du matin",
+    "english": "...in the morning"
+  },
+  {
+    "french": "de l'après-midi",
+    "english": "...in the afternoon"
+  },
+  {
+    "french": "du soir",
+    "english": "...in the evening"
+  },
+  {
+    "french": "15h30 (3:30 p.m.) reads quinze heures trente.",
+    "english": "3:30 p.m."
+  },
+  {
+    "french": "le matin",
+    "english": "morning"
+  },
+  {
+    "french": "l'aube (f), l'aurore (f)",
+    "english": "dawn"
+  },
+  {
+    "french": "le lever du soleil",
+    "english": "sunrise"
+  },
+  {
+    "french": "le jour, la journée",
+    "english": "day"
+  },
+  {
+    "french": "l'après-midi (m)",
+    "english": "afternoon"
+  },
+  {
+    "french": "le soir",
+    "english": "evening"
+  },
+  {
+    "french": "le crépuscule",
+    "english": "dusk"
+  },
+  {
+    "french": "le coucher du soleil",
+    "english": "sunset"
+  },
+  {
+    "french": "la nuit",
+    "english": "night"
+  },
+  {
+    "french": "l'heure (f)",
+    "english": "hour"
+  },
+  {
+    "french": "la minute",
+    "english": "minute"
+  },
+  {
+    "french": "la seconde",
+    "english": "second"
+  },
+  {
+    "french": "la mâchoire",
+    "english": "jaw"
+  },
+  {
+    "french": "la gorge",
+    "english": "throat"
+  },
+  {
+    "french": "les taches de rousseur",
+    "english": "freckles"
+  },
+  {
+    "french": "la moustache",
+    "english": "moustache"
+  },
+  {
+    "french": "la barbe",
+    "english": "beard"
+  },
+  {
+    "french": "le sein",
+    "english": "bosom, breast"
+  },
+  {
+    "french": "le ventre",
+    "english": "belly"
+  },
+  {
+    "french": "la *hanche",
+    "english": "hip"
+  },
+  {
+    "french": "la peau",
+    "english": "skin"
+  },
+  {
+    "french": "l'os (m)",
+    "english": "bone"
+  },
+  {
+    "french": "le sang",
+    "english": "blood"
+  },
+  {
+    "french": "le crâne",
+    "english": "skull"
+  },
+  {
+    "french": "le poumon",
+    "english": "lung"
+  },
+  {
+    "french": "les Directions (f)",
+    "english": "Directions"
+  },
+  {
+    "french": "le nord",
+    "english": "north"
+  },
+  {
+    "french": "le sud",
+    "english": "south"
+  },
+  {
+    "french": "l'est (m)",
+    "english": "east"
+  },
+  {
+    "french": "l'ouest (m)",
+    "english": "west"
+  },
+  {
+    "french": "le nord-est",
+    "english": "northeast"
+  },
+  {
+    "french": "le nord-ouest",
+    "english": "northwest"
+  },
+  {
+    "french": "le sud-est",
+    "english": "southeast"
+  },
+  {
+    "french": "le sud-ouest",
+    "english": "southwest"
+  },
+  {
+    "french": "à gauche",
+    "english": "left"
+  },
+  {
+    "french": "à droite",
+    "english": "right"
+  },
+  {
+    "french": "tout droit",
+    "english": "straight ahead"
+  },
+  {
+    "french": "Tournez à droite.",
+    "english": "Turn right."
+  },
+  {
+    "french": "...dans le bon sens",
+    "english": "...in the right direction"
+  },
+  {
+    "french": "...dans le mauvais sens",
+    "english": "...in the wrong direction"
+  },
+  {
+    "french": "les Couleurs (f)",
+    "english": "Colors"
+  },
+  {
+    "french": "blanc(he)",
+    "english": "white"
+  },
+  {
+    "french": "jaune",
+    "english": "yellow"
+  },
+  {
+    "french": "rose",
+    "english": "pink"
+  },
+  {
+    "french": "rouge",
+    "english": "red"
+  },
+  {
+    "french": "orange",
+    "english": "orange"
+  },
+  {
+    "french": "vert(e)",
+    "english": "green"
+  },
+  {
+    "french": "bleu(e)",
+    "english": "blue"
+  },
+  {
+    "french": "violet(te)",
+    "english": "purple"
+  },
+  {
+    "french": "brun(e)",
+    "english": "brown"
+  },
+  {
+    "french": "gris(e)",
+    "english": "gray"
+  },
+  {
+    "french": "noir(e)",
+    "english": "black"
+  },
+  {
+    "french": "doré(e)",
+    "english": "gold"
+  },
+  {
+    "french": "argenté(e)",
+    "english": "silver"
+  },
+  {
+    "french": "bleu clair",
+    "english": "light blue"
+  },
+  {
+    "french": "bleu foncé",
+    "english": "dark blue"
+  },
+  {
+    "french": "les Rapports (m)",
+    "english": "Relationships"
+  },
+  {
+    "french": "la Famille",
+    "english": "Family"
+  },
+  {
+    "french": "les parents (m)",
+    "english": "parents, relatives"
+  },
+  {
+    "french": "la mère",
+    "english": "mother"
+  },
+  {
+    "french": "la maman",
+    "english": "mom"
+  },
+  {
+    "french": "le père",
+    "english": "father"
+  },
+  {
+    "french": "le papa",
+    "english": "dad"
+  },
+  {
+    "french": "le mari",
+    "english": "husband"
+  },
+  {
+    "french": "la femme",
+    "english": "wife"
+  },
+  {
+    "french": "l'époux (-se)",
+    "english": "spouse"
+  },
+  {
+    "french": "le fils",
+    "english": "son"
+  },
+  {
+    "french": "la fille",
+    "english": "daughter"
+  },
+  {
+    "french": "le frère",
+    "english": "brother"
+  },
+  {
+    "french": "la sœur",
+    "english": "sister"
+  },
+  {
+    "french": "l'enfant unique (m, f)",
+    "english": "only child"
+  },
+  {
+    "french": "cadet(te)",
+    "english": "younger"
+  },
+  {
+    "french": "aîné(e)",
+    "english": "older"
+  },
+  {
+    "french": "le jumeau (la jumelle)",
+    "english": "twin"
+  },
+  {
+    "french": "la tante",
+    "english": "aunt"
+  },
+  {
+    "french": "l'oncle (m)",
+    "english": "uncle"
+  },
+  {
+    "french": "le neveu",
+    "english": "nephew"
+  },
+  {
+    "french": "la nièce",
+    "english": "niece"
+  },
+  {
+    "french": "le/la cousin(e)",
+    "english": "cousin"
+  },
+  {
+    "french": "les grands-parents (m)",
+    "english": "grandparents"
+  },
+  {
+    "french": "le grand-père",
+    "english": "grandfather"
+  },
+  {
+    "french": "la grand-mère (pl. grands-mères)",
+    "english": "grandmother"
+  },
+  {
+    "french": "l'arrière-grand-père",
+    "english": "great-grandfather"
+  },
+  {
+    "french": "les petits-enfants",
+    "english": "grandchildren"
+  },
+  {
+    "french": "le petit-fils",
+    "english": "grandson"
+  },
+  {
+    "french": "la petite-fille",
+    "english": "granddaughter"
+  },
+  {
+    "french": "l'arrière-petite-fille (f)",
+    "english": "great-grand-daughter"
+  },
+  {
+    "french": "le beau-père",
+    "english": "father-in-law, stepfather"
+  },
+  {
+    "french": "la belle-mère",
+    "english": "mother-in-law, stepmother"
+  },
+  {
+    "french": "la belle-fille",
+    "english": "daughter-in-law, stepdaughter"
+  },
+  {
+    "french": "le beau-fils",
+    "english": "stepson"
+  },
+  {
+    "french": "le gendre",
+    "english": "son-in-law"
+  },
+  {
+    "french": "le beau-frère",
+    "english": "brother-in-law, stepbrother"
+  },
+  {
+    "french": "la belle-sœur",
+    "english": "sister-in-law, stepsister"
+  },
+  {
+    "french": "le demi-frère",
+    "english": "half-brother"
+  },
+  {
+    "french": "la demi-sœur",
+    "english": "half-sister"
+  },
+  {
+    "french": "les Amis (m)",
+    "english": "Friends"
+  },
+  {
+    "french": "l'ami(e)",
+    "english": "friend"
+  },
+  {
+    "french": "le/la meilleur(e) ami(e)",
+    "english": "best friend"
+  },
+  {
+    "french": "le copain (la copine)",
+    "english": "friend (pal)"
+  },
+  {
+    "french": "le petit ami (la petite amie)",
+    "english": "boy/girlfriend"
+  },
+  {
+    "french": "possessive + copain/copine",
+    "english": "boy/girlfriend (for adult)"
+  },
+  {
+    "french": "mon copain",
+    "english": "my boyfriend"
+  },
+  {
+    "french": "ma copine",
+    "english": "my girlfriend"
+  },
+  {
+    "french": "un copain à moi, un de mes copains",
+    "english": "my (male) friend"
+  },
+  {
+    "french": "l'amant (m)",
+    "english": "lover"
+  },
+  {
+    "french": "hétéro-/ homosexuel (-elle)",
+    "english": "hetero-/homosexual"
+  },
+  {
+    "french": "le parrain",
+    "english": "godfather"
+  },
+  {
+    "french": "la marraine",
+    "english": "godmother"
+  },
+  {
+    "french": "le filleul",
+    "english": "godson"
+  },
+  {
+    "french": "la filleule",
+    "english": "goddaughter"
+  },
+  {
+    "french": "le Cycle de la Vie",
+    "english": "Cycle of Life"
+  },
+  {
+    "french": "la naissance",
+    "english": "birth"
+  },
+  {
+    "french": "être né(e)",
+    "english": "to be born"
+  },
+  {
+    "french": "le bébé",
+    "english": "baby"
+  },
+  {
+    "french": "le garçon",
+    "english": "boy"
+  },
+  {
+    "french": "l'enfant (m, f)",
+    "english": "child"
+  },
+  {
+    "french": "grandir",
+    "english": "to grow up"
+  },
+  {
+    "french": "les jeunes",
+    "english": "young people"
+  },
+  {
+    "french": "l'homme (m)",
+    "english": "man"
+  },
+  {
+    "french": "célibataire",
+    "english": "single"
+  },
+  {
+    "french": "sortir ensemble",
+    "english": "to be dating"
+  },
+  {
+    "french": "coucher ensemble",
+    "english": "to sleep together"
+  },
+  {
+    "french": "se fiancer",
+    "english": "to get engaged"
+  },
+  {
+    "french": "les fiançailles (f)",
+    "english": "engagement"
+  },
+  {
+    "french": "se marier",
+    "english": "to get married"
+  },
+  {
+    "french": "le mariage",
+    "english": "wedding"
+  },
+  {
+    "french": "les noces (f)",
+    "english": "reception"
+  },
+  {
+    "french": "nom de jeune fille",
+    "english": "maiden name"
+  },
+  {
+    "french": "la lune de miel",
+    "english": "honeymoon"
+  },
+  {
+    "french": "enceinte",
+    "english": "pregnant"
+  },
+  {
+    "french": "le divorce",
+    "english": "divorce"
+  },
+  {
+    "french": "la mort",
+    "english": "death"
+  },
+  {
+    "french": "mourir",
+    "english": "to die"
+  },
+  {
+    "french": "le veuf",
+    "english": "widow"
+  },
+  {
+    "french": "la veuve",
+    "english": "widower"
+  },
+  {
+    "french": "le deuil",
+    "english": "mourning"
+  },
+  {
+    "french": "l'orphelin(e)",
+    "english": "orphan"
+  },
+  {
+    "french": "les ?motions (f)",
+    "english": "Emotions"
+  },
+  {
+    "french": "l'amour (m)",
+    "english": "love"
+  },
+  {
+    "french": "la haïne",
+    "english": "hate"
+  },
+  {
+    "french": "l'amitié (m)",
+    "english": "friendship"
+  },
+  {
+    "french": "le respect",
+    "english": "respect"
+  },
+  {
+    "french": "les Adjectifs (m)",
+    "english": "Adjectives"
+  },
+  {
+    "french": "énervant(e)",
+    "english": "annoying"
+  },
+  {
+    "french": "sportif (sportive)",
+    "english": "athletic"
+  },
+  {
+    "french": "mauvais(e)+",
+    "english": "bad"
+  },
+  {
+    "french": "beaux (bel, belle)+",
+    "english": "beautiful, handsome"
+  },
+  {
+    "french": "grand(e)+",
+    "english": "big, tall"
+  },
+  {
+    "french": "blond(e)",
+    "english": "blond, fair-haired"
+  },
+  {
+    "french": "ennuyeux (ennuyeuse)",
+    "english": "boring"
+  },
+  {
+    "french": "occupé(e)",
+    "english": "busy"
+  },
+  {
+    "french": "bavard(e)",
+    "english": "chatty, talkative"
+  },
+  {
+    "french": "bon marché",
+    "english": "cheap"
+  },
+  {
+    "french": "propre",
+    "english": "clean"
+  },
+  {
+    "french": "fermé(e)",
+    "english": "closed"
+  },
+  {
+    "french": "frais (fraîche)",
+    "english": "cool (not warm)"
+  },
+  {
+    "french": "mignon(ne)",
+    "english": "cute"
+  },
+  {
+    "french": "cher (chère)+",
+    "english": "dear"
+  },
+  {
+    "french": "différent(e)",
+    "english": "different"
+  },
+  {
+    "french": "sale",
+    "english": "dirty"
+  },
+  {
+    "french": "sec (sèche)",
+    "english": "dry"
+  },
+  {
+    "french": "facile",
+    "english": "easy"
+  },
+  {
+    "french": "vide",
+    "english": "empty"
+  },
+  {
+    "french": "vite",
+    "english": "fast"
+  },
+  {
+    "french": "gros (grosse)+",
+    "english": "fat"
+  },
+  {
+    "french": "gratuit(e)",
+    "english": "free (no charge)"
+  },
+  {
+    "french": "libre",
+    "english": "free (unconstrained)"
+  },
+  {
+    "french": "libre, disponible",
+    "english": "free (available)"
+  },
+  {
+    "french": "plein(e)",
+    "english": "full"
+  },
+  {
+    "french": "drôle, amusant(e)",
+    "english": "funny"
+  },
+  {
+    "french": "doux (douce)",
+    "english": "gentle"
+  },
+  {
+    "french": "bon (bonne)+",
+    "english": "good"
+  },
+  {
+    "french": "heureux (heureuse)",
+    "english": "happy"
+  },
+  {
+    "french": "difficile, dur(e)",
+    "english": "hard, difficult"
+  },
+  {
+    "french": "lourd(e)",
+    "english": "heavy"
+  },
+  {
+    "french": "haut",
+    "english": "high"
+  },
+  {
+    "french": "chaud(e)",
+    "english": "hot"
+  },
+  {
+    "french": "intelligent(e)",
+    "english": "intelligent"
+  },
+  {
+    "french": "intéressant(e)",
+    "english": "interesting"
+  },
+  {
+    "french": "gentil(le)",
+    "english": "kind, nice"
+  },
+  {
+    "french": "dernier (-ière)+",
+    "english": "last"
+  },
+  {
+    "french": "paresseux (paresseuse)",
+    "english": "lazy"
+  },
+  {
+    "french": "gauche",
+    "english": "left (not right), clumsy"
+  },
+  {
+    "french": "léger (légère)",
+    "english": "light (not heavy)"
+  },
+  {
+    "french": "clair(e)",
+    "english": "light (not dark)"
+  },
+  {
+    "french": "long (longue)",
+    "english": "long"
+  },
+  {
+    "french": "méchant(e)",
+    "english": "mean"
+  },
+  {
+    "french": "nouveau (nouvelle)+",
+    "english": "new (to the speaker)"
+  },
+  {
+    "french": "neuf (neuve)",
+    "english": "new (brand-new)"
+  },
+  {
+    "french": "vieux (vieille)+",
+    "english": "old"
+  },
+  {
+    "french": "ouvert(e)",
+    "english": "open"
+  },
+  {
+    "french": "sympathique",
+    "english": "pleasant, agreeable"
+  },
+  {
+    "french": "joli(e)+",
+    "english": "pretty"
+  },
+  {
+    "french": "tranquille",
+    "english": "quiet, peaceful"
+  },
+  {
+    "french": "roux (rousse)",
+    "english": "red-haired"
+  },
+  {
+    "french": "droit(e)",
+    "english": "right (not left)"
+  },
+  {
+    "french": "juste, bon(ne)",
+    "english": "right (not wrong)"
+  },
+  {
+    "french": "triste",
+    "english": "sad"
+  },
+  {
+    "french": "court(e)",
+    "english": "short (not long)"
+  },
+  {
+    "french": "petit(e)+",
+    "english": "short (not tall)"
+  },
+  {
+    "french": "timide",
+    "english": "shy"
+  },
+  {
+    "french": "pareil(le)",
+    "english": "similar"
+  },
+  {
+    "french": "silencieux (silencieuse)",
+    "english": "silent"
+  },
+  {
+    "french": "maigre",
+    "english": "skinny"
+  },
+  {
+    "french": "lent(e)",
+    "english": "slow"
+  },
+  {
+    "french": "fort(e)",
+    "english": "strong, plump"
+  },
+  {
+    "french": "bête",
+    "english": "stupid"
+  },
+  {
+    "french": "mince",
+    "english": "thin"
+  },
+  {
+    "french": "vrai(e)",
+    "english": "TRUE"
+  },
+  {
+    "french": "laid(e)",
+    "english": "ugly"
+  },
+  {
+    "french": "faible",
+    "english": "weak"
+  },
+  {
+    "french": "mouillé(e)",
+    "english": "wet"
+  },
+  {
+    "french": "large",
+    "english": "wide, broad"
+  },
+  {
+    "french": "faux (fausse)",
+    "english": "wrong, false"
+  },
+  {
+    "french": "jeune+",
+    "english": "young"
+  },
+  {
+    "french": "les Verbes (m)",
+    "english": "Verbs"
+  },
+  {
+    "french": "permettre+ [à qqn] [de faire qqch]",
+    "english": "to allow [someone] [to do something]"
+  },
+  {
+    "french": "répondre",
+    "english": "to answer"
+  },
+  {
+    "french": "arrivere",
+    "english": "to arrive"
+  },
+  {
+    "french": "demander [qqch] [à qqn]",
+    "english": "to ask [smth] [smbdy]"
+  },
+  {
+    "french": "être+",
+    "english": "to be"
+  },
+  {
+    "french": "pouvoir+",
+    "english": "to be able to"
+  },
+  {
+    "french": "devenir+",
+    "english": "to become"
+  },
+  {
+    "french": "commencer, se mettre+ à",
+    "english": "to begin"
+  },
+  {
+    "french": "croire+",
+    "english": "to believe"
+  },
+  {
+    "french": "emprunter",
+    "english": "to borrow"
+  },
+  {
+    "french": "naître+e",
+    "english": "to be born"
+  },
+  {
+    "french": "amener",
+    "english": "to bring [smbdy]"
+  },
+  {
+    "french": "apporter",
+    "english": "to bring [smth]"
+  },
+  {
+    "french": "choisir",
+    "english": "to choose"
+  },
+  {
+    "french": "montere",
+    "english": "to climb, go up"
+  },
+  {
+    "french": "venir+",
+    "english": "to come"
+  },
+  {
+    "french": "revenir+",
+    "english": "to come back"
+  },
+  {
+    "french": "pleurer",
+    "english": "to cry"
+  },
+  {
+    "french": "descendree",
+    "english": "to descend, go down"
+  },
+  {
+    "french": "entrere",
+    "english": "to enter"
+  },
+  {
+    "french": "tombere",
+    "english": "to fall"
+  },
+  {
+    "french": "craindre+",
+    "english": "to fear"
+  },
+  {
+    "french": "sentir+",
+    "english": "to feel"
+  },
+  {
+    "french": "finir",
+    "english": "to finish"
+  },
+  {
+    "french": "oublier",
+    "english": "to forget"
+  },
+  {
+    "french": "se lever",
+    "english": "to get up"
+  },
+  {
+    "french": "donner",
+    "english": "to give"
+  },
+  {
+    "french": "allere",
+    "english": "to go"
+  },
+  {
+    "french": "se coucher",
+    "english": "to go to bed"
+  },
+  {
+    "french": "détester",
+    "english": "to hate"
+  },
+  {
+    "french": "s'amuser",
+    "english": "to have fun"
+  },
+  {
+    "french": "devoir+",
+    "english": "to have to, owe"
+  },
+  {
+    "french": "entendre",
+    "english": "to hear"
+  },
+  {
+    "french": "aider",
+    "english": "to help"
+  },
+  {
+    "french": "éspérer",
+    "english": "to hope"
+  },
+  {
+    "french": "savoir+",
+    "english": "to know (fact, skill)"
+  },
+  {
+    "french": "connaître+",
+    "english": "to know (person, place)"
+  },
+  {
+    "french": "rire+",
+    "english": "to laugh"
+  },
+  {
+    "french": "partir+e",
+    "english": "to leave"
+  },
+  {
+    "french": "prêter",
+    "english": "to lend"
+  },
+  {
+    "french": "mentir+",
+    "english": "to lie"
+  },
+  {
+    "french": "aimer bien",
+    "english": "to like"
+  },
+  {
+    "french": "écouter",
+    "english": "to listen to"
+  },
+  {
+    "french": "vivre",
+    "english": "to live (exist)"
+  },
+  {
+    "french": "habiter",
+    "english": "to live (dwell in)"
+  },
+  {
+    "french": "regarder",
+    "english": "to look at"
+  },
+  {
+    "french": "chercher",
+    "english": "to look for"
+  },
+  {
+    "french": "perdre+",
+    "english": "to lose"
+  },
+  {
+    "french": "aimer",
+    "english": "to love"
+  },
+  {
+    "french": "rater",
+    "english": "to miss (train)"
+  },
+  {
+    "french": "obéir [à qqn]",
+    "english": "to obey [smbdy]"
+  },
+  {
+    "french": "ouvrir+",
+    "english": "to open"
+  },
+  {
+    "french": "passere [par qqch]",
+    "english": "to pass [by something]"
+  },
+  {
+    "french": "préférer",
+    "english": "to prefer"
+  },
+  {
+    "french": "promettre+ [qqch à qqn]",
+    "english": "to promise [something to somebody]"
+  },
+  {
+    "french": "mettre+",
+    "english": "to put"
+  },
+  {
+    "french": "lire+",
+    "english": "to read"
+  },
+  {
+    "french": "s'apercevoir+ [de qqch]",
+    "english": "to realize [something]"
+  },
+  {
+    "french": "recevoir+",
+    "english": "to receive"
+  },
+  {
+    "french": "se souvenir+ [de qqch]",
+    "english": "to remember [something]"
+  },
+  {
+    "french": "rappeller [qqch à qqn]",
+    "english": "to remind [somebody of something]"
+  },
+  {
+    "french": "rentrere, retournere",
+    "english": "to return"
+  },
+  {
+    "french": "courir+",
+    "english": "to run"
+  },
+  {
+    "french": "dire+",
+    "english": "to say"
+  },
+  {
+    "french": "voir+",
+    "english": "to see"
+  },
+  {
+    "french": "paraître+",
+    "english": "to seem, appear"
+  },
+  {
+    "french": "montrer",
+    "english": "to show"
+  },
+  {
+    "french": "se taire+",
+    "english": "to shut up, be quiet"
+  },
+  {
+    "french": "chanter",
+    "english": "to sing"
+  },
+  {
+    "french": "s'asseoir+",
+    "english": "to sit down"
+  },
+  {
+    "french": "dormir+",
+    "english": "to sleep"
+  },
+  {
+    "french": "s'endormir",
+    "english": "to fall asleep"
+  },
+  {
+    "french": "sourire+",
+    "english": "to smile"
+  },
+  {
+    "french": "parler",
+    "english": "to speak"
+  },
+  {
+    "french": "restere",
+    "english": "to stay, remain"
+  },
+  {
+    "french": "prendre+",
+    "english": "to take"
+  },
+  {
+    "french": "emmener",
+    "english": "to take [smbdy] along"
+  },
+  {
+    "french": "emporter",
+    "english": "to take [smth] away"
+  },
+  {
+    "french": "raconter [une histoire]",
+    "english": "to tell [a story]"
+  },
+  {
+    "french": "penser [à qqch]",
+    "english": "to think [about smth]"
+  },
+  {
+    "french": "jeter",
+    "english": "to throw (away)"
+  },
+  {
+    "french": "comprendre+",
+    "english": "to understand"
+  },
+  {
+    "french": "se réveiller",
+    "english": "to wake up"
+  },
+  {
+    "french": "marcher",
+    "english": "to walk"
+  },
+  {
+    "french": "vouloir+",
+    "english": "to wish, want"
+  },
+  {
+    "french": "s'inquiéter [de qqch]",
+    "english": "to worry [about something]"
+  },
+  {
+    "french": "écrire+",
+    "english": "to write"
+  },
+  {
+    "french": "le Travail",
+    "english": "Work"
+  },
+  {
+    "french": "travailler",
+    "english": "to work"
+  },
+  {
+    "french": "le métier",
+    "english": "job (trade)"
+  },
+  {
+    "french": "le travail, l'emploi (m)",
+    "english": "job (employment)"
+  },
+  {
+    "french": "le boulot (slang)",
+    "english": "job (task)"
+  },
+  {
+    "french": "faire une demande [d'emploi]",
+    "english": "to apply for [a job]"
+  },
+  {
+    "french": "l'entretien (m)",
+    "english": "job interview"
+  },
+  {
+    "french": "le formulaire, le dossier",
+    "english": "application (form)"
+  },
+  {
+    "french": "au chômage",
+    "english": "unemployed"
+  },
+  {
+    "french": "en retraite",
+    "english": "retired"
+  },
+  {
+    "french": "le syndicat",
+    "english": "(trade) union"
+  },
+  {
+    "french": "la grève",
+    "english": "strike"
+  },
+  {
+    "french": "faire la grève",
+    "english": "to strike"
+  },
+  {
+    "french": "gagner",
+    "english": "to earn"
+  },
+  {
+    "french": "le salaire",
+    "english": "wages, salary"
+  },
+  {
+    "french": "les impôts (m)",
+    "english": "taxes"
+  },
+  {
+    "french": "le patron (la patronne)",
+    "english": "boss"
+  },
+  {
+    "french": "l'entreprise (f), la firme",
+    "english": "company"
+  },
+  {
+    "french": "le bureau",
+    "english": "office"
+  },
+  {
+    "french": "la réunion",
+    "english": "meeting"
+  },
+  {
+    "french": "le/la stagiaire",
+    "english": "intern"
+  },
+  {
+    "french": "l'usine (f)",
+    "english": "factory"
+  },
+  {
+    "french": "les Professions (f)",
+    "english": "Occupations"
+  },
+  {
+    "french": "Elle est avocate.",
+    "english": "She is a lawyer."
+  },
+  {
+    "french": "Elle est (femme) ingénieur.",
+    "english": "She is an engineer."
+  },
+  {
+    "french": "comptable (m, f)",
+    "english": "accountant"
+  },
+  {
+    "french": "acteur (actrice)",
+    "english": "actor"
+  },
+  {
+    "french": "artiste (m, f)",
+    "english": "artist"
+  },
+  {
+    "french": "boulanger (-ère)",
+    "english": "baker"
+  },
+  {
+    "french": "homme/femme d'affaires",
+    "english": "businessman/woman"
+  },
+  {
+    "french": "fonctionnaire (m, f)",
+    "english": "civil servant"
+  },
+  {
+    "french": "informaticien(ne)",
+    "english": "computer specialist"
+  },
+  {
+    "french": "cuisinier (-ière)",
+    "english": "cook"
+  },
+  {
+    "french": "danseur (-euse)",
+    "english": "dancer"
+  },
+  {
+    "french": "dentiste (m, f)",
+    "english": "dentist"
+  },
+  {
+    "french": "médecin (m), docteur (m)",
+    "english": "doctor"
+  },
+  {
+    "french": "chauffeur (m)",
+    "english": "driver"
+  },
+  {
+    "french": "chauffeur routier",
+    "english": "truck driver"
+  },
+  {
+    "french": "éditeur (-trice), rédacteur (-trice)",
+    "english": "editor"
+  },
+  {
+    "french": "ingénieur (m)",
+    "english": "engineer"
+  },
+  {
+    "french": "fermier (-ière)",
+    "english": "farmer"
+  },
+  {
+    "french": "pompier (m)",
+    "english": "fireman"
+  },
+  {
+    "french": "coiffeur (-euse)",
+    "english": "hairdresser"
+  },
+  {
+    "french": "journaliste (m, f)",
+    "english": "journalist"
+  },
+  {
+    "french": "avocat(e)",
+    "english": "lawyer"
+  },
+  {
+    "french": "bibilothécaire (m, f)",
+    "english": "librarian"
+  },
+  {
+    "french": "facteur (-trice)",
+    "english": "mailman"
+  },
+  {
+    "french": "musicien(ne)",
+    "english": "musician"
+  },
+  {
+    "french": "infirmier (-ière)",
+    "english": "nurse"
+  },
+  {
+    "french": "pilote (m, f)",
+    "english": "pilot"
+  },
+  {
+    "french": "photographe",
+    "english": "photographer"
+  },
+  {
+    "french": "plombier (m)",
+    "english": "plumber"
+  },
+  {
+    "french": "policier (m), gendarme (m)",
+    "english": "policeman"
+  },
+  {
+    "french": "vendeur (-euse)",
+    "english": "salesperson"
+  },
+  {
+    "french": "secrétaire (m, f)",
+    "english": "secretary"
+  },
+  {
+    "french": "gardien(ne)",
+    "english": "security guard"
+  },
+  {
+    "french": "chanteur (-euse)",
+    "english": "singer"
+  },
+  {
+    "french": "étudiant(e)",
+    "english": "student"
+  },
+  {
+    "french": "soldat (m)",
+    "english": "soldier"
+  },
+  {
+    "french": "professeur (m)",
+    "english": "teacher"
+  },
+  {
+    "french": "ouvrier (-ière)",
+    "english": "worker (in factory)"
+  },
+  {
+    "french": "écrivain (m)",
+    "english": "writer"
+  },
+  {
+    "french": "la Santé",
+    "english": "Health"
+  },
+  {
+    "french": "Comment vous sentez-vous?",
+    "english": "How are you feelingي"
+  },
+  {
+    "french": "Je ne me sens pas bien.",
+    "english": "I don't feel well."
+  },
+  {
+    "french": "Je me sens...",
+    "english": "I feel..."
+  },
+  {
+    "french": "...bien.",
+    "english": "...well."
+  },
+  {
+    "french": "...mieux.",
+    "english": "...better."
+  },
+  {
+    "french": "...pire.",
+    "english": "...worse."
+  },
+  {
+    "french": "?a fait mal.",
+    "english": "It hurts."
+  },
+  {
+    "french": "J'ai mal au cœur.",
+    "english": "I feel nauseated."
+  },
+  {
+    "french": "J'ai mal...",
+    "english": "I have..."
+  },
+  {
+    "french": "...à la tête.",
+    "english": "...a headache."
+  },
+  {
+    "french": "...à la gorge.",
+    "english": "...a sore throat."
+  },
+  {
+    "french": "...aux dents.",
+    "english": "...a toothache."
+  },
+  {
+    "french": "...à l'oreille.",
+    "english": "...an earache."
+  },
+  {
+    "french": "...au dos.",
+    "english": "...a backache."
+  },
+  {
+    "french": "...au ventre.",
+    "english": "...a stomach-ache."
+  },
+  {
+    "french": "Je suis enrhumé(e).",
+    "english": "I have a cold."
+  },
+  {
+    "french": "avoir chaud",
+    "english": "to be hot"
+  },
+  {
+    "french": "avoir froid",
+    "english": "to be cold"
+  },
+  {
+    "french": "avoir une allergie [à]",
+    "english": "to be allergic [to]"
+  },
+  {
+    "french": "se casser le bras",
+    "english": "to break an arm"
+  },
+  {
+    "french": "éternuer",
+    "english": "to sneeze"
+  },
+  {
+    "french": "tousser",
+    "english": "to cough"
+  },
+  {
+    "french": "s'évanouir",
+    "english": "to faint"
+  },
+  {
+    "french": "malade",
+    "english": "sick"
+  },
+  {
+    "french": "en bonne santé",
+    "english": "healthy, fit"
+  },
+  {
+    "french": "fatigué(e)",
+    "english": "tired"
+  },
+  {
+    "french": "aveugle",
+    "english": "blind"
+  },
+  {
+    "french": "sourd(e)",
+    "english": "deaf"
+  },
+  {
+    "french": "la maladie",
+    "english": "disease, illness"
+  },
+  {
+    "french": "la douleur",
+    "english": "pain"
+  },
+  {
+    "french": "la toux",
+    "english": "cough"
+  },
+  {
+    "french": "le rhume",
+    "english": "cold"
+  },
+  {
+    "french": "la fièvre",
+    "english": "fever"
+  },
+  {
+    "french": "la grippe",
+    "english": "flu"
+  },
+  {
+    "french": "la varicelle",
+    "english": "chicken pox"
+  },
+  {
+    "french": "[le bras] cassé",
+    "english": "broken [arm]"
+  },
+  {
+    "french": "la blessure",
+    "english": "wound"
+  },
+  {
+    "french": "la cicatrice",
+    "english": "scar"
+  },
+  {
+    "french": "le SIDA",
+    "english": "AIDS"
+  },
+  {
+    "french": "séropositif (-ve)",
+    "english": "HIV-positive"
+  },
+  {
+    "french": "la crise cardiaque",
+    "english": "heart attack"
+  },
+  {
+    "french": "le médecin, le docteur",
+    "english": "doctor"
+  },
+  {
+    "french": "l'infirmier (-ière)",
+    "english": "nurse"
+  },
+  {
+    "french": "le médicament",
+    "english": "medicine (i.e., drug)"
+  },
+  {
+    "french": "le pansement",
+    "english": "bandage"
+  },
+  {
+    "french": "le sparadrap",
+    "english": "Band-Aid"
+  },
+  {
+    "french": "un comprimé",
+    "english": "a pill"
+  },
+  {
+    "french": "la pilule",
+    "english": "the Pill"
+  },
+  {
+    "french": "les gouttes (f)",
+    "english": "drops"
+  },
+  {
+    "french": "le fauteuil roulant",
+    "english": "wheelchair"
+  },
+  {
+    "french": "le régime",
+    "english": "diet"
+  },
+  {
+    "french": "perdre/prendre du poids",
+    "english": "to lose/ gain weight"
+  },
+  {
+    "french": "maigrir",
+    "english": "to get thinner"
+  },
+  {
+    "french": "grossir",
+    "english": "to get fatter"
+  },
+  {
+    "french": "jeûner",
+    "english": "to fast"
+  },
+  {
+    "french": "l'Hygiène (f) et la Toilette",
+    "english": "Hygiene and Grooming"
+  },
+  {
+    "french": "le savon",
+    "english": "soap"
+  },
+  {
+    "french": "le rasoir",
+    "english": "razor"
+  },
+  {
+    "french": "le shampooing",
+    "english": "shampoo"
+  },
+  {
+    "french": "le dentifrice",
+    "english": "toothpaste"
+  },
+  {
+    "french": "la brosse à dents",
+    "english": "toothbrush"
+  },
+  {
+    "french": "le peigne",
+    "english": "comb"
+  },
+  {
+    "french": "la brosse à cheveux",
+    "english": "hairbrush"
+  },
+  {
+    "french": "le maquillage",
+    "english": "makeup"
+  },
+  {
+    "french": "le rouge à lèvres",
+    "english": "lipstick"
+  },
+  {
+    "french": "le bouton",
+    "english": "pimple"
+  },
+  {
+    "french": "le point noir",
+    "english": "blackhead"
+  },
+  {
+    "french": "[se] laver",
+    "english": "to wash [self]"
+  },
+  {
+    "french": "se laver les mains",
+    "english": "to wash (one's) hands"
+  },
+  {
+    "french": "se baigner",
+    "english": "to bathe"
+  },
+  {
+    "french": "se raser",
+    "english": "to shave"
+  },
+  {
+    "french": "se brosser les dents",
+    "english": "to brush (one's) teeth"
+  },
+  {
+    "french": "se brosser les cheveux",
+    "english": "to brush (one's) hair"
+  },
+  {
+    "french": "se peigner",
+    "english": "to comb (self)"
+  },
+  {
+    "french": "se maquiller",
+    "english": "to put on makeup"
+  },
+  {
+    "french": "les Vêtements (m)",
+    "english": "Clothing"
+  },
+  {
+    "french": "porter",
+    "english": "to wear/carry"
+  },
+  {
+    "french": "mettre",
+    "english": "to put on"
+  },
+  {
+    "french": "enlever",
+    "english": "to take off"
+  },
+  {
+    "french": "s'habiller",
+    "english": "to get dressed"
+  },
+  {
+    "french": "se déshabiller",
+    "english": "to get undressed"
+  },
+  {
+    "french": "Cette jupe te va bien.",
+    "english": "This skirt fits you well."
+  },
+  {
+    "french": "coudre",
+    "english": "to sew"
+  },
+  {
+    "french": "le fil",
+    "english": "thread"
+  },
+  {
+    "french": "l'aiguille (f)",
+    "english": "needle"
+  },
+  {
+    "french": "les ciseaux (m)",
+    "english": "scissors"
+  },
+  {
+    "french": "repasser",
+    "english": "to iron"
+  },
+  {
+    "french": "nettoyer",
+    "english": "to clean"
+  },
+  {
+    "french": "la manche",
+    "english": "sleeve"
+  },
+  {
+    "french": "la poche",
+    "english": "pocket"
+  },
+  {
+    "french": "long(ue)",
+    "english": "long"
+  },
+  {
+    "french": "la dentelle",
+    "english": "lace"
+  },
+  {
+    "french": "la soie",
+    "english": "silk"
+  },
+  {
+    "french": "la fourrure",
+    "english": "fur"
+  },
+  {
+    "french": "le cuir",
+    "english": "leather"
+  },
+  {
+    "french": "à carreaux",
+    "english": "checked"
+  },
+  {
+    "french": "à pois",
+    "english": "polka-dotted"
+  },
+  {
+    "french": "à rayures",
+    "english": "striped"
+  },
+  {
+    "french": "à la mode",
+    "english": "fashionable"
+  },
+  {
+    "french": "le Restaurant",
+    "english": "Restaurant"
+  },
+  {
+    "french": "Qu'est-ce que vous voudriez?",
+    "english": "What would you likeي"
+  },
+  {
+    "french": "Je prends...",
+    "english": "I'll have..."
+  },
+  {
+    "french": "Où sont les toilettes?",
+    "english": "Where is the restroomي"
+  },
+  {
+    "french": "Je n'en peux plus. J'ai trop mangé.",
+    "english": "I'm (too) full."
+  },
+  {
+    "french": "la carte",
+    "english": "menu"
+  },
+  {
+    "french": "service compris",
+    "english": "tip included"
+  },
+  {
+    "french": "le serveur/ la serveuse",
+    "english": "waiter/ waitress"
+  },
+  {
+    "french": "le couvert",
+    "english": "place setting"
+  },
+  {
+    "french": "la carafe d'eau",
+    "english": "water pitcher"
+  },
+  {
+    "french": "plein(e), rempli(e)",
+    "english": "full (not empty)"
+  },
+  {
+    "french": "commander",
+    "english": "to order"
+  },
+  {
+    "french": "partager",
+    "english": "to share"
+  },
+  {
+    "french": "sur place",
+    "english": "eat-in"
+  },
+  {
+    "french": "à emporter",
+    "english": "take-out"
+  },
+  {
+    "french": "l'addition (f)",
+    "english": "check, bill"
+  },
+  {
+    "french": "le pourboire",
+    "english": "tip"
+  },
+  {
+    "french": "les Plats (m)",
+    "english": "Courses"
+  },
+  {
+    "french": "les *hors-d'œuvres (m)",
+    "english": "appetizers, starters"
+  },
+  {
+    "french": "l'entrée (f)",
+    "english": "first course"
+  },
+  {
+    "french": "le plat principal",
+    "english": "main course, entrée"
+  },
+  {
+    "french": "le dessert",
+    "english": "dessert"
+  },
+  {
+    "french": "le Manger",
+    "english": "Food"
+  },
+  {
+    "french": "manger",
+    "english": "to eat"
+  },
+  {
+    "french": "boire",
+    "english": "to drink"
+  },
+  {
+    "french": "avoir faim",
+    "english": "to be hungry"
+  },
+  {
+    "french": "avoir soif",
+    "english": "to be thirsty"
+  },
+  {
+    "french": "cuisiner",
+    "english": "to cook (intr.)"
+  },
+  {
+    "french": "cuire",
+    "english": "to cook (tr.)"
+  },
+  {
+    "french": "chauffer",
+    "english": "to heat"
+  },
+  {
+    "french": "goûter",
+    "english": "to taste"
+  },
+  {
+    "french": "les Repas (m)",
+    "english": "Meals"
+  },
+  {
+    "french": "le petit déjeuner",
+    "english": "breakfast"
+  },
+  {
+    "french": "le déjeuner",
+    "english": "lunch"
+  },
+  {
+    "french": "le dîner",
+    "english": "dinner"
+  },
+  {
+    "french": "le souper",
+    "english": "supper"
+  },
+  {
+    "french": "le goûter",
+    "english": "snack"
+  },
+  {
+    "french": "la Préparation",
+    "english": "Preparation"
+  },
+  {
+    "french": "cru(e)",
+    "english": "raw"
+  },
+  {
+    "french": "cuit(e)",
+    "english": "cooked"
+  },
+  {
+    "french": "cuit(e) au four",
+    "english": "baked"
+  },
+  {
+    "french": "frit(e)",
+    "english": "fried"
+  },
+  {
+    "french": "cuit(e) à la vapeur",
+    "english": "steamed"
+  },
+  {
+    "french": "rôti",
+    "english": "roasted"
+  },
+  {
+    "french": "grillé(e)",
+    "english": "grilled"
+  },
+  {
+    "french": "le Gout",
+    "english": "Taste"
+  },
+  {
+    "french": "amer (amère)",
+    "english": "bitter"
+  },
+  {
+    "french": "aigre",
+    "english": "sour"
+  },
+  {
+    "french": "sucré(e)",
+    "english": "sweet"
+  },
+  {
+    "french": "salé(e)",
+    "english": "salty"
+  },
+  {
+    "french": "épicé(e)",
+    "english": "spicy"
+  },
+  {
+    "french": "délicieux",
+    "english": "tasty, delicious"
+  },
+  {
+    "french": "les Produits (m) laitiers",
+    "english": "Dairy Products"
+  },
+  {
+    "french": "le lait",
+    "english": "milk"
+  },
+  {
+    "french": "...écrémé",
+    "english": "skim..."
+  },
+  {
+    "french": "...demi-écrémé",
+    "english": "2-percent..."
+  },
+  {
+    "french": "le beurre",
+    "english": "butter"
+  },
+  {
+    "french": "le fromage",
+    "english": "cheese"
+  },
+  {
+    "french": "la crème",
+    "english": "cream"
+  },
+  {
+    "french": "la crème fraîche",
+    "english": "sour cream"
+  },
+  {
+    "french": "le yaourt",
+    "english": "yogurt"
+  },
+  {
+    "french": "les Céréales (f)",
+    "english": "Grains"
+  },
+  {
+    "french": "la céréale",
+    "english": "cereal"
+  },
+  {
+    "french": "le pain",
+    "english": "bread"
+  },
+  {
+    "french": "...complet",
+    "english": "whole wheat"
+  },
+  {
+    "french": "...de seigle",
+    "english": "rye"
+  },
+  {
+    "french": "les Condiments (m)",
+    "english": "Condiments"
+  },
+  {
+    "french": "la sauce",
+    "english": "sauce"
+  },
+  {
+    "french": "l'épice (f)",
+    "english": "spice"
+  },
+  {
+    "french": "le vinaigre",
+    "english": "vinegar"
+  },
+  {
+    "french": "le sel",
+    "english": "salt"
+  },
+  {
+    "french": "le sucre",
+    "english": "sugar"
+  },
+  {
+    "french": "le poivre",
+    "english": "pepper (spice)"
+  },
+  {
+    "french": "l'ail (m)",
+    "english": "garlic"
+  },
+  {
+    "french": "l'huile (f) [d'olive]",
+    "english": "[olive] oil"
+  },
+  {
+    "french": "la mayonnaise",
+    "english": "mayonnaise"
+  },
+  {
+    "french": "la moutarde",
+    "english": "mustard"
+  },
+  {
+    "french": "la confiture",
+    "english": "jam"
+  },
+  {
+    "french": "les Desserts (m)",
+    "english": "Dessert"
+  },
+  {
+    "french": "le gâteau",
+    "english": "cake"
+  },
+  {
+    "french": "la glace",
+    "english": "ice cream"
+  },
+  {
+    "french": "le biscuit",
+    "english": "cookie"
+  },
+  {
+    "french": "la chantilly",
+    "english": "whipped cream"
+  },
+  {
+    "french": "le chocolat",
+    "english": "chocolate"
+  },
+  {
+    "french": "la crêpe [sucrée]",
+    "english": "[sweet] crepe"
+  },
+  {
+    "french": "les Casse-Croûtes",
+    "english": "Light Meals"
+  },
+  {
+    "french": "l'œuf (m)",
+    "english": "egg"
+  },
+  {
+    "french": "la salade",
+    "english": "salad"
+  },
+  {
+    "french": "l'assiette (f) de crudités (f)",
+    "english": "vegetable plate"
+  },
+  {
+    "french": "la vinaigrette",
+    "english": "dressing"
+  },
+  {
+    "french": "le sandwich",
+    "english": "sandwich"
+  },
+  {
+    "french": "la charcuterie",
+    "english": "cold cuts (deli)"
+  },
+  {
+    "french": "la Viande",
+    "english": "Meat"
+  },
+  {
+    "french": "le bœuf",
+    "english": "beef"
+  },
+  {
+    "french": "le jambon",
+    "english": "ham"
+  },
+  {
+    "french": "l'agneau (m)",
+    "english": "lamb"
+  },
+  {
+    "french": "le porc",
+    "english": "pork"
+  },
+  {
+    "french": "le veau",
+    "english": "veal"
+  },
+  {
+    "french": "les escargots (m)",
+    "english": "snails"
+  },
+  {
+    "french": "les Fruits (m) de mer",
+    "english": "Seafood"
+  },
+  {
+    "french": "le *homard",
+    "english": "lobster"
+  },
+  {
+    "french": "le crabe",
+    "english": "crab"
+  },
+  {
+    "french": "la crevette",
+    "english": "shrimp"
+  },
+  {
+    "french": "les crustacés (m)",
+    "english": "shellfish"
+  },
+  {
+    "french": "les moules (f)",
+    "english": "mussels"
+  },
+  {
+    "french": "le poisson",
+    "english": "fish"
+  },
+  {
+    "french": "le thon",
+    "english": "tuna(fish)"
+  },
+  {
+    "french": "le saumon",
+    "english": "salmon"
+  },
+  {
+    "french": "la Volaille",
+    "english": "Poultry"
+  },
+  {
+    "french": "le poulet",
+    "english": "chicken"
+  },
+  {
+    "french": "la dinde",
+    "english": "turkey"
+  },
+  {
+    "french": "le canard",
+    "english": "duck"
+  },
+  {
+    "french": "l'oie (f)",
+    "english": "goose"
+  },
+  {
+    "french": "le foie",
+    "english": "liver"
+  },
+  {
+    "french": "les Fruits (m)",
+    "english": "Fruit"
+  },
+  {
+    "french": "les fruits (m) secs",
+    "english": "dried fruit"
+  },
+  {
+    "french": "la pomme",
+    "english": "apple"
+  },
+  {
+    "french": "la banane",
+    "english": "banana"
+  },
+  {
+    "french": "le raisin",
+    "english": "grape"
+  },
+  {
+    "french": "le raisin sec",
+    "english": "raisin"
+  },
+  {
+    "french": "le pamplemousse",
+    "english": "grapefruit"
+  },
+  {
+    "french": "le citron",
+    "english": "lemon"
+  },
+  {
+    "french": "le melon",
+    "english": "melon"
+  },
+  {
+    "french": "l'orange (f)",
+    "english": "orange"
+  },
+  {
+    "french": "la pêche",
+    "english": "peach"
+  },
+  {
+    "french": "la poire",
+    "english": "pear"
+  },
+  {
+    "french": "la prune",
+    "english": "plum"
+  },
+  {
+    "french": "l'ananas (m)",
+    "english": "pineapple"
+  },
+  {
+    "french": "la pastèque",
+    "english": "watermelon"
+  },
+  {
+    "french": "les Baies (f)",
+    "english": "Berries"
+  },
+  {
+    "french": "le cassis",
+    "english": "blackcurrant"
+  },
+  {
+    "french": "l'airelle (f), la myrtille",
+    "english": "blueberry"
+  },
+  {
+    "french": "la cerise",
+    "english": "cherry"
+  },
+  {
+    "french": "la framboise",
+    "english": "raspberry"
+  },
+  {
+    "french": "la fraise",
+    "english": "strawberry"
+  },
+  {
+    "french": "les Légumes (m)",
+    "english": "Vegetables"
+  },
+  {
+    "french": "la pomme de terre",
+    "english": "potato"
+  },
+  {
+    "french": "la tomate",
+    "english": "tomato"
+  },
+  {
+    "french": "le concombre",
+    "english": "cucumber"
+  },
+  {
+    "french": "le poivron",
+    "english": "pepper (veg.)"
+  },
+  {
+    "french": "l'oignon (m)",
+    "english": "onion"
+  },
+  {
+    "french": "le poireau",
+    "english": "leek"
+  },
+  {
+    "french": "la carotte",
+    "english": "carrot"
+  },
+  {
+    "french": "la laitue",
+    "english": "lettuce"
+  },
+  {
+    "french": "le chou",
+    "english": "cabbage"
+  },
+  {
+    "french": "le chou-fleur",
+    "english": "cauliflower"
+  },
+  {
+    "french": "les épinards (m)",
+    "english": "spinach"
+  },
+  {
+    "french": "les *haricots [verts]",
+    "english": "[green] beans"
+  },
+  {
+    "french": "les petits pois",
+    "english": "peas"
+  },
+  {
+    "french": "le maïs",
+    "english": "corn"
+  },
+  {
+    "french": "l'aubergine (f)",
+    "english": "eggplant"
+  },
+  {
+    "french": "le champignon",
+    "english": "mushroom"
+  },
+  {
+    "french": "l'asperge (f)",
+    "english": "asparagus"
+  },
+  {
+    "french": "la noix",
+    "english": "nut, walnut"
+  },
+  {
+    "french": "la noisette",
+    "english": "hazelnut"
+  },
+  {
+    "french": "la cacahuète",
+    "english": "peanut"
+  },
+  {
+    "french": "les Boissons (f)",
+    "english": "Beverages"
+  },
+  {
+    "french": "le café",
+    "english": "coffee"
+  },
+  {
+    "french": "le thé",
+    "english": "tea"
+  },
+  {
+    "french": "avec du lait",
+    "english": "with milk"
+  },
+  {
+    "french": "la tisane, l'infusion (f)",
+    "english": "herbal tea"
+  },
+  {
+    "french": "le chocolat (chaud)",
+    "english": "hot chocolate"
+  },
+  {
+    "french": "le jus",
+    "english": "juice"
+  },
+  {
+    "french": "le jus d'orange",
+    "english": "orange juice"
+  },
+  {
+    "french": "le coca",
+    "english": "Coke"
+  },
+  {
+    "french": "l'eau (f)",
+    "english": "water"
+  },
+  {
+    "french": "les glaçons (m)",
+    "english": "ice cubes"
+  },
+  {
+    "french": "l'Alcool",
+    "english": "Alcohol"
+  },
+  {
+    "french": "le vin",
+    "english": "wine"
+  },
+  {
+    "french": "le cidre",
+    "english": "hard cider"
+  },
+  {
+    "french": "la bière",
+    "english": "beer"
+  },
+  {
+    "french": "...blonde",
+    "english": "light..."
+  },
+  {
+    "french": "...brune",
+    "english": "dark..."
+  },
+  {
+    "french": "ivre",
+    "english": "drunk"
+  },
+  {
+    "french": "les Ustensiles (m)",
+    "english": "Utensils"
+  },
+  {
+    "french": "le couteau",
+    "english": "knife"
+  },
+  {
+    "french": "la fourchette",
+    "english": "fork"
+  },
+  {
+    "french": "la cuillère",
+    "english": "spoon"
+  },
+  {
+    "french": "l'assiette (f)",
+    "english": "plate"
+  },
+  {
+    "french": "le bol",
+    "english": "bowl"
+  },
+  {
+    "french": "la tasse",
+    "english": "cup"
+  },
+  {
+    "french": "une tasse de thé",
+    "english": "a cup of tea"
+  },
+  {
+    "french": "le verre",
+    "english": "glass"
+  },
+  {
+    "french": "la serviette",
+    "english": "napkin"
+  },
+  {
+    "french": "la poêle à frire",
+    "english": "frying pan"
+  },
+  {
+    "french": "l'ouvre- bouteille (m)",
+    "english": "bottle opener"
+  },
+  {
+    "french": "le tire-bouchon",
+    "english": "corkscrew"
+  },
+  {
+    "french": "la cafetière",
+    "english": "coffee pot"
+  },
+  {
+    "french": "l'ouvre-boîte (m)",
+    "english": "can opener"
+  },
+  {
+    "french": "le Ménage",
+    "english": "Household"
+  },
+  {
+    "french": "la Maison",
+    "english": "House"
+  },
+  {
+    "french": "l'appartement (m)",
+    "english": "apartment"
+  },
+  {
+    "french": "l'immeuble (m)",
+    "english": "apartment building"
+  },
+  {
+    "french": "HLM (Habitation à Loyer Modéré)",
+    "english": "subsidized housing"
+  },
+  {
+    "french": "le jardin",
+    "english": "back yard, garden"
+  },
+  {
+    "french": "la pelouse",
+    "english": "lawn"
+  },
+  {
+    "french": "le garage",
+    "english": "garage"
+  },
+  {
+    "french": "le toit",
+    "english": "roof"
+  },
+  {
+    "french": "le mur",
+    "english": "wall"
+  },
+  {
+    "french": "le plancher",
+    "english": "floor"
+  },
+  {
+    "french": "le plafond",
+    "english": "ceiling"
+  },
+  {
+    "french": "la fenêtre",
+    "english": "window"
+  },
+  {
+    "french": "le balcon",
+    "english": "balcony"
+  },
+  {
+    "french": "l'étage (m)",
+    "english": "floor (level)"
+  },
+  {
+    "french": "le rez de chaussée",
+    "english": "ground fl."
+  },
+  {
+    "french": "le premier étage",
+    "english": "second fl."
+  },
+  {
+    "french": "le grenier",
+    "english": "attic"
+  },
+  {
+    "french": "le sous-sol",
+    "english": "basement"
+  },
+  {
+    "french": "l'escalier (m)",
+    "english": "stairs"
+  },
+  {
+    "french": "l'ascenseur (m)",
+    "english": "elevator"
+  },
+  {
+    "french": "la porte",
+    "english": "door"
+  },
+  {
+    "french": "la sonnette",
+    "english": "bell"
+  },
+  {
+    "french": "la clef, la clé",
+    "english": "key"
+  },
+  {
+    "french": "les Pièces (f) et le Mobilier",
+    "english": "Rooms and Furnishings"
+  },
+  {
+    "french": "les meubles (m)",
+    "english": "furniture"
+  },
+  {
+    "french": "le salon",
+    "english": "living room"
+  },
+  {
+    "french": "le canapé",
+    "english": "couch"
+  },
+  {
+    "french": "le fauteuil",
+    "english": "armchair"
+  },
+  {
+    "french": "le téléviseur",
+    "english": "TV (set)"
+  },
+  {
+    "french": "regarder la télé",
+    "english": "to watch TV"
+  },
+  {
+    "french": "l'étagère (f)",
+    "english": "shelf"
+  },
+  {
+    "french": "le rideau",
+    "english": "curtain"
+  },
+  {
+    "french": "le tapis",
+    "english": "rug"
+  },
+  {
+    "french": "l'horloge (f)",
+    "english": "clock"
+  },
+  {
+    "french": "la salle à manger",
+    "english": "dining room"
+  },
+  {
+    "french": "la table",
+    "english": "table"
+  },
+  {
+    "french": "la chaise",
+    "english": "chair"
+  },
+  {
+    "french": "la chambre",
+    "english": "bedroom"
+  },
+  {
+    "french": "le lit",
+    "english": "bed"
+  },
+  {
+    "french": "le matelas",
+    "english": "mattress"
+  },
+  {
+    "french": "le drap",
+    "english": "sheet"
+  },
+  {
+    "french": "la couverture",
+    "english": "blanket"
+  },
+  {
+    "french": "l'oreiller (m)",
+    "english": "pillow"
+  },
+  {
+    "french": "la commode",
+    "english": "dresser"
+  },
+  {
+    "french": "le tiroir",
+    "english": "drawer"
+  },
+  {
+    "french": "le miroir",
+    "english": "mirror"
+  },
+  {
+    "french": "l'armoire (f)",
+    "english": "closet"
+  },
+  {
+    "french": "la salle de bains",
+    "english": "bathroom"
+  },
+  {
+    "french": "la baignoire",
+    "english": "bathtub"
+  },
+  {
+    "french": "la douche",
+    "english": "shower"
+  },
+  {
+    "french": "les toilettes (f)",
+    "english": "toilet"
+  },
+  {
+    "french": "le lavabo",
+    "english": "sink"
+  },
+  {
+    "french": "la cuisine",
+    "english": "kitchen"
+  },
+  {
+    "french": "le frigo",
+    "english": "refrigerator"
+  },
+  {
+    "french": "le four",
+    "english": "oven"
+  },
+  {
+    "french": "le micro-ondes",
+    "english": "microwave"
+  },
+  {
+    "french": "le lave-vaisselle",
+    "english": "dishwasher"
+  },
+  {
+    "french": "le tabouret",
+    "english": "stool"
+  },
+  {
+    "french": "le placard",
+    "english": "linen closet"
+  },
+  {
+    "french": "l'aspirateur (m)",
+    "english": "vacuum"
+  },
+  {
+    "french": "le Téléphone",
+    "english": "Telephone"
+  },
+  {
+    "french": "l'appel (m) téléphonique",
+    "english": "phone call"
+  },
+  {
+    "french": "le numéro de téléphone",
+    "english": "phone number"
+  },
+  {
+    "french": "décrocher",
+    "english": "to pick up"
+  },
+  {
+    "french": "composer",
+    "english": "to dial"
+  },
+  {
+    "french": "accrocher",
+    "english": "to hang up"
+  },
+  {
+    "french": "le portable",
+    "english": "cell phone"
+  },
+  {
+    "french": "Dans la Vill",
+    "english": "Around Town"
+  },
+  {
+    "french": "l'adresse (f)",
+    "english": "address"
+  },
+  {
+    "french": "la rue",
+    "english": "street"
+  },
+  {
+    "french": "le centre-ville",
+    "english": "town center"
+  },
+  {
+    "french": "les Institutions Publiques (f)",
+    "english": "Public Institutions"
+  },
+  {
+    "french": "la poste",
+    "english": "post office"
+  },
+  {
+    "french": "le courrier",
+    "english": "mail"
+  },
+  {
+    "french": "la lettre",
+    "english": "letter"
+  },
+  {
+    "french": "envoyer",
+    "english": "to send"
+  },
+  {
+    "french": "le timbre",
+    "english": "stamp"
+  },
+  {
+    "french": "la mairie, l'hôtel de ville",
+    "english": "town hall"
+  },
+  {
+    "french": "l'hôpital (m)",
+    "english": "hospital"
+  },
+  {
+    "french": "l'église (f)",
+    "english": "church"
+  },
+  {
+    "french": "la bibliothèque",
+    "english": "library"
+  },
+  {
+    "french": "la piscine",
+    "english": "pool"
+  },
+  {
+    "french": "le parc",
+    "english": "park"
+  },
+  {
+    "french": "l'Argent (m)",
+    "english": "Money"
+  },
+  {
+    "french": "?a coûte combien? C'est combien?",
+    "english": "How much does it costي"
+  },
+  {
+    "french": "vendre",
+    "english": "to sell"
+  },
+  {
+    "french": "le prix",
+    "english": "price"
+  },
+  {
+    "french": "payer",
+    "english": "to pay"
+  },
+  {
+    "french": "en espèces (f)",
+    "english": "in cash"
+  },
+  {
+    "french": "par chèque (m)",
+    "english": "by check"
+  },
+  {
+    "french": "par carte (f) de crédit",
+    "english": "by credit card"
+  },
+  {
+    "french": "le reçu",
+    "english": "receipt"
+  },
+  {
+    "french": "la monnaie",
+    "english": "change (from a purchase)"
+  },
+  {
+    "french": "la caisse",
+    "english": "cash register"
+  },
+  {
+    "french": "la banque",
+    "english": "bank"
+  },
+  {
+    "french": "le distributeur",
+    "english": "ATM"
+  },
+  {
+    "french": "les Courses (f)",
+    "english": "Shopping"
+  },
+  {
+    "french": "faire les courses (f)",
+    "english": "to run errands, to go shopping"
+  },
+  {
+    "french": "le marché",
+    "english": "market"
+  },
+  {
+    "french": "le centre commercial",
+    "english": "mall"
+  },
+  {
+    "french": "le magasin",
+    "english": "store"
+  },
+  {
+    "french": "le grand magasin",
+    "english": "department store"
+  },
+  {
+    "french": "les soldes (m)",
+    "english": "sale"
+  },
+  {
+    "french": "la boulangerie",
+    "english": "bakery"
+  },
+  {
+    "french": "la librairie",
+    "english": "bookstore"
+  },
+  {
+    "french": "la boucherie",
+    "english": "butcher shop"
+  },
+  {
+    "french": "l'épicerie (f)",
+    "english": "grocery store"
+  },
+  {
+    "french": "le supermarché",
+    "english": "supermarket"
+  },
+  {
+    "french": "la laverie",
+    "english": "laundromat"
+  },
+  {
+    "french": "les Loisirs (m)",
+    "english": "Leisure"
+  },
+  {
+    "french": "le divertissement",
+    "english": "entertainment"
+  },
+  {
+    "french": "le passe-temps",
+    "english": "hobby"
+  },
+  {
+    "french": "le musée",
+    "english": "museum"
+  },
+  {
+    "french": "l'exposition (f)",
+    "english": "exhibition"
+  },
+  {
+    "french": "le spectacle",
+    "english": "show"
+  },
+  {
+    "french": "le concert",
+    "english": "concert"
+  },
+  {
+    "french": "le cinéma",
+    "english": "movie theater"
+  },
+  {
+    "french": "le film",
+    "english": "movie"
+  },
+  {
+    "french": "le théâtre",
+    "english": "theater"
+  },
+  {
+    "french": "la pièce",
+    "english": "play"
+  },
+  {
+    "french": "l'opéra (m)",
+    "english": "opera"
+  },
+  {
+    "french": "le cirque",
+    "english": "circus"
+  },
+  {
+    "french": "la représentation, la séance",
+    "english": "performance"
+  },
+  {
+    "french": "le bar",
+    "english": "bar, pub"
+  },
+  {
+    "french": "le club",
+    "english": "club"
+  },
+  {
+    "french": "la boîte (de nuit)",
+    "english": "nightclub"
+  },
+  {
+    "french": "aller en boîte",
+    "english": "to go clubbing"
+  },
+  {
+    "french": "la soirée, la fête",
+    "english": "party"
+  },
+  {
+    "french": "le Sport",
+    "english": "Sports"
+  },
+  {
+    "french": "faire du sport",
+    "english": "to play sports"
+  },
+  {
+    "french": "faire du tennis jouer au tennis",
+    "english": "to play tennis"
+  },
+  {
+    "french": "faire du ski",
+    "english": "to go skiing"
+  },
+  {
+    "french": "le base-ball",
+    "english": "baseball"
+  },
+  {
+    "french": "le basket",
+    "english": "basketball"
+  },
+  {
+    "french": "la danse",
+    "english": "dancing"
+  },
+  {
+    "french": "l'escrime (f)",
+    "english": "fencing"
+  },
+  {
+    "french": "le football américain",
+    "english": "football"
+  },
+  {
+    "french": "le hockey",
+    "english": "hockey"
+  },
+  {
+    "french": "monter à cheval",
+    "english": "to go horse-back riding"
+  },
+  {
+    "french": "le patin à glace",
+    "english": "ice skating"
+  },
+  {
+    "french": "patiner",
+    "english": "to skate"
+  },
+  {
+    "french": "la voile",
+    "english": "sailing"
+  },
+  {
+    "french": "le ski",
+    "english": "ski"
+  },
+  {
+    "french": "le foot",
+    "english": "soccer"
+  },
+  {
+    "french": "la natation",
+    "english": "swimming"
+  },
+  {
+    "french": "nager",
+    "english": "to swim"
+  },
+  {
+    "french": "le tennis",
+    "english": "tennis"
+  },
+  {
+    "french": "jouer...",
+    "english": "to play..."
+  },
+  {
+    "french": "aux cartes (f)",
+    "english": "cards"
+  },
+  {
+    "french": "aux dames (f)",
+    "english": "checkers"
+  },
+  {
+    "french": "aux échecs (m)",
+    "english": "chess"
+  },
+  {
+    "french": "au billiard",
+    "english": "pool"
+  },
+  {
+    "french": "la partie",
+    "english": "round, hand"
+  },
+  {
+    "french": "le jeu vidéo",
+    "english": "video game"
+  },
+  {
+    "french": "la Musique",
+    "english": "Music"
+  },
+  {
+    "french": "de la flûte",
+    "english": "the flute"
+  },
+  {
+    "french": "de la guitare",
+    "english": "the guitar"
+  },
+  {
+    "french": "du piano",
+    "english": "the piano"
+  },
+  {
+    "french": "du violon",
+    "english": "the violin"
+  },
+  {
+    "french": "l'Education (f)",
+    "english": "Education"
+  },
+  {
+    "french": "apprendre",
+    "english": "to learn"
+  },
+  {
+    "french": "étudier",
+    "english": "to study"
+  },
+  {
+    "french": "[à qqn]",
+    "english": "[smbdy]"
+  },
+  {
+    "french": "[de faire qqch]",
+    "english": "to teach [to do smth]"
+  },
+  {
+    "french": "enseigner",
+    "english": "to teach"
+  },
+  {
+    "french": "[qqch] [à qqn]",
+    "english": "[smbdy] [smth]"
+  },
+  {
+    "french": "l'?cole (f)",
+    "english": "School"
+  },
+  {
+    "french": "l'école (f) maternelle",
+    "english": "nursery school"
+  },
+  {
+    "french": "l'école (f) primaire",
+    "english": "elementary school"
+  },
+  {
+    "french": "le collège",
+    "english": "junior high school"
+  },
+  {
+    "french": "le lycée",
+    "english": "high school"
+  },
+  {
+    "french": "l'université (f)",
+    "english": "college, university"
+  },
+  {
+    "french": "la classe",
+    "english": "grade (level)"
+  },
+  {
+    "french": "la note",
+    "english": "grade (mark)"
+  },
+  {
+    "french": "le cours, la leçon",
+    "english": "class (lesson)"
+  },
+  {
+    "french": "la récréation, la récré",
+    "english": "recess"
+  },
+  {
+    "french": "la cantine",
+    "english": "cafeteria"
+  },
+  {
+    "french": "l'élève (m, f)",
+    "english": "pupil (through collège)"
+  },
+  {
+    "french": "le/la lycéen(ne)",
+    "english": "student (lycée)"
+  },
+  {
+    "french": "l'étudiant(e)",
+    "english": "student (university)"
+  },
+  {
+    "french": "le professeur, le prof",
+    "english": "teacher, professor"
+  },
+  {
+    "french": "l'instituteur (-trice)",
+    "english": "elementary school teacher"
+  },
+  {
+    "french": "le maître (la maîtresse)",
+    "english": "from pupil's perspective"
+  },
+  {
+    "french": "l'Année scolaire",
+    "english": "School Year"
+  },
+  {
+    "french": "les vacances (f)",
+    "english": "vacation"
+  },
+  {
+    "french": "les grandes vacances",
+    "english": "summer vacation"
+  },
+  {
+    "french": "le jour de congé",
+    "english": "day off"
+  },
+  {
+    "french": "la rentrée",
+    "english": "first day of school"
+  },
+  {
+    "french": "les Matières (f)",
+    "english": "Subjects"
+  },
+  {
+    "french": "la lecture",
+    "english": "reading"
+  },
+  {
+    "french": "l'écriture",
+    "english": "writing"
+  },
+  {
+    "french": "l'orthographe (f)",
+    "english": "spelling"
+  },
+  {
+    "french": "les maths (f. pl.)",
+    "english": "mathematics"
+  },
+  {
+    "french": "l'art (m)",
+    "english": "art"
+  },
+  {
+    "french": "les beaux-arts",
+    "english": "fine arts"
+  },
+  {
+    "french": "la musique",
+    "english": "music"
+  },
+  {
+    "french": "la géographie",
+    "english": "geography"
+  },
+  {
+    "french": "l'histoire (f)",
+    "english": "history"
+  },
+  {
+    "french": "la science",
+    "english": "science"
+  },
+  {
+    "french": "la biologie",
+    "english": "biology"
+  },
+  {
+    "french": "la chimie",
+    "english": "chemistry"
+  },
+  {
+    "french": "la physique",
+    "english": "physics"
+  },
+  {
+    "french": "l'informatique (f)",
+    "english": "computer science"
+  },
+  {
+    "french": "la science politique",
+    "english": "political science"
+  },
+  {
+    "french": "la (science) economique",
+    "english": "economics"
+  },
+  {
+    "french": "la philosophie",
+    "english": "philosophy"
+  },
+  {
+    "french": "la psychologie",
+    "english": "psychology"
+  },
+  {
+    "french": "la littérature",
+    "english": "literature"
+  },
+  {
+    "french": "la langue étrangère",
+    "english": "foreign language"
+  },
+  {
+    "french": "l'anglais (m)",
+    "english": "English"
+  },
+  {
+    "french": "le français",
+    "english": "French"
+  },
+  {
+    "french": "l'espagnol (m)",
+    "english": "Spanish"
+  },
+  {
+    "french": "l'italien (m)",
+    "english": "Italian"
+  },
+  {
+    "french": "l'allemand (m)",
+    "english": "German"
+  },
+  {
+    "french": "l'Attirail (m)",
+    "english": "School Supplies"
+  },
+  {
+    "french": "le classeur",
+    "english": "binder"
+  },
+  {
+    "french": "le carnet",
+    "english": "notebook"
+  },
+  {
+    "french": "le cahier",
+    "english": "workbook"
+  },
+  {
+    "french": "le livre",
+    "english": "book"
+  },
+  {
+    "french": "la colle",
+    "english": "glue"
+  },
+  {
+    "french": "le papier",
+    "english": "paper"
+  },
+  {
+    "french": "la feuille (de papier)",
+    "english": "sheet of paper"
+  },
+  {
+    "french": "le stylo",
+    "english": "pen"
+  },
+  {
+    "french": "le crayon",
+    "english": "pencil"
+  },
+  {
+    "french": "l'agrafeuse (f)",
+    "english": "stapler"
+  },
+  {
+    "french": "la craie",
+    "english": "chalk"
+  },
+  {
+    "french": "Dans la Salle de Classe",
+    "english": "In the Classroom"
+  },
+  {
+    "french": "la question",
+    "english": "question"
+  },
+  {
+    "french": "lever la main",
+    "english": "to raise (one's) hand"
+  },
+  {
+    "french": "la réponse",
+    "english": "answer"
+  },
+  {
+    "french": "l'exercice (m)",
+    "english": "exercise"
+  },
+  {
+    "french": "la rédaction, la composition",
+    "english": "essay"
+  },
+  {
+    "french": "les devoirs (m)",
+    "english": "homework"
+  },
+  {
+    "french": "faire les devoirs",
+    "english": "to do homework"
+  },
+  {
+    "french": "l'examen (m)",
+    "english": "test"
+  },
+  {
+    "french": "passer...",
+    "english": "to take a..."
+  },
+  {
+    "french": "réussir...",
+    "english": "to pass a..."
+  },
+  {
+    "french": "échouer...",
+    "english": "to fail a..."
+  },
+  {
+    "french": "le tableau (noir)",
+    "english": "chalkboard, blackboard"
+  },
+  {
+    "french": "effacer",
+    "english": "to erase"
+  },
+  {
+    "french": "le pupitre",
+    "english": "desk (pupil's)"
+  },
+  {
+    "french": "l'Université (f)",
+    "english": "University"
+  },
+  {
+    "french": "la faculté, la fac",
+    "english": "department"
+  },
+  {
+    "french": "la médecine",
+    "english": "medicine"
+  },
+  {
+    "french": "la faculté de médecine",
+    "english": "medical school"
+  },
+  {
+    "french": "le droit",
+    "english": "law"
+  },
+  {
+    "french": "le diplôme",
+    "english": "diploma"
+  },
+  {
+    "french": "être diplômé(e) en...",
+    "english": "to have a diploma in..."
+  },
+  {
+    "french": "la licence",
+    "english": "degree"
+  },
+  {
+    "french": "le/la licencié(e) ès lettres",
+    "english": "bachelor of arts (BA)"
+  },
+  {
+    "french": "le/la licencié(e) ès sciences",
+    "english": "bachelor of science (BS)"
+  },
+  {
+    "french": "la maîtrise",
+    "english": "master's degree"
+  },
+  {
+    "french": "Sur la Route",
+    "english": "On the Road"
+  },
+  {
+    "french": "conduire",
+    "english": "to drive"
+  },
+  {
+    "french": "le permis de conduire",
+    "english": "driver's license"
+  },
+  {
+    "french": "le chauffeur",
+    "english": "driver"
+  },
+  {
+    "french": "le passager (la passagère)",
+    "english": "passenger"
+  },
+  {
+    "french": "monter dans [la véhicule]",
+    "english": "to get into [the vehicle]"
+  },
+  {
+    "french": "descendre de",
+    "english": "to get out of (a vehicle)"
+  },
+  {
+    "french": "le piéton",
+    "english": "pedestrian"
+  },
+  {
+    "french": "la Voiture",
+    "english": "Car"
+  },
+  {
+    "french": "le vitre",
+    "english": "window (esp. windshield)"
+  },
+  {
+    "french": "la roue",
+    "english": "wheel (of car)"
+  },
+  {
+    "french": "le pneu",
+    "english": "tire"
+  },
+  {
+    "french": "le volant",
+    "english": "steering wheel"
+  },
+  {
+    "french": "la ceinture de sécurité",
+    "english": "seatbelt"
+  },
+  {
+    "french": "le phare",
+    "english": "headlight"
+  },
+  {
+    "french": "le clignotant",
+    "english": "turn signal"
+  },
+  {
+    "french": "l'essuie-glace (m)",
+    "english": "windshield wiper"
+  },
+  {
+    "french": "l'essence (f)",
+    "english": "gasoline"
+  },
+  {
+    "french": "la station-service",
+    "english": "gas station"
+  },
+  {
+    "french": "le moteur",
+    "english": "engine"
+  },
+  {
+    "french": "l'huile (f)",
+    "english": "oil"
+  },
+  {
+    "french": "la frêne",
+    "english": "brake"
+  },
+  {
+    "french": "la panne",
+    "english": "breakdown"
+  },
+  {
+    "french": "être en panne",
+    "english": "to be broken, not working"
+  },
+  {
+    "french": "Voyager",
+    "english": "Travel"
+  },
+  {
+    "french": "les vacances",
+    "english": "vacation"
+  },
+  {
+    "french": "aller en vacances",
+    "english": "to go on vacation"
+  },
+  {
+    "french": "voyage d'affaires",
+    "english": "business travel"
+  },
+  {
+    "french": "le voyage",
+    "english": "trip"
+  },
+  {
+    "french": "visiter [une endroit]",
+    "english": "to visit [a place]"
+  },
+  {
+    "french": "rendre visite [à quelqu'un]",
+    "english": "to visit [someone]"
+  },
+  {
+    "french": "le bagage (m)",
+    "english": "luggage"
+  },
+  {
+    "french": "la valise",
+    "english": "suitcase"
+  },
+  {
+    "french": "faire les valises",
+    "english": "to pack"
+  },
+  {
+    "french": "l'hôtel (m)",
+    "english": "hotel"
+  },
+  {
+    "french": "le séjour",
+    "english": "stay"
+  },
+  {
+    "french": "les renseignements (m)",
+    "english": "information"
+  },
+  {
+    "french": "le passeport",
+    "english": "passport"
+  },
+  {
+    "french": "le visa",
+    "english": "visa"
+  },
+  {
+    "french": "la douane",
+    "english": "customs"
+  },
+  {
+    "french": "le plan",
+    "english": "(city) map"
+  },
+  {
+    "french": "le Bus",
+    "english": "Bus"
+  },
+  {
+    "french": "le conducteur, le chauffeur",
+    "english": "bus driver"
+  },
+  {
+    "french": "la gare routière",
+    "english": "bus station"
+  },
+  {
+    "french": "l'arrêt",
+    "english": "[bus] stop"
+  },
+  {
+    "french": "la place",
+    "english": "seat"
+  },
+  {
+    "french": "le Train",
+    "english": "Train"
+  },
+  {
+    "french": "la gare",
+    "english": "station"
+  },
+  {
+    "french": "le guichet",
+    "english": "ticket window"
+  },
+  {
+    "french": "l'horaire (m)",
+    "english": "timetable"
+  },
+  {
+    "french": "le billet",
+    "english": "ticket"
+  },
+  {
+    "french": "l'aller simple",
+    "english": "one-way"
+  },
+  {
+    "french": "l'aller retour",
+    "english": "round trip"
+  },
+  {
+    "french": "le tarif",
+    "english": "(ticket) price"
+  },
+  {
+    "french": "le quai",
+    "english": "platform"
+  },
+  {
+    "french": "la voie",
+    "english": "track"
+  },
+  {
+    "french": "la sortie",
+    "english": "exit"
+  },
+  {
+    "french": "l'arrivée (f)",
+    "english": "arrival"
+  },
+  {
+    "french": "le départ",
+    "english": "departure"
+  },
+  {
+    "french": "le retard, le delai",
+    "english": "delay"
+  },
+  {
+    "french": "la couchette",
+    "english": "sleeper berth"
+  },
+  {
+    "french": "la correspondance",
+    "english": "connection"
+  },
+  {
+    "french": "l'Avion (m)",
+    "english": "Airplane"
+  },
+  {
+    "french": "l'aéroport (m)",
+    "english": "airport"
+  },
+  {
+    "french": "le vol",
+    "english": "flight"
+  },
+  {
+    "french": "le décollage",
+    "english": "takeoff"
+  },
+  {
+    "french": "l'atterrissage (m)",
+    "english": "landing"
+  },
+  {
+    "french": "Autres Véhicules (f)",
+    "english": "Other Vehicles"
+  },
+  {
+    "french": "le bateau",
+    "english": "boat"
+  },
+  {
+    "french": "le vélo, la bicyclette",
+    "english": "bike, bicycle"
+  },
+  {
+    "french": "la moto",
+    "english": "motorcycle"
+  },
+  {
+    "french": "le métro",
+    "english": "subway"
+  },
+  {
+    "french": "le jeton",
+    "english": "token"
+  },
+  {
+    "french": "le taxi",
+    "english": "taxi"
+  },
+  {
+    "french": "la Géographie",
+    "english": "Geography"
+  },
+  {
+    "french": "le pays",
+    "english": "country"
+  },
+  {
+    "french": "la ville",
+    "english": "city"
+  },
+  {
+    "french": "la campagne",
+    "english": "countryside"
+  },
+  {
+    "french": "l'île (f)",
+    "english": "island"
+  },
+  {
+    "french": "les Masses (f) d'eau",
+    "english": "Bodies of Water"
+  },
+  {
+    "french": "l'océan (m)",
+    "english": "ocean"
+  },
+  {
+    "french": "la mer",
+    "english": "sea"
+  },
+  {
+    "french": "le lac",
+    "english": "lake"
+  },
+  {
+    "french": "le fleuve",
+    "english": "river"
+  },
+  {
+    "french": "le ruisseau",
+    "english": "stream"
+  },
+  {
+    "french": "le marais",
+    "english": "marsh, swamp"
+  },
+  {
+    "french": "le Paysage",
+    "english": "Landscape"
+  },
+  {
+    "french": "la montagne",
+    "english": "mountain"
+  },
+  {
+    "french": "le rocher",
+    "english": "rock (boulder)"
+  },
+  {
+    "french": "la colline",
+    "english": "hill"
+  },
+  {
+    "french": "la vallée",
+    "english": "valley"
+  },
+  {
+    "french": "le champ",
+    "english": "field"
+  },
+  {
+    "french": "la forêt",
+    "english": "forest"
+  },
+  {
+    "french": "la fleur",
+    "english": "flower"
+  },
+  {
+    "french": "l'arbre (m)",
+    "english": "tree"
+  },
+  {
+    "french": "le désert",
+    "english": "desert"
+  },
+  {
+    "french": "les Continents (m)",
+    "english": "Continents"
+  },
+  {
+    "french": "l'Afrique (f)",
+    "english": "Africa"
+  },
+  {
+    "french": "l'Amérique (f)",
+    "english": "America"
+  },
+  {
+    "french": "...du Nord",
+    "english": "(North)"
+  },
+  {
+    "french": "...du Sud",
+    "english": "(South)"
+  },
+  {
+    "french": "l'Asie (f)",
+    "english": "Asia"
+  },
+  {
+    "french": "l'Australie (f)",
+    "english": "Australia"
+  },
+  {
+    "french": "l'Europe (f)",
+    "english": "Europe"
+  },
+  {
+    "french": "les Pays (m)",
+    "english": "Countries"
+  },
+  {
+    "french": "l'Algérie (f)",
+    "english": "Algeria"
+  },
+  {
+    "french": "la Belgique",
+    "english": "Belgium"
+  },
+  {
+    "french": "le Brésil",
+    "english": "Brazil"
+  },
+  {
+    "french": "le Canada",
+    "english": "Canada"
+  },
+  {
+    "french": "la Chine",
+    "english": "China"
+  },
+  {
+    "french": "l'?gypte (f)",
+    "english": "Egypt"
+  },
+  {
+    "french": "l'Angleterre (f)",
+    "english": "England"
+  },
+  {
+    "french": "la France",
+    "english": "France"
+  },
+  {
+    "french": "l'Allemagne (f)",
+    "english": "Germany"
+  },
+  {
+    "french": "la Grèce",
+    "english": "Greece"
+  },
+  {
+    "french": "l'Inde (f)",
+    "english": "India"
+  },
+  {
+    "french": "l'Irlande (f)",
+    "english": "Ireland"
+  },
+  {
+    "french": "l'Israël (m)",
+    "english": "Israel"
+  },
+  {
+    "french": "l'Italie (f)",
+    "english": "Italy"
+  },
+  {
+    "french": "le Japon",
+    "english": "Japan"
+  },
+  {
+    "french": "la Corée",
+    "english": "Korea"
+  },
+  {
+    "french": "le Mexique",
+    "english": "Mexico"
+  },
+  {
+    "french": "le Maroc",
+    "english": "Morocco"
+  },
+  {
+    "french": "les Hollandes (f)",
+    "english": "Netherlands"
+  },
+  {
+    "french": "la Russie",
+    "english": "Russia"
+  },
+  {
+    "french": "l'Espagne (f)",
+    "english": "Spain"
+  },
+  {
+    "french": "la Suisse",
+    "english": "Switzerland"
+  },
+  {
+    "french": "la Thaïlande",
+    "english": "Thailand"
+  },
+  {
+    "french": "la Tunisie",
+    "english": "Tunisia"
+  },
+  {
+    "french": "les ?tats-Unis (m)",
+    "english": "United States"
+  },
+  {
+    "french": "les Animaux (m)",
+    "english": "Animals"
+  },
+  {
+    "french": "la ferme",
+    "english": "farm"
+  },
+  {
+    "french": "le zoo",
+    "english": "zoo"
+  },
+  {
+    "french": "la bête",
+    "english": "beast"
+  },
+  {
+    "french": "la corne",
+    "english": "horn"
+  },
+  {
+    "french": "la patte",
+    "english": "paw"
+  },
+  {
+    "french": "la queue",
+    "english": "tail"
+  },
+  {
+    "french": "chasser",
+    "english": "to hunt"
+  },
+  {
+    "french": "les Animaux Domestiques",
+    "english": "Domestic Animals"
+  },
+  {
+    "french": "le chat (la chatte)",
+    "english": "cat"
+  },
+  {
+    "french": "le chien (la chienne)",
+    "english": "dog"
+  },
+  {
+    "french": "la poule",
+    "english": "hen"
+  },
+  {
+    "french": "le coq",
+    "english": "rooster"
+  },
+  {
+    "french": "la vache",
+    "english": "cow"
+  },
+  {
+    "french": "le taureau",
+    "english": "bull"
+  },
+  {
+    "french": "le cheval",
+    "english": "horse"
+  },
+  {
+    "french": "l'âne (m)",
+    "english": "donkey"
+  },
+  {
+    "french": "le mouton",
+    "english": "sheep"
+  },
+  {
+    "french": "le bélier",
+    "english": "ram"
+  },
+  {
+    "french": "la chèvre",
+    "english": "goat"
+  },
+  {
+    "french": "le cochon",
+    "english": "pig"
+  },
+  {
+    "french": "le porcelet",
+    "english": "piglet"
+  },
+  {
+    "french": "les Animaux Sauvages",
+    "english": "Wild Animals"
+  },
+  {
+    "french": "le renard",
+    "english": "fox"
+  },
+  {
+    "french": "le loup",
+    "english": "wolf"
+  },
+  {
+    "french": "le cerf",
+    "english": "deer"
+  },
+  {
+    "french": "le lion",
+    "english": "lion"
+  },
+  {
+    "french": "le tigre",
+    "english": "tiger"
+  },
+  {
+    "french": "l'ours (m)",
+    "english": "bear"
+  },
+  {
+    "french": "le sanglier",
+    "english": "wild boar"
+  },
+  {
+    "french": "l'éléphant (m)",
+    "english": "elephant"
+  },
+  {
+    "french": "le chameau",
+    "english": "camel"
+  },
+  {
+    "french": "la girafe",
+    "english": "giraffe"
+  },
+  {
+    "french": "le zèbre",
+    "english": "zebra"
+  },
+  {
+    "french": "le singe",
+    "english": "monkey"
+  },
+  {
+    "french": "la souris",
+    "english": "mouse"
+  },
+  {
+    "french": "le rat",
+    "english": "rat"
+  },
+  {
+    "french": "le lapin",
+    "english": "rabbit"
+  },
+  {
+    "french": "l'écureuil (m)",
+    "english": "squirrel"
+  },
+  {
+    "french": "la grenouille",
+    "english": "frog"
+  },
+  {
+    "french": "la tortue",
+    "english": "turtle"
+  },
+  {
+    "french": "le lézard",
+    "english": "lizard"
+  },
+  {
+    "french": "le serpent",
+    "english": "snake"
+  },
+  {
+    "french": "le ver (de terre)",
+    "english": "worm"
+  },
+  {
+    "french": "la Vie Aquatique",
+    "english": "Marine Life"
+  },
+  {
+    "french": "le requin",
+    "english": "shark"
+  },
+  {
+    "french": "la baleine",
+    "english": "whale"
+  },
+  {
+    "french": "le dauphin",
+    "english": "dolphin"
+  },
+  {
+    "french": "la méduse",
+    "english": "jellyfish"
+  },
+  {
+    "french": "la pieuvre",
+    "english": "octopus"
+  },
+  {
+    "french": "le calmar",
+    "english": "squid"
+  },
+  {
+    "french": "les Oiseaux (m)",
+    "english": "Birds"
+  },
+  {
+    "french": "le nid",
+    "english": "nest"
+  },
+  {
+    "french": "l'aile (f)",
+    "english": "wing"
+  },
+  {
+    "french": "l'aigle (m)",
+    "english": "eagle"
+  },
+  {
+    "french": "le faucon",
+    "english": "hawk"
+  },
+  {
+    "french": "la colombe",
+    "english": "dove"
+  },
+  {
+    "french": "le pigeon",
+    "english": "pigeon"
+  },
+  {
+    "french": "le moineau",
+    "english": "sparrow"
+  },
+  {
+    "french": "le corbeau",
+    "english": "crow"
+  },
+  {
+    "french": "le perroquet",
+    "english": "parrot"
+  },
+  {
+    "french": "la cigogne",
+    "english": "stork"
+  },
+  {
+    "french": "le *hibou",
+    "english": "owl"
+  },
+  {
+    "french": "le rossignol",
+    "english": "nightingale"
+  },
+  {
+    "french": "le paon",
+    "english": "peacock"
+  },
+  {
+    "french": "le cygne",
+    "english": "swan"
+  },
+  {
+    "french": "les Insectes (m)",
+    "english": "Insects"
+  },
+  {
+    "french": "la fourmi",
+    "english": "ant"
+  },
+  {
+    "french": "l'abeille (f)",
+    "english": "bee"
+  },
+  {
+    "french": "le papillon",
+    "english": "butterfly"
+  },
+  {
+    "french": "le cafard",
+    "english": "cockroach"
+  },
+  {
+    "french": "la mouche",
+    "english": "fly"
+  },
+  {
+    "french": "le moustique",
+    "english": "mosquito"
+  },
+  {
+    "french": "l'araignée (f)",
+    "english": "spider"
+  },
+  {
+    "french": "les Adverbes et les Prépositions (f)",
+    "english": "Adverbs and Prepositions"
+  },
+  {
+    "french": "presque",
+    "english": "almost"
+  },
+  {
+    "french": "peut-être",
+    "english": "maybe"
+  },
+  {
+    "french": "seulement",
+    "english": "only"
+  },
+  {
+    "french": "très",
+    "english": "very"
+  },
+  {
+    "french": "loin",
+    "english": "far"
+  },
+  {
+    "french": "près",
+    "english": "near, close"
+  },
+  {
+    "french": "à côté de",
+    "english": "next to"
+  },
+  {
+    "french": "en face de",
+    "english": "across from"
+  },
+  {
+    "french": "derrière",
+    "english": "behind"
+  },
+  {
+    "french": "devant",
+    "english": "in front of"
+  },
+  {
+    "french": "entre",
+    "english": "between"
+  },
+  {
+    "french": "au-dessus de",
+    "english": "above"
+  },
+  {
+    "french": "au-dessous de",
+    "english": "below"
+  },
+  {
+    "french": "dedans",
+    "english": "inside"
+  },
+  {
+    "french": "à l'intérieur de",
+    "english": "...of"
+  },
+  {
+    "french": "dehors",
+    "english": "outside"
+  },
+  {
+    "french": "à l'extérieur de",
+    "english": "...of"
+  },
+  {
+    "french": "ici",
+    "english": "here"
+  },
+  {
+    "french": "là",
+    "english": "there"
+  },
+  {
+    "french": "là-bas",
+    "english": "over there"
+  },
+  {
+    "french": "après",
+    "english": "after"
+  },
+  {
+    "french": "avant",
+    "english": "before"
+  },
+  {
+    "french": "encore",
+    "english": "again"
+  },
+  {
+    "french": "pas encore",
+    "english": "not yet"
+  },
+  {
+    "french": "tôt",
+    "english": "early"
+  },
+  {
+    "french": "tard",
+    "english": "late"
+  },
+  {
+    "french": "à l'heure",
+    "english": "on time"
+  },
+  {
+    "french": "maintenant",
+    "english": "now"
+  },
+  {
+    "french": "déjà",
+    "english": "already"
+  },
+  {
+    "french": "jamais",
+    "english": "never"
+  },
+  {
+    "french": "une fois",
+    "english": "once"
+  },
+  {
+    "french": "de temps en temps",
+    "english": "from time to time"
+  },
+  {
+    "french": "quelquefois",
+    "english": "sometimes"
+  },
+  {
+    "french": "souvent",
+    "english": "often"
+  },
+  {
+    "french": "toujours",
+    "english": "always"
+  },
+  {
+    "french": "bien",
+    "english": "well"
+  },
+  {
+    "french": "mal",
+    "english": "badly"
+  },
+  {
+    "french": "mieux",
+    "english": "better"
+  },
+  {
+    "french": "pire",
+    "english": "worse"
+  },
+  {
+    "french": "assez",
+    "english": "enough"
+  },
+  {
+    "french": "pas assez",
+    "english": "not enough"
+  },
+  {
+    "french": "plus, davantage",
+    "english": "more"
+  },
+  {
+    "french": "moins",
+    "english": "less"
+  },
+  {
+    "french": "beaucoup",
+    "english": "much"
+  },
+  {
+    "french": "peu",
+    "english": "little"
+  },
+  {
+    "french": "aussi... [que]",
+    "english": "as... [as]"
+  }
+]
