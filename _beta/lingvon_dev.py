@@ -1,5 +1,3 @@
-#520354923:AAELKZSqpPiNuGQBg5tPsFBH4_8m1Y_EE6Y
-
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import telegram
 import logging
@@ -38,7 +36,7 @@ def setRange(level):
 streaks = 0
 
 #INTIALIZE BOT
-updater = Updater(token='520354923:AAELKZSqpPiNuGQBg5tPsFBH4_8m1Y_EE6Y')
+updater = Updater(token='609569578:AAELG9EulmmOJTYY8L1zgM7Oqcuf9Q3bHAc')
 dispatcher = updater.dispatcher
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
@@ -155,71 +153,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-
-'''#606030525:AAEFUVRaI5LoaezwwS1YV_CazXPoJS-k4Bk
-
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
-import logging
-import requests
-from pprint import pprint
-
-weather_token = '99c6f94afac6ff2e3b407e029c8de3a7'
-
-updater = Updater(token='606030525:AAEFUVRaI5LoaezwwS1YV_CazXPoJS-k4Bk')
-
-dispatcher = updater.dispatcher
-
-logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
-
-def getCelsius(kelvin):
-    result = kelvin - 273.15
-    return result
-
-def start(bot, update):
-    bot.send_message(chat_id=update.message.chat_id, text="I'm tyrone, lemme tell you the weather?")
-    bot.send_message(chat_id=update.message.chat_id, text="where is you at?")
-
-def tim(bot, update):
-    bot.send_message(chat_id=update.message.chat_id, text="I'm tim!")
-
-def bot_main(bot, update):
-    raw_user_input = update.message.text
-    userInput = raw_user_input.split()
-    print(userInput)
-
-    msg = "default"
-
-    if(userInput[0] == 'weather'):
-        if(len(userInput) > 1):
-            r = requests.get('http://api.openweathermap.org/data/2.5/weather?q='+ userInput[1] + '&APPID='+ weather_token)
-
-            weather_info = r.json()
-            print(weather_info)
-
-            if(weather_info['cod'] == 200):
-                kelvin_temp = weather_info['main']['temp']
-                celsius = getCelsius(kelvin_temp)
-                msg = "about " + str(round(celsius)) + "°C"
-            else:
-                msg = "there ain't no city like that you dumbass"
-    else:
-        msg = userInput
-        
-    bot.send_message(chat_id=update.message.chat_id, text=str(msg))
-
-def main():
-    start_handler = CommandHandler('start', start)
-    input_handler = MessageHandler(Filters.text, bot_main)
-    
-    dp = updater.dispatcher
-
-    dp.add_handler(start_handler)
-    dp.add_handler(input_handler)
-
-    updater.start_polling()
-
-    updater.idle()
-
-
-if __name__ == '__main__':
-    main()'''
