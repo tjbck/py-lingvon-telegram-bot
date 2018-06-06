@@ -15,6 +15,9 @@ onGoing = False
 
 #INTIALIZE CORPUS DATA
 
+r = urlopen('http://122.32.167.22/lingvon/5000s')
+s_corpus_data = eval(r.read())
+
 r = urlopen('http://122.32.167.22/lingvon/5000')
 corpus_data = eval(r.read())
 
@@ -77,7 +80,7 @@ def start(bot, update):
 
 def bot_help(bot, update):
     bot.send_message(chat_id=update.message.chat_id, text="✔ type 'data' to change corpus data ✔")
-    bot.send_message(chat_id=update.message.chat_id, text="✔ list : 1300,3500s,5000,5000s,9000,drew,duo ✔")
+    bot.send_message(chat_id=update.message.chat_id, text="✔ list : 1300,5000,9000,drew,duo ✔")
     bot.send_message(chat_id=update.message.chat_id, text="✔ i.e) 'data 5000s' ✔")
     bot.send_message(chat_id=update.message.chat_id, text="✔ type 'level' to set level ✔")
     bot.send_message(chat_id=update.message.chat_id, text="✔ type 'lookup' to retrive word data ✔")
@@ -111,7 +114,7 @@ def bot_main(bot, update):
     elif(userInput[0] == "lookup"):
         word_number = int(userInput[1])
         word = getWordData(word_number)
-        msg = ("🌐 WORD DATA 🌐\nFRA) " + str(word['french']) + " ENG) " + str(word['english']) + "")
+        msg = ("🌐 WORD DATA 🌐\nFRA) " + str(word['french']) + " \nENG) " + str(word['english']) + "")
         bot.send_message(chat_id=update.message.chat_id, text=msg)
 
     elif(userInput[0] == "data"):
@@ -135,7 +138,15 @@ def bot_main(bot, update):
             if(str(userInput) == str(words[str(answer_number)]['english']).lower()):
                 streaks = streaks + 1
                 eval(showTyping())
-                bot.send_message(chat_id=update.message.chat_id, text=str("👍 CORRECT 👍"))
+                sentence_dict = {
+                    "french" :"Sorry, No Data Available",
+                    "english" :"Sorry, No Data Available"
+                    }
+                for s in s_corpus_data:
+                    if(str(words[str(answer_number)]['french']) in s['french'].split()):
+                        sentence_dict = s
+                msg = "👍 CORRECT 👍\n\n" + "👇 EXAMPLE SENTENCE 👇\n" + "FR) \"" + sentence_dict['french'] + "\"\nEN) \"" + sentence_dict['english'] + "\""
+                bot.send_message(chat_id=update.message.chat_id, text=str(msg))      
                 onGoing = False
             else:
                 bot.send_message(chat_id=update.message.chat_id, text=str("😓 WRONG 😓"))
@@ -150,14 +161,12 @@ def bot_main(bot, update):
             words = getWordSets(4)
             answer_number = random.randint(1,4)
 
-
-            bot.send_message(chat_id=update.message.chat_id, text=("STREAK(S) : " + str(streaks) + "\n"))
-            msg = "#" + str(words[str(answer_number)]['number']) + " * LVL. " + str(level) + " FRA) WORD *\n\"" + words[str(answer_number)]['french'] + "\""
+            msg = "🔥 <i>STREAK(S) : " + str(streaks) + "</i> 🔥\n" + "#" + str(words[str(answer_number)]['number']) + " * LVL. " + str(level) + "*\n<b>\"" + words[str(answer_number)]['french'] + "\"</b>"
             
 
             custom_keyboard = [[words["1"]['english'], words["2"]['english']],[words["3"]['english'], words["4"]['english']]]
             reply_markup = telegram.ReplyKeyboardMarkup(custom_keyboard)
-            bot.send_message(chat_id=update.message.chat_id, text=msg , reply_markup=reply_markup, timeout=30)
+            bot.send_message(chat_id=update.message.chat_id, text=msg , parse_mode=telegram.ParseMode.HTML, reply_markup=reply_markup, timeout=30)
 
         
             
