@@ -18,10 +18,12 @@ onGoing = False
 with open('./lingvon/5000s.json', encoding="utf-8") as f:
     read_data = f.read()
 s_corpus_data = eval(read_data)
+f.close()
 
 with open('./lingvon/5000.json', encoding="utf-8") as f:
     read_data = f.read()
 corpus_data = eval(read_data)
+f.close()
 
 min_number = 0
 max_number = len(corpus_data)
