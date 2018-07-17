@@ -1,4 +1,10 @@
-import csv
+with open('./lingvon/5000s.json', encoding="utf-8") as f:
+    read_data = f.read()
+print(read_data)
+s_corpus_data = eval(read_data)
+
+
+'''import csv
 data = []
 with open('_beta/data/s.csv', 'r') as f:
     reader = csv.reader(f)
@@ -14,7 +20,7 @@ with open('_beta/data/m.csv','w') as file:
 
 for row in data:
     print(row)
-'''import random
+import random
 import json
 from urllib.request import urlopen
 

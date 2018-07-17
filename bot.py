@@ -15,11 +15,13 @@ onGoing = False
 
 #INTIALIZE CORPUS DATA
 
-r = urlopen('http://122.32.167.22/lingvon/5000s')
-s_corpus_data = eval(r.read())
+with open('./lingvon/5000s.json', encoding="utf-8") as f:
+    read_data = f.read()
+s_corpus_data = eval(read_data)
 
-r = urlopen('http://122.32.167.22/lingvon/5000')
-corpus_data = eval(r.read())
+with open('./lingvon/5000.json', encoding="utf-8") as f:
+    read_data = f.read()
+corpus_data = eval(read_data)
 
 min_number = 0
 max_number = len(corpus_data)
